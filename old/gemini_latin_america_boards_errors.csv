@@ -1,0 +1,36 @@
+country,central_bank_name,error,raw_response_excerpt
+Bolivia,Central Bank of Bolivia,"Expecting ',' delimiter: line 22 column 6 (char 436)","{
+  ""current"": [
+    {
+      ""name"": ""Edwin Rojas Ulo"",
+      ""role"": ""Presidente"",
+      ""period"": ""Current""
+    },
+    {
+      ""name"": ""Gabriel Herbas Camacho"",
+      ""role"": ""Vicepresidente"",
+      ""period"": ""Current""
+    },
+    {
+      ""name"": ""Roger Edwin López García"",
+      ""role"": ""Director"",
+      ""period"": ""Current""
+    },
+    {
+      ""name"": ""Armando Pinell Siles"",
+      ""role"": ""Director"",
+      ""period"": ""Current""
+    },
+    {
+      ""name"
+Dominican Republic,Central Bank of the Dominican Republic,503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent,
+El Salvador,Central Reserve Bank of El Salvador,503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent,
+Guatemala,Bank of Guatemala,429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent,
+Haiti,Bank of the Republic of Haiti,429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent,
+Honduras,Central Bank of Honduras,429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent,
+Mexico,Bank of Mexico,429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent,
+Nicaragua,Central Bank of Nicaragua,429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent,
+Paraguay,Central Bank of Paraguay,503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent,
+Peru,Central Reserve Bank of Peru,503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent,
+Uruguay,Central Bank of Uruguay,429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent,
+Venezuela,Central Bank of Venezuela,429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent,
