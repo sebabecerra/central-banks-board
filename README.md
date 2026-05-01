@@ -45,6 +45,36 @@ En otras palabras:
 - **sí** existe una salida final utilizable
 - **no** se puede decir todavía que el archivo final cubre perfectamente todas las personas de la base original
 
+## Relación Con El Requerimiento Del Mail
+
+Este repositorio **sí responde al requerimiento del mail en estructura y proceso**, pero **todavía no lo cumple completamente en cobertura final**.
+
+### Qué Ya Está Resuelto
+
+- existe una base de entrada identificada y versionada:
+  [Bios_WebScrapping.xlsx](CM/data/Bios_WebScrapping.xlsx)
+- existe un pipeline reproducible para buscar personas en Wikipedia y complementar con Wikidata
+- existe una etapa de limpieza para dejar el archivo en formato de entrega
+- existe un archivo final con las columnas pedidas:
+  [Bios_WebScrapping_enriched.csv](CM/data/Bios_WebScrapping_enriched.csv)
+- existe un archivo de auditoría para revisar matches dudosos:
+  [bios_webscrapping_wikipedia_enriched_audit.csv](CM/data-aux/bios_webscrapping_wikipedia_enriched_audit.csv)
+
+### Qué Sigue Pendiente
+
+- aumentar la cobertura sobre el universo completo de personas
+- seguir validando matches donde el nombre no permite una identificación suficientemente confiable
+- revisar manualmente parte de los casos ambiguos
+- completar más corridas del scraping, que hoy sigue siendo lento por restricciones de Wikipedia y Wikidata
+
+### Lectura Correcta Del Estado Actual
+
+La lectura correcta hoy es:
+
+- el repositorio **ya implementa la solución**
+- el repositorio **ya produce una salida de entrega**
+- pero el resultado actual debe entenderse como una **versión parcial y en validación**, no como una base final completamente cerrada para todo el universo del mail
+
 ## Objetivo Principal
 
 La base de trabajo es:
