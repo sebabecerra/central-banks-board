@@ -479,6 +479,7 @@ def build_final_output(df):
                 "position",
                 "start_year",
                 "end_year",
+                "source_dataset",
                 "source_method",
                 "source_page",
                 "source_detail",
@@ -490,6 +491,7 @@ def build_final_output(df):
     final_df["position"] = final_df["Position"].apply(normalize_position)
     final_df["start_year"] = ""
     final_df["end_year"] = ""
+    final_df["source_dataset"] = "categories"
     final_df["source_method"] = "wikipedia_categories"
     final_df["source_page"] = final_df["category_url"]
     final_df["source_detail"] = final_df["category_name"]
@@ -502,6 +504,7 @@ def build_final_output(df):
             "position",
             "start_year",
             "end_year",
+            "source_dataset",
             "source_method",
             "source_page",
             "source_detail",

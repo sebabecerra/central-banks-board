@@ -509,6 +509,7 @@ def build_final_output(long_df):
                 "position",
                 "start_year",
                 "end_year",
+                "source_dataset",
                 "source_method",
                 "source_page",
                 "source_detail",
@@ -519,6 +520,7 @@ def build_final_output(long_df):
     final_df["central_bank_name"] = final_df["central_bank"]
     final_df["name"] = final_df["wiki_name"]
     final_df["position"] = final_df["cargo"].apply(normalize_position)
+    final_df["source_dataset"] = "banks"
     final_df["source_method"] = "bank_page_tables_and_infobox"
     final_df["source_page"] = final_df["wikipedia_bank_url"]
     final_df["source_detail"] = final_df["source_label"]
@@ -531,6 +533,7 @@ def build_final_output(long_df):
             "position",
             "start_year",
             "end_year",
+            "source_dataset",
             "source_method",
             "source_page",
             "source_detail",
