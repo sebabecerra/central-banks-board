@@ -1,0 +1,59 @@
+name: Deploy Map App to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "CM/map-app/**"
+      - ".github/workflows/deploy-map-app.yml"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: CM/map-app/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: CM/map-app
+
+      - name: Build app
+        run: npm run build
+        working-directory: CM/map-app
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: CM/map-app/dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

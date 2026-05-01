@@ -2,6 +2,8 @@ import { useEffect, useMemo, useState } from "react";
 import { ComposableMap, Geographies, Geography } from "react-simple-maps";
 
 const geographyUrl = "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
+const dataUrl = `${import.meta.env.BASE_URL}governors_by_country.json`;
+const csvUrl = `${import.meta.env.BASE_URL}kof_governors_with_sources.csv`;
 const defaultPanel = {
   iso3: "",
   country: "Select a country",
@@ -19,7 +21,7 @@ function App() {
   const [hovered, setHovered] = useState(null);
 
   useEffect(() => {
-    fetch("/governors_by_country.json")
+    fetch(dataUrl)
       .then((res) => res.json())
       .then((data) => {
         const countries = data.countries || {};
@@ -63,7 +65,7 @@ function App() {
           </p>
         </div>
         <div className="hero-actions">
-          <a className="action-button primary" href="/kof_governors_with_sources.csv" download>
+          <a className="action-button primary" href={csvUrl} download>
             Download CSV
           </a>
           <a

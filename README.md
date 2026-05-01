@@ -155,3 +155,13 @@ Además del flujo principal de Bios, el repositorio conserva:
 
 - pipelines para construir bases de autoridades de bancos centrales desde Wikipedia y KOF
 - una app visual de mapa en [CM/map-app](CM/map-app)
+
+## GitHub Pages
+
+La app de mapa en [CM/map-app](CM/map-app) quedó preparada para desplegarse en GitHub Pages mediante:
+
+- [.github/workflows/deploy-map-app.yml](.github/workflows/deploy-map-app.yml)
+
+Cuando GitHub Pages esté habilitado en el repositorio, la app debería publicarse en una URL de este tipo:
+
+- `https://sebabecerra.github.io/central-banks-board/`
