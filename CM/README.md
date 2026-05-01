@@ -17,30 +17,30 @@ Aquí conviven dos familias de trabajo:
 
 ### Bases de autoridades de bancos centrales
 
-- [extract_central_banks_from_wikipedia.py](/Users/sbc/projects/central-banks-board/CM/code/extract_central_banks_from_wikipedia.py)
-- [extract_central_bankers_from_categories.py](/Users/sbc/projects/central-banks-board/CM/code/extract_central_bankers_from_categories.py)
-- [process_kof_governors_with_sources.py](/Users/sbc/projects/central-banks-board/CM/code/process_kof_governors_with_sources.py)
-- [kof_source_maps.py](/Users/sbc/projects/central-banks-board/CM/code/kof_source_maps.py)
-- [combine_final_long_datasets.py](/Users/sbc/projects/central-banks-board/CM/code/combine_final_long_datasets.py)
-- [find_possible_name_duplicates.py](/Users/sbc/projects/central-banks-board/CM/code/find_possible_name_duplicates.py)
-- [build_all_final_datasets.py](/Users/sbc/projects/central-banks-board/CM/code/build_all_final_datasets.py)
+- [extract_central_banks_from_wikipedia.py](code/extract_central_banks_from_wikipedia.py)
+- [extract_central_bankers_from_categories.py](code/extract_central_bankers_from_categories.py)
+- [process_kof_governors_with_sources.py](code/process_kof_governors_with_sources.py)
+- [kof_source_maps.py](code/kof_source_maps.py)
+- [combine_final_long_datasets.py](code/combine_final_long_datasets.py)
+- [find_possible_name_duplicates.py](code/find_possible_name_duplicates.py)
+- [build_all_final_datasets.py](code/build_all_final_datasets.py)
 
 ### Enriquecimiento de Bios
 
-- [enrich_bios_webscrapping_from_wikipedia.py](/Users/sbc/projects/central-banks-board/CM/code/enrich_bios_webscrapping_from_wikipedia.py)
-- [clean_bios_webscrapping_delivery.py](/Users/sbc/projects/central-banks-board/CM/code/clean_bios_webscrapping_delivery.py)
+- [enrich_bios_webscrapping_from_wikipedia.py](code/enrich_bios_webscrapping_from_wikipedia.py)
+- [clean_bios_webscrapping_delivery.py](code/clean_bios_webscrapping_delivery.py)
 
 ## Final Datasets De Autoridades
 
 Las tres bases finales que hoy se producen con esquema común son:
 
-- [central_bank_people_from_banks_long.csv](/Users/sbc/projects/central-banks-board/CM/data/central_bank_people_from_banks_long.csv)
-- [central_bank_people_from_categories_long.csv](/Users/sbc/projects/central-banks-board/CM/data/central_bank_people_from_categories_long.csv)
-- [kof_governors_with_sources.csv](/Users/sbc/projects/central-banks-board/CM/data/kof_governors_with_sources.csv)
+- [central_bank_people_from_banks_long.csv](data/central_bank_people_from_banks_long.csv)
+- [central_bank_people_from_categories_long.csv](data/central_bank_people_from_categories_long.csv)
+- [kof_governors_with_sources.csv](data/kof_governors_with_sources.csv)
 
 Luego esas tres se combinan en:
 
-- [central_bank_people_combined_long.csv](/Users/sbc/projects/central-banks-board/CM/data/central_bank_people_combined_long.csv)
+- [central_bank_people_combined_long.csv](data/central_bank_people_combined_long.csv)
 
 ## Shared Final Schema
 
@@ -70,7 +70,7 @@ Las tres bases finales de autoridades salen con estas columnas:
 
 Script:
 
-- [extract_central_banks_from_wikipedia.py](/Users/sbc/projects/central-banks-board/CM/code/extract_central_banks_from_wikipedia.py)
+- [extract_central_banks_from_wikipedia.py](code/extract_central_banks_from_wikipedia.py)
 
 Fuente primaria:
 
@@ -88,20 +88,20 @@ Método:
 
 Salida final:
 
-- [central_bank_people_from_banks_long.csv](/Users/sbc/projects/central-banks-board/CM/data/central_bank_people_from_banks_long.csv)
+- [central_bank_people_from_banks_long.csv](data/central_bank_people_from_banks_long.csv)
 
 Salidas auxiliares:
 
-- [central_banks.csv](/Users/sbc/projects/central-banks-board/CM/data-aux/central_banks.csv)
-- [central_bank_governors.csv](/Users/sbc/projects/central-banks-board/CM/data-aux/central_bank_governors.csv)
-- [central_bank_governors_long.csv](/Users/sbc/projects/central-banks-board/CM/data-aux/central_bank_governors_long.csv)
-- [central_bank_governors_request_errors.csv](/Users/sbc/projects/central-banks-board/CM/data-aux/central_bank_governors_request_errors.csv)
+- [central_banks.csv](data-aux/central_banks.csv)
+- [central_bank_governors.csv](data-aux/central_bank_governors.csv)
+- [central_bank_governors_long.csv](data-aux/central_bank_governors_long.csv)
+- [central_bank_governors_request_errors.csv](data-aux/central_bank_governors_request_errors.csv)
 
 ### 2. Wikipedia Category Pages
 
 Script:
 
-- [extract_central_bankers_from_categories.py](/Users/sbc/projects/central-banks-board/CM/code/extract_central_bankers_from_categories.py)
+- [extract_central_bankers_from_categories.py](code/extract_central_bankers_from_categories.py)
 
 Fuente primaria:
 
@@ -119,20 +119,20 @@ Método:
 
 Salida final:
 
-- [central_bank_people_from_categories_long.csv](/Users/sbc/projects/central-banks-board/CM/data/central_bank_people_from_categories_long.csv)
+- [central_bank_people_from_categories_long.csv](data/central_bank_people_from_categories_long.csv)
 
 Salidas auxiliares:
 
-- [central_banks_from_categories_lookup.csv](/Users/sbc/projects/central-banks-board/CM/data-aux/central_banks_from_categories_lookup.csv)
-- [central_bankers_categories.csv](/Users/sbc/projects/central-banks-board/CM/data-aux/central_bankers_categories.csv)
-- [governors_clean_names.csv](/Users/sbc/projects/central-banks-board/CM/data-aux/governors_clean_names.csv)
+- [central_banks_from_categories_lookup.csv](data-aux/central_banks_from_categories_lookup.csv)
+- [central_bankers_categories.csv](data-aux/central_bankers_categories.csv)
+- [governors_clean_names.csv](data-aux/governors_clean_names.csv)
 
 ### 3. KOF Workbook
 
 Scripts:
 
-- [process_kof_governors_with_sources.py](/Users/sbc/projects/central-banks-board/CM/code/process_kof_governors_with_sources.py)
-- [kof_source_maps.py](/Users/sbc/projects/central-banks-board/CM/code/kof_source_maps.py)
+- [process_kof_governors_with_sources.py](code/process_kof_governors_with_sources.py)
+- [kof_source_maps.py](code/kof_source_maps.py)
 
 Fuente primaria:
 
@@ -150,17 +150,17 @@ Método:
 
 Salida final:
 
-- [kof_governors_with_sources.csv](/Users/sbc/projects/central-banks-board/CM/data/kof_governors_with_sources.csv)
+- [kof_governors_with_sources.csv](data/kof_governors_with_sources.csv)
 
 Salida auxiliar:
 
-- [kof_missing_source_url.csv](/Users/sbc/projects/central-banks-board/CM/data-aux/kof_missing_source_url.csv)
+- [kof_missing_source_url.csv](data-aux/kof_missing_source_url.csv)
 
 ## Combinación Y Dedupe
 
 Script:
 
-- [combine_final_long_datasets.py](/Users/sbc/projects/central-banks-board/CM/code/combine_final_long_datasets.py)
+- [combine_final_long_datasets.py](code/combine_final_long_datasets.py)
 
 Este script:
 
@@ -173,13 +173,13 @@ Este script:
 
 Salida:
 
-- [central_bank_people_combined_long.csv](/Users/sbc/projects/central-banks-board/CM/data/central_bank_people_combined_long.csv)
+- [central_bank_people_combined_long.csv](data/central_bank_people_combined_long.csv)
 
 ## Revisión De Duplicados Probables
 
 Script:
 
-- [find_possible_name_duplicates.py](/Users/sbc/projects/central-banks-board/CM/code/find_possible_name_duplicates.py)
+- [find_possible_name_duplicates.py](code/find_possible_name_duplicates.py)
 
 Uso:
 
@@ -194,14 +194,14 @@ Salida:
 
 Script:
 
-- [build_all_final_datasets.py](/Users/sbc/projects/central-banks-board/CM/code/build_all_final_datasets.py)
+- [build_all_final_datasets.py](code/build_all_final_datasets.py)
 
 Ejecuta en orden:
 
-1. [extract_central_banks_from_wikipedia.py](/Users/sbc/projects/central-banks-board/CM/code/extract_central_banks_from_wikipedia.py)
-2. [extract_central_bankers_from_categories.py](/Users/sbc/projects/central-banks-board/CM/code/extract_central_bankers_from_categories.py)
-3. [process_kof_governors_with_sources.py](/Users/sbc/projects/central-banks-board/CM/code/process_kof_governors_with_sources.py)
-4. [combine_final_long_datasets.py](/Users/sbc/projects/central-banks-board/CM/code/combine_final_long_datasets.py)
+1. [extract_central_banks_from_wikipedia.py](code/extract_central_banks_from_wikipedia.py)
+2. [extract_central_bankers_from_categories.py](code/extract_central_bankers_from_categories.py)
+3. [process_kof_governors_with_sources.py](code/process_kof_governors_with_sources.py)
+4. [combine_final_long_datasets.py](code/combine_final_long_datasets.py)
 
 ## Pipeline De Bios_WebScrapping
 
@@ -209,13 +209,13 @@ El trabajo de Bios es una línea aparte del pipeline de autoridades. Parte desde
 
 ### Input Principal
 
-- [Bios_WebScrapping.xlsx](/Users/sbc/projects/central-banks-board/CM/data/Bios_WebScrapping.xlsx)
+- [Bios_WebScrapping.xlsx](data/Bios_WebScrapping.xlsx)
 
 ### Etapa 1. Enriquecimiento Crudo Desde Wikipedia/Wikidata
 
 Script:
 
-- [enrich_bios_webscrapping_from_wikipedia.py](/Users/sbc/projects/central-banks-board/CM/code/enrich_bios_webscrapping_from_wikipedia.py)
+- [enrich_bios_webscrapping_from_wikipedia.py](code/enrich_bios_webscrapping_from_wikipedia.py)
 
 Objetivo:
 
@@ -248,15 +248,15 @@ También recodifica `Position` a:
 
 Salidas principales de esta etapa:
 
-- [bios_webscrapping_wikipedia_enriched.csv](/Users/sbc/projects/central-banks-board/CM/data/bios_webscrapping_wikipedia_enriched.csv)
-- [bios_webscrapping_wikipedia_enriched.xlsx](/Users/sbc/projects/central-banks-board/CM/data/bios_webscrapping_wikipedia_enriched.xlsx)
+- [bios_webscrapping_wikipedia_enriched.csv](data/bios_webscrapping_wikipedia_enriched.csv)
+- [bios_webscrapping_wikipedia_enriched.xlsx](data/bios_webscrapping_wikipedia_enriched.xlsx)
 
 Salidas auxiliares de esta etapa:
 
-- [bios_webscrapping_wikipedia_matches.csv](/Users/sbc/projects/central-banks-board/CM/data-aux/bios_webscrapping_wikipedia_matches.csv)
-- [bios_webscrapping_wikipedia_unmatched.csv](/Users/sbc/projects/central-banks-board/CM/data-aux/bios_webscrapping_wikipedia_unmatched.csv)
-- [bios_webscrapping_wikipedia_cache.json](/Users/sbc/projects/central-banks-board/CM/data-aux/bios_webscrapping_wikipedia_cache.json)
-- [bios_webscrapping_wikipedia_tenure_cache.json](/Users/sbc/projects/central-banks-board/CM/data-aux/bios_webscrapping_wikipedia_tenure_cache.json)
+- [bios_webscrapping_wikipedia_matches.csv](data-aux/bios_webscrapping_wikipedia_matches.csv)
+- [bios_webscrapping_wikipedia_unmatched.csv](data-aux/bios_webscrapping_wikipedia_unmatched.csv)
+- [bios_webscrapping_wikipedia_cache.json](data-aux/bios_webscrapping_wikipedia_cache.json)
+- [bios_webscrapping_wikipedia_tenure_cache.json](data-aux/bios_webscrapping_wikipedia_tenure_cache.json)
 
 Notas operativas:
 
@@ -268,7 +268,7 @@ Notas operativas:
 
 Script:
 
-- [clean_bios_webscrapping_delivery.py](/Users/sbc/projects/central-banks-board/CM/code/clean_bios_webscrapping_delivery.py)
+- [clean_bios_webscrapping_delivery.py](code/clean_bios_webscrapping_delivery.py)
 
 Objetivo:
 
@@ -279,15 +279,15 @@ Objetivo:
 
 Salida final de entrega:
 
-- [Bios_WebScrapping_enriched.csv](/Users/sbc/projects/central-banks-board/CM/data/Bios_WebScrapping_enriched.csv)
+- [Bios_WebScrapping_enriched.csv](data/Bios_WebScrapping_enriched.csv)
 
 Salida normalizada adicional:
 
-- [bios_webscrapping_wikipedia_enriched.csv](/Users/sbc/projects/central-banks-board/CM/data/bios_webscrapping_wikipedia_enriched.csv)
+- [bios_webscrapping_wikipedia_enriched.csv](data/bios_webscrapping_wikipedia_enriched.csv)
 
 Salida de auditoría:
 
-- [bios_webscrapping_wikipedia_enriched_audit.csv](/Users/sbc/projects/central-banks-board/CM/data-aux/bios_webscrapping_wikipedia_enriched_audit.csv)
+- [bios_webscrapping_wikipedia_enriched_audit.csv](data-aux/bios_webscrapping_wikipedia_enriched_audit.csv)
 
 Esquema final de entrega:
 
@@ -314,11 +314,11 @@ Esquema final de entrega:
 
 ## Flujo Recomendado Para Bios
 
-1. revisar [Bios_WebScrapping.xlsx](/Users/sbc/projects/central-banks-board/CM/data/Bios_WebScrapping.xlsx)
-2. correr [enrich_bios_webscrapping_from_wikipedia.py](/Users/sbc/projects/central-banks-board/CM/code/enrich_bios_webscrapping_from_wikipedia.py)
-3. correr [clean_bios_webscrapping_delivery.py](/Users/sbc/projects/central-banks-board/CM/code/clean_bios_webscrapping_delivery.py)
-4. entregar [Bios_WebScrapping_enriched.csv](/Users/sbc/projects/central-banks-board/CM/data/Bios_WebScrapping_enriched.csv)
-5. usar [bios_webscrapping_wikipedia_enriched_audit.csv](/Users/sbc/projects/central-banks-board/CM/data-aux/bios_webscrapping_wikipedia_enriched_audit.csv) si hay que revisar matches
+1. revisar [Bios_WebScrapping.xlsx](data/Bios_WebScrapping.xlsx)
+2. correr [enrich_bios_webscrapping_from_wikipedia.py](code/enrich_bios_webscrapping_from_wikipedia.py)
+3. correr [clean_bios_webscrapping_delivery.py](code/clean_bios_webscrapping_delivery.py)
+4. entregar [Bios_WebScrapping_enriched.csv](data/Bios_WebScrapping_enriched.csv)
+5. usar [bios_webscrapping_wikipedia_enriched_audit.csv](data-aux/bios_webscrapping_wikipedia_enriched_audit.csv) si hay que revisar matches
 
 ## Caveats Actuales
 
