@@ -1,15 +1,104 @@
 # CM
 
-`CM` es la carpeta de trabajo activa para construir, combinar y auditar bases de autoridades de bancos centrales.
+`CM` es la carpeta de trabajo activa para **rellenar `Bios_WebScrapping.xlsx` con la información pedida en el mail**, usando Wikipedia y Wikidata, y para mantener pipelines auxiliares de autoridades de bancos centrales.
 
-Aquí conviven dos familias de trabajo:
+## Objetivo Principal
 
-- bases finales de autoridades de bancos centrales en formato long
-- enriquecimiento biográfico de `Bios_WebScrapping.xlsx` con Wikipedia y Wikidata
+El foco principal de este workspace es completar la base:
+
+- [Bios_WebScrapping.xlsx](data/Bios_WebScrapping.xlsx)
+
+según el requerimiento del mail, rellenando cuando exista un match confiable en Wikipedia/Wikidata las variables:
+
+- `Birth_year`
+- `Birth_month`
+- `Start_year`
+- `Start_month`
+- `End_year`
+- `End_month`
+- `Education`
+- `BA_or_MA`
+- `MBA`
+- `PhD`
+- `CountryBirth`
+- `CityBirth`
+- `Sex`
+
+y recodificando `Position` a:
+
+- `0` = Board member
+- `1` = Deputy governor / deputy president / deputy chair
+- `2` = Governor / president / chair
+
+La salida final de entrega para este objetivo es:
+
+- [Bios_WebScrapping_enriched.csv](data/Bios_WebScrapping_enriched.csv)
+
+## Flujo Principal De Bios
+
+### Input
+
+- [Bios_WebScrapping.xlsx](data/Bios_WebScrapping.xlsx)
+
+### Etapa 1. Enriquecimiento Crudo Desde Wikipedia/Wikidata
+
+Script:
+
+- [enrich_bios_webscrapping_from_wikipedia.py](code/enrich_bios_webscrapping_from_wikipedia.py)
+
+Qué hace:
+
+- busca cada persona por nombre en Wikipedia
+- usa Wikidata para extraer datos biográficos, educativos y de tenure
+- deja trazabilidad del matching
+- genera una salida cruda enriquecida, todavía no validada del todo
+
+Salidas:
+
+- [bios_webscrapping_wikipedia_enriched.csv](data/bios_webscrapping_wikipedia_enriched.csv)
+- [bios_webscrapping_wikipedia_enriched.xlsx](data/bios_webscrapping_wikipedia_enriched.xlsx)
+- [bios_webscrapping_wikipedia_matches.csv](data-aux/bios_webscrapping_wikipedia_matches.csv)
+- [bios_webscrapping_wikipedia_unmatched.csv](data-aux/bios_webscrapping_wikipedia_unmatched.csv)
+- [bios_webscrapping_wikipedia_cache.json](data-aux/bios_webscrapping_wikipedia_cache.json)
+- [bios_webscrapping_wikipedia_tenure_cache.json](data-aux/bios_webscrapping_wikipedia_tenure_cache.json)
+
+### Etapa 2. Limpieza Y Archivo De Entrega
+
+Script:
+
+- [clean_bios_webscrapping_delivery.py](code/clean_bios_webscrapping_delivery.py)
+
+Qué hace:
+
+- conserva solo las columnas requeridas por el mail
+- normaliza `Position`, `Sex`, años y meses
+- limpia los campos educativos
+- vacía los campos enriquecidos cuando el match parece poco confiable
+- produce el archivo final de entrega
+
+Salida final de entrega:
+
+- [Bios_WebScrapping_enriched.csv](data/Bios_WebScrapping_enriched.csv)
+
+Salida de auditoría:
+
+- [bios_webscrapping_wikipedia_enriched_audit.csv](data-aux/bios_webscrapping_wikipedia_enriched_audit.csv)
+
+## Estado Actual De Bios
+
+- el pipeline está implementado
+- la lógica de enriquecimiento y limpieza ya existe
+- la salida final está formateada según el requerimiento del mail
+- la cobertura actual sigue siendo parcial y requiere corridas adicionales para completar todo el universo original
+
+## Otros Componentes Del Workspace
+
+Además del trabajo principal de `Bios_WebScrapping`, `CM` conserva pipelines complementarios para construir bases de autoridades de bancos centrales y una app visual de mapa basada en KOF.
 
 ## Estructura
 
 - `code/`: scripts fuente del pipeline
+- `map-app/`: app visual de mapa basada en KOF
 - `data/`: inputs principales y outputs finales vigentes
 - `data-aux/`: salidas crudas, caches, auditorías y auxiliares
 
@@ -29,6 +118,10 @@ Aquí conviven dos familias de trabajo:
 
 - [enrich_bios_webscrapping_from_wikipedia.py](code/enrich_bios_webscrapping_from_wikipedia.py)
 - [clean_bios_webscrapping_delivery.py](code/clean_bios_webscrapping_delivery.py)
+
+### App visual
+
+- [map-app](map-app)
 
 ## Final Datasets De Autoridades
 
@@ -319,6 +412,38 @@ Esquema final de entrega:
 3. correr [clean_bios_webscrapping_delivery.py](code/clean_bios_webscrapping_delivery.py)
 4. entregar [Bios_WebScrapping_enriched.csv](data/Bios_WebScrapping_enriched.csv)
 5. usar [bios_webscrapping_wikipedia_enriched_audit.csv](data-aux/bios_webscrapping_wikipedia_enriched_audit.csv) si hay que revisar matches
+
+## Map App
+
+La app visual recuperada desde `old/` quedó en:
+
+- [map-app](map-app)
+
+Archivos principales:
+
+- [package.json](map-app/package.json)
+- [src/App.jsx](map-app/src/App.jsx)
+- [src/main.jsx](map-app/src/main.jsx)
+- [src/styles.css](map-app/src/styles.css)
+- [public/governors_by_country.json](map-app/public/governors_by_country.json)
+- [public/kof_governors_with_sources.csv](map-app/public/kof_governors_with_sources.csv)
+
+Tecnología:
+
+- Vite
+- React
+- react-simple-maps
+
+Objetivo:
+
+- mostrar un mapa mundial interactivo de gobernadores de bancos centrales
+- usar como base la salida KOF ya procesada
+- permitir exploración visual por país, con detalle histórico y descarga del CSV
+
+Nota:
+
+- en `CM/map-app` quedó solo el código fuente útil
+- `node_modules/` y `dist/` se dejaron fuera para no ensuciar el repo
 
 ## Caveats Actuales
 
