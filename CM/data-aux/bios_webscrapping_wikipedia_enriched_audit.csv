@@ -1,0 +1,1115 @@
+PName_original;PName;iso3;first;last;iso3Birth;Start_year;End_year;Start_month;End_month;Position;Sex;Birth_year;Education;BA_or_MA;MBA;PhD;CountryBirth;CityBirth;Position_original;Birth_month;Wikipedia_title;Wikipedia_person_url;Wikipedia_qid;Wikipedia_match_score;Wikipedia_match_reason;Wikipedia_match_status;Wikipedia_match_reliable
+H. Mehran;Hassanali Mehran;ABW;hassanali;mehran;ABW;;;;;2;0;1937;2;;;;Iran;Tehran;President / Governor;1;Hassan Ali Mehran;https://en.wikipedia.org/wiki/Hassan_Ali_Mehran;Q5691751;28.696969696969695;shared_last_name|name_similarity:0.97|econ_context|role_hint;matched;1
+Hassanali Mehran;Hassanali Mehran;ABW;hassanali;mehran;ABW;;;;;2;0;1937;2;;;;Iran;Tehran;President / Governor;1;Hassan Ali Mehran;https://en.wikipedia.org/wiki/Hassan_Ali_Mehran;Q5691751;28.696969696969695;shared_last_name|name_similarity:0.97|econ_context|role_hint;matched;1
+Elias Mansur;Elias Mansur;ABW;elias;mansur;ABW;;;;;2;0;;;;;;;;President / Governor;;Don Elias Mansur Ballpark;https://en.wikipedia.org/wiki/Don_Elias_Mansur_Ballpark;Q5360550;20.486486486486488;partial_title|name_similarity:0.65|country_hint;rejected;0
+A. R. Caram;A Caram;ABW;a;caram;ABW;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Jeanette R. Semeleer;J Semeleer;ABW;j;semeleer;ABW;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+Jeanette Semeleer;Jeanette Semeleer;ABW;jeanette;semeleer;ABW;;;;;2;1;;;;;;;;President / Governor;;Jane Semeleer;https://en.wikipedia.org/wiki/Jane_Semeleer;Q11978170;31.666666666666668;shared_last_name|name_similarity:0.87|econ_context|country_hint|role_hint;rejected;0
+A. J.T. Williams;A Williams;ABW;a;williams;ABW;;;;;2;0;;;;;;;;President / Governor;;Kim A. Williams;https://en.wikipedia.org/wiki/Kim_A._Williams;Q23770345;31.333333333333336;partial_title|name_similarity:0.83|econ_context|role_hint;rejected;0
+E. den Dunnen;Emile Dunnen;ABW;emile;dunnen;ABW;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+A. S. Irausquin;Arthur Irausquin;ABW;arthur;irausquin;ABW;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+J-H. du Marchie Sarvaas;J Sarvaas;ABW;j;sarvaas;ABW;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+A. R. Caram;Anthony Caram;ABW;anthony;caram;ABW;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+R. Henriquez;Robertico Henriquez;ABW;robertico;henriquez;ABW;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Noorullah Delawari;Noorullah Delawari;AFG;noorullah;delawari;AFG;;;;;2;0;;;;;;;;President / Governor;;Noorullah Delwari;https://en.wikipedia.org/wiki/Noorullah_Delwari;Q30688167;26.714285714285715;name_similarity:0.97|econ_context|country_hint|role_hint;rejected;0
+Noorullah Delawari;Noorullah Delawari;AFG;noorullah;delawari;AFG;;;;;2;0;;;;;;;;President / Governor;;Noorullah Delwari;https://en.wikipedia.org/wiki/Noorullah_Delwari;Q30688167;26.714285714285715;name_similarity:0.97|econ_context|country_hint|role_hint;rejected;0
+Noorullah Delawari;Noorullah Delawari;AFG;noorullah;delawari;AFG;;;;;2;0;;;;;;;;President / Governor;;Noorullah Delwari;https://en.wikipedia.org/wiki/Noorullah_Delwari;Q30688167;26.714285714285715;name_similarity:0.97|econ_context|country_hint|role_hint;rejected;0
+Ghulam Mohammad Yalaqi;Ghulam Yalaqi;AFG;ghulam;yalaqi;AFG;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Mohammad Qasim Hashimzai;Mohammad Hashimzai;AFG;mohammad;hashimzai;AFG;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Khalil Sediq;Khalil Sediq;AFG;khalil;sediq;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Anwar ul-Haq Ahady;Anwar Ahady;AFG;anwar;ahady;AFG;2010;2013;6;11;2;0;1951;6;;;"University; American University; Northwestern University";Afghanistan;Surobi;President / Governor;8;Anwar ul-Haq Ahady;https://en.wikipedia.org/wiki/Anwar_ul-Haq_Ahady;Q3270084;29.58620689655172;partial_title|name_similarity:0.76|econ_context|country_hint;matched;1
+Mohammad Qayoumi;Mohammad Qayoumi;AFG;mohammad;qayoumi;AFG;;;;;0;0;1952;2;American University of Beirut;;;Afghanistan;Kabul;Board member;12;Mohammad Qayoumi;https://en.wikipedia.org/wiki/Mohammad_Qayoumi;Q6892292;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Shah Mohammad Mehrabi;Shah Mehrabi;AFG;shah;mehrabi;AFG;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Abdul Qadeer Fitrat;Abdul Fitrat;AFG;abdul;fitrat;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Omar Zakhilwal;Omar Zakhilwal;AFG;omar;zakhilwal;AFG;;;;;0;0;1968;2;"University of; University; Carleton University";;;Afghanistan;Badakhshan Province;Board member;1;Omar Zakhilwal;https://en.wikipedia.org/wiki/Omar_Zakhilwal;Q7089863;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Katrin Fakiri;Katrin Fakiri;AFG;katrin;fakiri;AFG;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Hidayatullah Badri;Hidayatullah Badri;AFG;hidayatullah;badri;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Noor Ahmad Agha;Noor Agha;AFG;noor;agha;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Mohibullah Safi;Mohibullah Safi;AFG;mohibullah;safi;AFG;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Ajmal Ahmady;Ajmal Ahmady;AFG;ajmal;ahmady;AFG;;;;;2;0;1978;4;;Harvard University;;Afghanistan;Ghazni;President / Governor;5;Ajmal Ahmady;https://en.wikipedia.org/wiki/Ajmal_Ahmady;Q105641732;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Nargis Nehan;Nargis Nehan;AFG;nargis;nehan;AFG;;;;;0;1;1981;;;;;;;Board member;1;Nargis Nehan;https://en.wikipedia.org/wiki/Nargis_Nehan;Q61120412;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Wahidullah Nosher;Wahidullah Nosher;AFG;wahidullah;nosher;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Habibullah Malie Achekzai;Habibullah Achekzai;AFG;habibullah;achekzai;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Abdul Hay Azizi;Abdul Azizi;AFG;abdul;azizi;AFG;;;;;2;0;;;;;;;;President / Governor;;Abdul Azizi Ali Rahman;https://en.wikipedia.org/wiki/Abdul_Azizi_Ali_Rahman;Q24088738;24.666666666666664;strong_title|name_similarity:0.67;rejected;0
+Mohammad Hakim Khan;Mohammad Khan;AFG;mohammad;khan;AFG;;;;;2;0;;;;;;;;President / Governor;;Arif Mohammad Khan;https://en.wikipedia.org/wiki/Arif_Mohammad_Khan;Q4790546;31.387096774193548;partial_title|name_similarity:0.84|econ_context|role_hint;rejected;0
+Ghulam Hussain Jujeni;Ghulam Jujeni;AFG;ghulam;jujeni;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Mehrabuddin Paktiawal;Mehrabuddin Paktiawal;AFG;mehrabuddin;paktiawal;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Abdul Basir Ranjbar;Abdul Ranjbar;AFG;abdul;ranjbar;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Mohammad Kabir;Mohammad Kabir;AFG;mohammad;kabir;AFG;;;;;2;0;;;;;;;;President / Governor;;Mohammad Kabir Hassan;https://en.wikipedia.org/wiki/Mohammad_Kabir_Hassan;Q30072965;34.0;strong_title|name_similarity:0.80|econ_context;rejected;0
+Khalilullah Sediq;Khalil Sediq;AFG;khalil;sediq;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Abdul Wahab Asefi;Abdul Asefi;AFG;abdul;asefi;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Najibullah Sahu;Najibullah Sahu;AFG;najibullah;sahu;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Mohammad Hakim Khan;Mohammad Khan;AFG;mohammad;khan;AFG;;;;;2;0;;;;;;;;President / Governor;;Arif Mohammad Khan;https://en.wikipedia.org/wiki/Arif_Mohammad_Khan;Q4790546;31.387096774193548;partial_title|name_similarity:0.84|econ_context|role_hint;rejected;0
+Ehsanullah Ehsan;Ehsanullah Ehsan;AFG;ehsanullah;ehsan;AFG;;;;;2;0;;;;;;;;President / Governor;;Ehsanullah Ehsan (banker);https://en.wikipedia.org/wiki/Ehsanullah_Ehsan_(banker);Q5348672;43.20512820512821;strong_title|name_similarity:0.82|econ_context|country_hint|role_hint;rejected;0
+Abdul Samad Sani;Abdul Sani;AFG;abdul;sani;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Mohammad Ahmadi;Mohammad Ahmadi;AFG;mohammad;ahmadi;AFG;;;;;2;0;;;;;;;;President / Governor;;Baz Mohammad Ahmadi;https://en.wikipedia.org/wiki/Baz_Mohammad_Ahmadi;Q730798;35.82352941176471;partial_title|name_similarity:0.88|econ_context|country_hint|role_hint;rejected;0
+Noorullah Delwari;Noorullah Delwari;AFG;noorullah;delwari;AFG;;;;;2;0;;;;;;;;President / Governor;;Noorullah Delwari;https://en.wikipedia.org/wiki/Noorullah_Delwari;Q30688167;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Samiullah Ibrahimi;Samiullah Ibrahimi;AFG;samiullah;ibrahimi;AFG;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Abdul Ghani Ghawasi;Abdul Ghawasi;AFG;abdul;ghawasi;AFG;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Noorullah Delwari;Noorullah Delwari;AFG;noorullah;delwari;AFG;;;;;2;0;;;;;;;;President / Governor;;Noorullah Delwari;https://en.wikipedia.org/wiki/Noorullah_Delwari;Q30688167;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Khan Afzal Hadawal;Khan Hadawal;AFG;khan;hadawal;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Khan Afzal Hadawal;Khan Hadawal;AFG;khan;hadawal;AFG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Mohammad Osmani;Mohammad Osmani;AFG;mohammad;osmani;AFG;;;;;0;0;;;;;;;;Board member;;Akhtar Mohammad Osmani;https://en.wikipedia.org/wiki/Akhtar_Mohammad_Osmani;Q2829009;35.10810810810811;partial_title|name_similarity:0.81|econ_context|country_hint|role_hint;rejected;0
+Shakir Jalali;Shakir Jalali;AFG;shakir;jalali;AFG;2021;2023;10;3;2;0;;;;;;;;President / Governor;;Shakir Jalali;https://en.wikipedia.org/wiki/Shakir_Jalali;Q108872917;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Gaspar Martins;Gaspar Martins;AGO;gaspar;martins;AGO;;;;;2;0;;;;;;;;President / Governor;;Ismael Martins;https://en.wikipedia.org/wiki/Ismael_Martins;Q5526551;25.142857142857142;shared_last_name|name_similarity:0.71|econ_context|country_hint;rejected;0
+Aguinaldo Jaime;Aguinaldo Jaime;AGO;aguinaldo;jaime;AGO;1990;1992;6;4;2;0;1956;1;;;;Angola;Luanda;President / Governor;1;Aguinaldo Jaime;https://en.wikipedia.org/wiki/Aguinaldo_Jaime;Q4694559;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+José Pedro de Morais Júnior;Jose Morais;AGO;jose;morais;AGO;;;;;2;0;1965;;;;;Portugal;Lisbon;President / Governor;7;José Morais;https://en.wikipedia.org/wiki/José_Morais;Q4353621;39.0;exact_title|name_similarity:1.00|country_hint;matched;1
+Gualberto Lima Campos;Gualberto Campos;AGO;gualberto;campos;AGO;;;;;1;0;1981;;;;;Venezuela;Ciudad Guayana;Vice-president / Deputy-governor;4;Gualberto Campos;https://en.wikipedia.org/wiki/Gualberto_Campos;Q5613375;35.0;exact_title|name_similarity:1.00;matched;1
+Manuel Piedad dos Santos Junior;Manuel Junior;AGO;manuel;junior;AGO;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Jose Lima Massano;Jose Massano;AGO;jose;massano;AGO;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Ricardo Abreu;Ricardo Abreu;AGO;ricardo;abreu;AGO;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Manuel António Tiago Dias;Manuel Dias;AGO;manuel;dias;AGO;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;Manuel Dias (athlete);https://en.wikipedia.org/wiki/Manuel_Dias_(athlete);Q6752533;25.333333333333332;strong_title|name_similarity:0.73;rejected;0
+Manuel António Tiago Dias;Manuel Dias;AGO;manuel;dias;AGO;;;;;0;0;;;;;;;;Board member;;Manuel Dias (athlete);https://en.wikipedia.org/wiki/Manuel_Dias_(athlete);Q6752533;25.333333333333332;strong_title|name_similarity:0.73;rejected;0
+Ricardo Daniel Queirós SandàoViegas D’Abreu;Ricardo Dabreu;AGO;ricardo;dabreu;AGO;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+José de Lima Massano;Jose Massano;AGO;jose;massano;AGO;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Valter Filipe Duarte da Silva;Valter Silva;AGO;valter;silva;AGO;;;;;2;0;;;;;;;;President / Governor;;Valter;https://en.wikipedia.org/wiki/Valter;Q16282332;24.666666666666664;strong_title|name_similarity:0.67;rejected;0
+José F. Leitao de Carvalho;Jose Carvalho;AGO;jose;carvalho;AGO;;;;;2;0;;;;;;;;President / Governor;;José Carvalho da Rocha;https://en.wikipedia.org/wiki/José_Carvalho_da_Rocha;Q18276312;42.42857142857143;strong_title|name_similarity:0.74|econ_context|country_hint|role_hint;rejected;0
+Augusto Teixeira de Matos;Augusto Matos;AGO;augusto;matos;AGO;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+António Inácio;Antonio Inacio;AGO;antonio;inacio;AGO;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Pedro Cunha Neto;Pedro Neto;AGO;pedro;neto;AGO;;;;;2;0;2000;;;;;Portugal;Viana do Castelo;President / Governor;3;Pedro Neto;https://en.wikipedia.org/wiki/Pedro_Neto;Q30036972;35.0;exact_title|name_similarity:1.00;matched;1
+Sebastião Bastos Lavrador;Sebastiao Lavrador;AGO;sebastiao;lavrador;AGO;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Generoso Hermenegildo de Almeida;Generoso Almeida;AGO;generoso;almeida;AGO;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+António Gomes Furtado;Antonio Furtado;AGO;antonio;furtado;AGO;;;;;2;0;1934;6;;;;;;President / Governor;8;Antonio Luz Furtado;https://en.wikipedia.org/wiki/Antonio_Luz_Furtado;Q16668163;18.823529411764707;partial_title|name_similarity:0.88;matched;1
+Sebastião Bastos Lavrador;Sebastiao Lavrador;AGO;sebastiao;lavrador;AGO;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Celestino Eliseu Kanda;Celestino Kanda;AGO;celestino;kanda;AGO;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Marinela Amaral;Marinela Amaral;AGO;marinela;amaral;AGO;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Amadeu de Jesus Castelhano Maurício;Amadeu Mauricio;AGO;amadeu;mauricio;AGO;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Rui Miguen de Oliveira;Rui Oliveira;AGO;rui;oliveira;AGO;;;;;0;0;1996;;;;;Portugal;Vila Nova de Gaia;Board member;9;Rui Oliveira;https://en.wikipedia.org/wiki/Rui_Oliveira;Q23005289;35.0;exact_title|name_similarity:1.00;matched;1
+Abrahão Pio dos Santos Gourgel;Abrahao Gourgel;AGO;abrahao;gourgel;AGO;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Walter Silva;Walter Silva;AGO;walter;silva;AGO;;;;;0;0;1977;;;;;Mexico;Mazatlán;Board member;1;Walter Silva;https://en.wikipedia.org/wiki/Walter_Silva;Q7966139;35.0;exact_title|name_similarity:1.00;matched;1
+Suzana Monteiro;Suzana Monteiro;AGO;suzana;monteiro;AGO;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Kostandin Boshnjaku;Kostandin Boshnjaku;ALB;kostandin;boshnjaku;ALB;;;;;2;0;1888;;;;;Albania;Stegopul;President / Governor;1;Kostandin Boshnjaku;https://en.wikipedia.org/wiki/Kostandin_Boshnjaku;Q15998344;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Spiro Bakalli;Spiro Bakalli;ALB;spiro;bakalli;ALB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Abdyl Këllezi;Abdyl Kellezi;ALB;abdyl;kellezi;ALB;;;;;2;0;1919;;;;;Albania;Tirana;President / Governor;8;Abdyl Këllezi;https://en.wikipedia.org/wiki/Abdyl_Këllezi;Q317983;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Qirjako Mihali;Qirjako Mihali;ALB;qirjako;mihali;ALB;;;;;2;0;1929;;;;;Albania;Korçë;President / Governor;1;Qirjako Mihali;https://en.wikipedia.org/wiki/Qirjako_Mihali;Q2121681;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Kostaq Postoli;Kostaq Postoli;ALB;kostaq;postoli;ALB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Andrea Nako;Andrea Nako;ALB;andrea;nako;ALB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Niko Gjyzari;Niko Gjyzari;ALB;niko;gjyzari;ALB;;;;;2;0;1934;;;;;Albania;Vlorë;President / Governor;11;Niko Gjyzari;https://en.wikipedia.org/wiki/Niko_Gjyzari;Q31668898;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Dylber Vrioni;Dylber Vrioni;ALB;dylber;vrioni;ALB;;;;;2;0;1946;;;;;Albania;Berat;President / Governor;1;Dylber Vrioni;https://en.wikipedia.org/wiki/Dylber_Vrioni;Q13038438;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Ksenofon Krisafi;Ksenofon Krisafi;ALB;ksenofon;krisafi;ALB;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Sulo Hadëri;Sulo Haderi;ALB;sulo;haderi;ALB;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Ardian Fullani;Ardian Fullani;ALB;ardian;fullani;ALB;2004;2014;10;9;2;0;1955;2;;;;Albania;Tirana;President / Governor;1;Ardian Fullani;https://en.wikipedia.org/wiki/Ardian_Fullani;Q1815088;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Shkëlqim Cani;Shklqim Cani;ALB;shklqim;cani;ALB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Anastas Angjeli;Anastas Angjeli;ALB;anastas;angjeli;ALB;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Ilir Hoti;Ilir Hoti;ALB;ilir;hoti;ALB;;;;;2;0;1957;2;Agricultural University of Tirana;;;Albania;Durrës;President / Governor;5;Ilir Hoti;https://en.wikipedia.org/wiki/Ilir_Hoti;Q21229005;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Ermelinda Meksi;Ermelinda Meksi;ALB;ermelinda;meksi;ALB;2003;2003;6;12;0;1;1957;2;;;;Albania;Tirana;Board member;1;Ermelinda Meksi;https://en.wikipedia.org/wiki/Ermelinda_Meksi;Q30315479;44.0;exact_title|name_similarity:1.00|country_hint|role_hint;matched;1
+Tonin Kola;Tonin Kola;ALB;tonin;kola;ALB;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Fatos Ibrahimi;Fatos Ibrahimi;ALB;fatos;ibrahimi;ALB;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Petraq Milo;Petraq Milo;ALB;petraq;milo;ALB;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Luljeta Minxhozi;Luljeta Minxhozi;ALB;luljeta;minxhozi;ALB;;;;;1;1;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Drini Salko;Drini Salko;ALB;drini;salko;ALB;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Tonin Kola;Tonin Kola;ALB;tonin;kola;ALB;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Bajram Muça;Bajram Muca;ALB;bajram;muca;ALB;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Arjan Kadareja;Arjan Kadareja;ALB;arjan;kadareja;ALB;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Arben Malaj;Arben Malaj;ALB;arben;malaj;ALB;;;;;0;0;1961;2;"Kennedy School of Government; Kennedy School";;;Albania;Vlorë;Board member;9;Arben Malaj;https://en.wikipedia.org/wiki/Arben_Malaj;Q4784677;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Kristaq Luniku  ;Kristaq Luniku;ALB;kristaq;luniku;ALB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Benet Beci;Benet Beci;ALB;benet;beci;ALB;;;;;2;0;1965;6;;;"Agricultural University of; Tirana University of Nebraska; Kennedy School";PSR Albania;1965 (age 61) Tirana;President / Governor;1;Benet Beci;https://en.wikipedia.org/wiki/Benet_Beci;Q132184886;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Gent Sejko;Gent Sejko;ALB;gent;sejko;ALB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Elisabeta Gjoni;Elisabeta Gjoni;ALB;elisabeta;gjoni;ALB;;;;;1;1;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Natasha Ahmetaj;Natasha Ahmetaj;ALB;natasha;ahmetaj;ALB;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Andis Harasani;Andis Harasani;ALB;andis;harasani;ALB;2009;;9;;0;0;1971;2;;;;Albania;Tirana;Board member;8;Andis Harasani;https://en.wikipedia.org/wiki/Andis_Harasani;Q13036997;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Luljeta Minxhozi;Luljeta Minxhozi;ALB;luljeta;minxhozi;ALB;;;;;1;1;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Zeqir Lika;Zeqir Lika;ALB;zeqir;lika;ALB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+	Llazar Gjika;Llazar Gjika;ALB;llazar;gjika;ALB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+	Kamber Myftari;Kamber Myftari;ALB;kamber;myftari;ALB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Qamil Tusha;Qamil Tusha;ALB;qamil;tusha;ALB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dhame Pite;Dhame Pite;ALB;dhame;pite;ALB;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Llazi Balliu;Llazi Balliu;ALB;llazi;balliu;ALB;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Tefta Çuçi;Tefta Cuci;ALB;tefta;cuci;ALB;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Limos Malaj;Limos Malaj;ALB;limos;malaj;ALB;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Halit Xhafa;Halit Xhafa;ALB;halit;xhafa;ALB;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Ela Golemi;Ela Golemi;ALB;ela;golemi;ALB;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Elisabeta Gjoni;Elisabeta Gjoni;ALB;elisabeta;gjoni;ALB;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+Denada Prifti;Denada Prifti;ALB;denada;prifti;ALB;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+E.D. Tromp;Emsley Tromp;ANT;emsley;tromp;ANT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+J.G.J. van Delden;Antoine Delden;ANT;antoine;delden;ANT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+P.C. Timmermans;Henri Timmermans;ANT;henri;timmermans;ANT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+V.A. Servage;Hans Servage;ANT;hans;servage;ANT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+L. Wong;Frank Wong;ANT;frank;wong;ANT;;;;;2;0;1932;;;;;;;President / Governor;9;Frank Wong;https://en.wikipedia.org/wiki/Frank_Wong;Q18217398;35.0;exact_title|name_similarity:1.00;matched;1
+Alberto Romero;Jose Romero;ANT;jose;romero;ANT;;;;;2;0;1897;3;"University of the; Silliman University";;;Philippines;Bais;President / Governor;3;José E. Romero;https://en.wikipedia.org/wiki/José_E._Romero;Q6279347;19.166666666666664;partial_title|name_similarity:0.92;matched;1
+Juma Al Majid;Juma Majid;ARE;juma;majid;ARE;;;;;0;0;1930;2;;;;Dubai;Juma Al Majid 1930 (age 95–96) Al Shandagah;Board member;1;Juma Al Majid;https://en.wikipedia.org/wiki/Juma_Al_Majid;Q6310767;35.69565217391305;partial_title|name_similarity:0.87|econ_context|country_hint|role_hint;matched;1
+Khalil Mohammed Sharif Foulathi;Khalil Foulathi;ARE;khalil;foulathi;ARE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Sultan Alsuwaidi;Sultan Alsuwaidi;ARE;sultan;alsuwaidi;UAE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Abdulhamid Saeed Alahmadi;Abdulhamid Alahmadi;ARE;abdulhamid;alahmadi;ARE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Khaled Mohammed Salem Balama Al Tameemi;Khaled Tameemi;ARE;khaled;tameemi;ARE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Mubarak Rashed Al Mansoori;Mubarak Mansoori;ARE;mubarak;mansoori;ARE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Omar Mohammed Ahmed Bin Sulaiman;Omar Sulaiman;ARE;omar;sulaiman;ARE;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Khalid Ahmed Altayer;Khalid Altayer;ARE;khalid;altayer;ARE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Hamad Buamim;Hamad Buamim;ARE;hamad;buamim;ARE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Ronald Scott	;Ronald Scott;ARE;ronald;scott;ARE;;;;;2;0;;;;;;;;President / Governor;;Ronald Scott-Miller;https://en.wikipedia.org/wiki/Ronald_Scott-Miller;Q7365266;25.741935483870968;strong_title|name_similarity:0.77;rejected;0
+Abdelmalik al-Hamar ;Abdelmalik Alhamar;ARE;abdelmalik;alhamar;ARE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Abdelmalik al-Hamar ;Abdelmalik Alhamar;ARE;abdelmalik;alhamar;ARE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Sultan Bin Nasser Al-Suwaidi;Bin Alsuwaidi;ARE;bin;alsuwaidi;ARE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Khalifa Nasser Bin Huwaileel;Khalifa Huwaileel;ARE;khalifa;huwaileel;ARE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Saeed Rashid Alyateem Almuhairy;Saeed Almuhairy;ARE;saeed;almuhairy;ARE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Younis Haji  Khoori;Younis Khoori;ARE;younis;khoori;ARE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Edelmiro Farrell;Edelmiro Farrell;ARG;edelmiro;farrell;ARG;1943;1944;10;2;2;0;1887;;;;;Argentina;Lanús;President / Governor;2;Edelmiro Julián Farrell;https://en.wikipedia.org/wiki/Edelmiro_Julián_Farrell;Q356699;35.205128205128204;partial_title|name_similarity:0.82|econ_context|country_hint|role_hint;matched;1
+Juan Peron;Juan Peron;ARG;juan;peron;ARG;1944;1945;7;10;2;0;1895;1;;;;Argentina;Lobos;President / Governor;10;Juan Perón;https://en.wikipedia.org/wiki/Juan_Perón;Q93330;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Juan Peron;Juan Peron;ARG;juan;peron;ARG;1944;1945;7;10;2;0;1895;1;;;;Argentina;Lobos;President / Governor;10;Juan Perón;https://en.wikipedia.org/wiki/Juan_Perón;Q93330;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Juan Peron;Juan Peron;ARG;juan;peron;ARG;1944;1945;7;10;2;0;1895;1;;;;Argentina;Lobos;President / Governor;10;Juan Perón;https://en.wikipedia.org/wiki/Juan_Perón;Q93330;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Juan Peron;Juan Peron;ARG;juan;peron;ARG;1944;1945;7;10;2;0;1895;1;;;;Argentina;Lobos;President / Governor;10;Juan Perón;https://en.wikipedia.org/wiki/Juan_Perón;Q93330;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Eduardo Longardi;Eduardo Longardi;ARG;eduardo;longardi;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Arturo Ilia;Arturo Ilia;ARG;arturo;ilia;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Pedro Eugenio Aramburu;Pedro Aramburu;ARG;pedro;aramburu;ARG;1955;1958;11;5;2;0;1903;1;;;;Argentina;Río Cuarto;President / Governor;5;Pedro Eugenio Aramburu;https://en.wikipedia.org/wiki/Pedro_Eugenio_Aramburu;Q188974;34.77777777777778;partial_title|name_similarity:0.78|econ_context|country_hint|role_hint;matched;1
+Alfredo Gomez Morales;Alfredo Morales;ARG;alfredo;morales;ARG;;;;;2;0;1990;;;;;Margraviate of Brandenburg;Berlin;President / Governor;5;Alfredo Morales;https://en.wikipedia.org/wiki/Alfredo_Morales;Q443222;35.0;exact_title|name_similarity:1.00;matched;1
+Arthur Frondizi;Arthur Frondizi;ARG;arthur;frondizi;ARG;;;;;2;0;;;;;;;;President / Governor;;Arturo Frondizi;https://en.wikipedia.org/wiki/Arturo_Frondizi;Q346658;32.333333333333336;shared_last_name|name_similarity:0.93|econ_context|country_hint|role_hint;rejected;0
+Hector Campora;Hector Campora;ARG;hector;campora;ARG;1973;1973;5;7;2;0;1909;1;;;;Argentina;Mercedes;President / Governor;3;Héctor José Cámpora;https://en.wikipedia.org/wiki/Héctor_José_Cámpora;Q356751;35.484848484848484;partial_title|name_similarity:0.85|econ_context|country_hint|role_hint;matched;1
+Jose Maria Guido;Jose Guido;ARG;jose;guido;ARG;1962;1963;3;10;2;0;1910;2;National University of La;;;Argentina;Buenos Aires;President / Governor;8;José María Guido;https://en.wikipedia.org/wiki/José_María_Guido;Q470971;34.69230769230769;partial_title|name_similarity:0.77|econ_context|country_hint|role_hint;matched;1
+Jorge Bermudez Emparanza;Jorge Emparanza;ARG;jorge;emparanza;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Juan Carlos Ongania;Juan Ongania;ARG;juan;ongania;ARG;1966;1970;6;6;2;0;1914;1;;;;Argentina;Marcos Paz, Buenos Aires;President / Governor;3;Juan Carlos Onganía;https://en.wikipedia.org/wiki/Juan_Carlos_Onganía;Q365326;34.74193548387097;partial_title|name_similarity:0.77|econ_context|country_hint|role_hint;matched;1
+Mondelli;* Mondelli;ARG;*;mondelli;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Gonzalez del Solar;Gonzalez Solar;ARG;gonzalez;solar;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Garcia Vazquez;Garcia Vazquez;ARG;garcia;vazquez;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Ricardo Gruneisen;Ricardo Gruneisen;ARG;ricardo;gruneisen;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Alejandro Lanusse;Alejandro Lanusse;ARG;alejandro;lanusse;ARG;1971;1973;3;5;2;0;1918;1;;;;Argentina;Buenos Aires;President / Governor;8;Alejandro Agustín Lanusse;https://en.wikipedia.org/wiki/Alejandro_Agustín_Lanusse;Q345487;35.095238095238095;partial_title|name_similarity:0.81|econ_context|country_hint|role_hint;matched;1
+Roberto M. Levingston;Roberto Levingston;ARG;roberto;levingston;ARG;1970;1971;6;3;2;0;1920;1;;;;Argentina;San Luis;President / Governor;1;Roberto Marcelo Levingston;https://en.wikipedia.org/wiki/Roberto_Marcelo_Levingston;Q380980;35.18181818181818;partial_title|name_similarity:0.82|econ_context|country_hint|role_hint;matched;1
+Ricardo A. Cairoli;Ricardo Cairoli;ARG;ricardo;cairoli;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Ianella;* Ianella;ARG;*;ianella;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Jorge Videla;Jorge Videla;ARG;jorge;videla;ARG;1976;1981;3;3;2;0;1925;2;;;;Argentina;Mercedes;President / Governor;8;Jorge Rafael Videla;https://en.wikipedia.org/wiki/Jorge_Rafael_Videla;Q75853;34.74193548387097;partial_title|name_similarity:0.77|econ_context|country_hint|role_hint;matched;1
+Leopoldo Galtieri;Leopoldo Galtieri;ARG;leopoldo;galtieri;ARG;1981;1982;12;6;2;0;1926;2;;;;Argentina;Caseros;President / Governor;7;Leopoldo Galtieri;https://en.wikipedia.org/wiki/Leopoldo_Galtieri;Q124993;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+ Raul Alfonsin;Raul Alfonsin;ARG;raul;alfonsin;ARG;1983;1989;12;7;2;0;1927;1;;;;Argentina;Chascomús;President / Governor;3;Raúl Alfonsín;https://en.wikipedia.org/wiki/Raúl_Alfonsín;Q193062;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Zalduendo;* Zalduendo;ARG;*;zalduendo;ARG;;;;;2;0;;;;;;;;President / Governor;;Carlos Zalduendo;https://en.wikipedia.org/wiki/Carlos_Zalduendo;Q2960481;26.2;shared_last_name|name_similarity:0.72|econ_context|role_hint;rejected;0
+Reynaldo Bignone;Reynaldo Bignone;ARG;reynaldo;bignone;ARG;1982;1983;7;12;2;0;1928;1;;;;Argentina;Morón;President / Governor;1;Reynaldo Bignone;https://en.wikipedia.org/wiki/Reynaldo_Bignone;Q298430;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Hernán n Aldabe;Hernan Aldabe;ARG;hernan;aldabe;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+ Carlos Menem;Carlos Menem;ARG;carlos;menem;ARG;1989;1999;7;12;2;0;1930;1;;;;Argentina;Anillaco;President / Governor;7;Carlos Menem;https://en.wikipedia.org/wiki/Carlos_Menem;Q185107;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Isabel Peron;Isabel Peron;ARG;isabel;peron;ARG;1973;1974;10;7;2;0;1931;;;;;Argentina;La Rioja;President / Governor;2;Isabel Perón;https://en.wikipedia.org/wiki/Isabel_Perón;Q191014;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Diz;Adolfo Diz;ARG;adolfo;diz;ARG;;;;;2;0;1931;2;"University of; Aires University of Chicago";;;Argentina;Buenos Aires;President / Governor;5;Adolfo Diz;https://en.wikipedia.org/wiki/Adolfo_Diz;Q4684219;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Maccarone;Roque Maccarone;ARG;roque;maccarone;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Rossi;* Rossi;ARG;*;rossi;ARG;;;;;2;0;;;;;;;;President / Governor;;Agustín Rossi;https://en.wikipedia.org/wiki/Agustín_Rossi;Q19006869;28.555555555555557;shared_last_name|name_similarity:0.56|econ_context|country_hint|role_hint;rejected;0
+Gonzalez;Antonio Gonzalez;ARG;antonio;gonzalez;ARG;;;;;2;0;;;;;;;;President / Governor;;Antonio González de Balcarce;https://en.wikipedia.org/wiki/Antonio_González_de_Balcarce;Q2698196;38.27272727272727;strong_title|name_similarity:0.73|econ_context|role_hint;rejected;0
+Folcini;Enrique Folcini;ARG;enrique;folcini;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Fernando de la Rúa;Fernando Rua;ARG;fernando;rua;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+eduardo duhalde;Eduardo Duhalde;ARG;eduardo;duhalde;ARG;2002;2003;1;5;2;0;1941;2;;;;Argentina;Lomas de Zamora;President / Governor;10;Eduardo Duhalde;https://en.wikipedia.org/wiki/Eduardo_Duhalde;Q294578;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Pedro Pou;Pedro Pou;ARG;pedro;pou;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Pedro Pou;Pedro Pou;ARG;pedro;pou;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Cavallo;* Cavallo;ARG;*;cavallo;ARG;;;;;2;0;;;;;;;;President / Governor;;Cavallo;https://en.wikipedia.org/wiki/Cavallo;Q452126;33.0;exact_title|name_similarity:1.00|econ_context|disambiguation_penalty;rejected;0
+Machinea;* Machinea;ARG;*;machinea;ARG;;;;;2;0;;;;;;;;President / Governor;;José Luis Machinea;https://en.wikipedia.org/wiki/José_Luis_Machinea;Q2894286;29.153846153846153;shared_last_name|name_similarity:0.62|econ_context|country_hint|role_hint;rejected;0
+Fernandez;Roque Fernandez;ARG;roque;fernandez;ARG;1991;1996;2;8;2;0;1947;2;"National University of; Córdoba University of Chicago";;;Argentina;Córdoba;President / Governor;4;Roque Fernández;https://en.wikipedia.org/wiki/Roque_Fernández;Q7366791;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Gonzalez Fraga;Javier Fraga;ARG;javier;fraga;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Gonzalez Fraga;Javier Fraga;ARG;javier;fraga;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Mario Blejer;Mario Blejer;ARG;mario;blejer;ARG;2002;2002;1;6;2;0;1948;2;"Hebrew University of; Jerusalem University of Chicago";;;Argentina;Córdoba;President / Governor;6;Mario Blejer;https://en.wikipedia.org/wiki/Mario_Blejer;Q3914720;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Mario Blejer;Mario Blejer;ARG;mario;blejer;ARG;2002;2002;1;6;2;0;1948;2;"Hebrew University of; Jerusalem University of Chicago";;;Argentina;Córdoba;President / Governor;6;Mario Blejer;https://en.wikipedia.org/wiki/Mario_Blejer;Q3914720;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Juan Carlos Fabrega;Juan Fabrega;ARG;juan;fabrega;ARG;2013;2014;11;10;2;0;1949;;;;;Argentina;Mendoza;President / Governor;1;Juan Carlos Fábrega;https://en.wikipedia.org/wiki/Juan_Carlos_Fábrega;Q15216933;34.74193548387097;partial_title|name_similarity:0.77|econ_context|country_hint|role_hint;matched;1
+Aldo Pignanelli;Aldo Pignanelli;ARG;aldo;pignanelli;ARG;2002;2002;6;12;2;0;1950;;;;;Argentina;Argentina;President / Governor;4;Aldo Pignanelli;https://en.wikipedia.org/wiki/Aldo_Pignanelli;Q5664480;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Nestor Kirchner;Nestor Kirchner;ARG;nestor;kirchner;ARG;2003;2007;5;12;2;0;1950;3;National University of La;;;Argentina;Río Gallegos;President / Governor;2;Néstor Kirchner;https://en.wikipedia.org/wiki/Néstor_Kirchner;Q170899;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Cristina Fernandez de Kirchner;Cristina Kirchner;ARG;cristina;kirchner;ARG;2007;2015;12;12;2;1;1953;2;National University of La;;;Argentina;La Plata;President / Governor;2;Cristina Fernández de Kirchner;https://en.wikipedia.org/wiki/Cristina_Fernández_de_Kirchner;Q40649;34.234042553191486;partial_title|name_similarity:0.72|econ_context|country_hint|role_hint;matched;1
+Mercedes Marcó del Pont;Mercedes Pont;ARG;mercedes;pont;ARG;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Alberto Fernández;Alberto Fernandez;ARG;alberto;fernandez;ARG;2003;2008;5;7;1;0;1959;2;;;;Argentina;Buenos Aires;Vice-president / Deputy-governor;4;Alberto Fernández;https://en.wikipedia.org/wiki/Alberto_Fernández;Q2642828;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Mauricio Macri;Mauricio Macri;ARG;mauricio;macri;ARG;2015;2019;12;12;2;0;1959;2;"Catholic University of; Columbia University";;;Argentina;Tandil;President / Governor;2;Mauricio Macri;https://en.wikipedia.org/wiki/Mauricio_Macri;Q561837;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Martin Redrado;Martin Redrado;ARG;martin;redrado;ARG;2004;2007;9;12;0;0;1961;2;"University of; Harvard University";;;Argentina;Buenos Aires;Board member;9;Martín Redrado;https://en.wikipedia.org/wiki/Martín_Redrado;Q952055;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Alejandro Vanoli;Alejandro Vanoli;ARG;alejandro;vanoli;ARG;2014;2015;10;12;2;0;1961;2;;;;Argentina;Buenos Aires;President / Governor;4;Alejandro Vanoli;https://en.wikipedia.org/wiki/Alejandro_Vanoli;Q18218133;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Miguel Ángel Pesce;Miguel Pesce;ARG;miguel;pesce;ARG;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Alfonso Prat-Gay;Alfonso Pratgay;ARG;alfonso;pratgay;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Luis Caputo;Luis Caputo;ARG;luis;caputo;ARG;2018;2018;6;9;2;0;1965;2;;;;Argentina;Buenos Aires;President / Governor;4;Luis Caputo;https://en.wikipedia.org/wiki/Luis_Caputo;Q28058800;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Federico Sturzenegger;Federico Sturzenegger;ARG;federico;sturzenegger;ARG;2015;2018;12;6;2;0;1966;6;National University of La;;Massachusetts Institute of Technology;Argentina;Rufino;President / Governor;2;Federico Sturzenegger;https://en.wikipedia.org/wiki/Federico_Sturzenegger;Q16302129;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Demian Reidel;Demian Reidel;ARG;demian;reidel;ARG;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Guido Sandleris;Guido Sandleris;ARG;guido;sandleris;ARG;2018;2019;9;12;2;0;1971;2;"University of; University; London School of Economics";;;Argentina;Buenos Aires;President / Governor;5;Guido Sandleris;https://en.wikipedia.org/wiki/Guido_Sandleris;Q56742850;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Lucas Llach;Lucas Llach;ARG;lucas;llach;ARG;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Santiago Bausili;Santiago Bausili;ARG;santiago;bausili;ARG;;;;;2;0;1974;1;;;;;;President / Governor;2;Santiago Bausili;https://en.wikipedia.org/wiki/Santiago_Bausili;Q123764093;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Egidio Iannella;Egidio Iannella;ARG;egidio;iannella;ARG;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Carlos Bringnone;Carlos Bringnone;ARG;carlos;bringnone;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Cassino;Alfredo Cassino;ARG;alfredo;cassino;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Gomez;* Gomez;ARG;*;gomez;ARG;;;;;2;0;;;;;;;;President / Governor;;Papu Gómez;https://en.wikipedia.org/wiki/Papu_Gómez;Q965846;16.666666666666664;shared_last_name|name_similarity:0.67|country_hint;rejected;0
+Conception;* Conception;ARG;*;conception;ARG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Grigor Jaghetyan;Grigor Jaghetyan;ARM;grigor;jaghetyan;ARM;;;;;2;0;1885;1;;;;Armenia;Ijevan;President / Governor;;Grigor Jaghetyan;https://en.wikipedia.org/wiki/Grigor_Jaghetyan;Q20513008;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Andrey Papovyan;Andrey Papovyan;ARM;andrey;papovyan;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Isahak Isahakyan;Isahak Isahakyan;ARM;isahak;isahakyan;ARM;;;;;2;0;1933;1;;;;Russia;Kurgan;President / Governor;8;Isahak Isahakyan;https://en.wikipedia.org/wiki/Isahak_Isahakyan;Q16730071;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Ashot Avetisyan;Ashot Avetisyan;ARM;ashot;avetisyan;ARM;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Bagrat Asatryan;Bagrat Asatryan;ARM;bagrat;asatryan;ARM;;;;;2;0;1956;2;State University;;;Soviet Union;Armenian Soviet Socialist Republic;President / Governor;2;Bagrat Asatryan;https://en.wikipedia.org/wiki/Bagrat_Asatryan;Q4071171;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Armenak Darbinyan;Armenak Darbinyan;ARM;armenak;darbinyan;ARM;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Grigor Ghonjeyan;Grigor Ghonjeyan;ARM;grigor;ghonjeyan;ARM;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Tigran Sargsyan;Tigran Sargsyan;ARM;tigran;sargsyan;ARM;2008;2014;4;4;2;0;1960;2;Leningrad Institute of Economics;;;Armenia;Vanadzor;President / Governor;1;Tigran Sargsyan;https://en.wikipedia.org/wiki/Tigran_Sargsyan;Q110233;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Andranik Norekyan;Andranik Norekyan;ARM;andranik;norekyan;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Arthur Javadyan;Arthur Javadyan;ARM;arthur;javadyan;ARM;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Arthur Javadyan;Arthur Javadyan;ARM;arthur;javadyan;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Karine Minasyan;Karine Minasyan;ARM;karine;minasyan;ARM;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+Vache Gabrielyan;Vache Gabrielyan;ARM;vache;gabrielyan;ARM;2014;2018;11;5;0;0;1968;2;"University; Rutgers University";;;Armenia;Yerevan;Board member;11;Vache Gabrielyan;https://en.wikipedia.org/wiki/Vache_Gabrielyan;Q7907998;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Vache Gabrielyan;Vache Gabrielyan;ARM;vache;gabrielyan;ARM;2014;2018;11;5;1;0;1968;2;"University; Rutgers University";;;Armenia;Yerevan;Vice-president / Deputy-governor;11;Vache Gabrielyan;https://en.wikipedia.org/wiki/Vache_Gabrielyan;Q7907998;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Nerses Yeritsyan;Nerses Yeritsyan;ARM;nerses;yeritsyan;ARM;;;;;1;0;1971;2;State Institute of National;;;Armenia;Yerevan;Vice-president / Deputy-governor;2;Nerses Yeritsyan;https://en.wikipedia.org/wiki/Nerses_Yeritsyan;Q1985828;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Arkadi Khachatryan;Arkadi Khachatryan;ARM;arkadi;khachatryan;ARM;;;;;0;0;1975;;;;;Armenia;Vanadzor;Board member;1;Arkadi Khachatryan;https://en.wikipedia.org/wiki/Arkadi_Khachatryan;Q60717461;44.0;exact_title|name_similarity:1.00|country_hint|role_hint;matched;1
+Martin Galstyan;Martin Galstyan;ARM;martin;galstyan;ARM;2020;;6;;2;0;1978;3;"Kennedy School; State University";;;Armenia;Yerevan;President / Governor;5;Martin Galstyan;https://en.wikipedia.org/wiki/Martin_Galstyan;Q90902573;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Armen Nurbekyan;Armen Nurbekyan;ARM;armen;nurbekyan;ARM;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Grigory Smirnov;Grigory Smirnov;ARM;grigory;smirnov;ARM;;;;;2;0;1997;;;;;Russia;Nizhny Novgorod;President / Governor;4;Grigory Smirnov;https://en.wikipedia.org/wiki/Grigory_Smirnov;Q22922400;35.0;exact_title|name_similarity:1.00;matched;1
+Anton Krizhijanovsky;Anton Krizhijanovsky;ARM;anton;krizhijanovsky;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Nikolai Sannikov;Nikolai Sannikov;ARM;nikolai;sannikov;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Constantine Sibani;Constantine Sibani;ARM;constantine;sibani;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Vladislav Moravski;Vladislav Moravski;ARM;vladislav;moravski;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Martin Sahakyan;Martin Sahakyan;ARM;martin;sahakyan;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Garsan Varshamyan;Garsan Varshamyan;ARM;garsan;varshamyan;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Hovhannes Davtyan;Hovhannes Davtyan;ARM;hovhannes;davtyan;ARM;;;;;2;0;;;;;;;;President / Governor;;Hovhannes Davtyan (actor);https://en.wikipedia.org/wiki/Hovhannes_Davtyan_(actor);Q24702860;30.5;strong_title|name_similarity:0.85|country_hint;rejected;0
+Vardan Mamikonyan;Vardan Mamikonyan;ARM;vardan;mamikonyan;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Arkady Minasyan;Arkady Minasyan;ARM;arkady;minasyan;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Sergey Baturi;Sergey Baturi;ARM;sergey;baturi;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Riza Velibekov;Riza Velibekov;ARM;riza;velibekov;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Tigran Sargsyan;Artashes Sargsyan;ARM;artashes;sargsyan;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Stepan Safaryan;Stepan Safaryan;ARM;stepan;safaryan;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Vladimir Aghasyan;Vladimir Aghasyan;ARM;vladimir;aghasyan;ARM;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Ruben L. Valesyan;Ruben Valesyan;ARM;ruben;valesyan;ARM;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Vardan Movsesyan;Vardan Movsesyan;ARM;vardan;movsesyan;ARM;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Amalya Saribekyan;Amalya Saribekyan;ARM;amalya;saribekyan;ARM;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Vakhtang Abrahamyan;Vakhtang Abrahamyan;ARM;vakhtang;abrahamyan;ARM;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Oleg Aghasyan;Oleg Aghasyan;ARM;oleg;aghasyan;ARM;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Arthur Stepanyan;Arthur Stepanyan;ARM;arthur;stepanyan;ARM;;;;;0;0;1987;;;;;Russia;Vladikavkaz;Board member;4;Arthur Stepanyan;https://en.wikipedia.org/wiki/Arthur_Stepanyan;Q4442019;39.0;exact_title|name_similarity:1.00|country_hint;matched;1
+Herbert Coombs;Herbert Coombs;AUS;herbert;coombs;AUS;;;;;2;0;1906;6;;;London School of Economics;Australia;Kalamunda;President / Governor;2;H. C. Coombs;https://en.wikipedia.org/wiki/H._C._Coombs;Q5628110;29.666666666666664;shared_last_name|name_similarity:0.67|econ_context|country_hint|role_hint;matched;1
+JG Phillips;John Phillips;AUS;john;phillips;AUS;;;;;2;0;;;;;;;;President / Governor;;John Phillips;https://en.wikipedia.org/wiki/John_Phillips;Q246456;42.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint|disambiguation_penalty;matched;1
+HM Knight;Harold Knight;AUS;harold;knight;AUS;;;;;2;0;1917;2;;;;Australia;Melbourne;President / Governor;8;H. M. Knight;https://en.wikipedia.org/wiki/H._M._Knight;Q5628398;29.956521739130434;shared_last_name|name_similarity:0.70|econ_context|country_hint|role_hint;matched;1
+RA Johnston;Bob Johnston;AUS;bob;johnston;AUS;;;;;2;0;;;;;;;;President / Governor;;Bob Johnston (economist);https://en.wikipedia.org/wiki/Bob_Johnston_(economist);Q4932952;42.05882352941177;strong_title|name_similarity:0.71|econ_context|country_hint|role_hint;rejected;0
+JG Phillips;Mervyn Phillips;AUS;mervyn;phillips;AUS;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Frank Lowy;Frank Lowy;AUS;frank;lowy;AUS;;;;;0;0;1930;;;;;Slovakia;Fiľakovo;Board member;10;Frank Lowy;https://en.wikipedia.org/wiki/Frank_Lowy;Q1277577;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Alan Jackson;Alan Jackson;AUS;alan;jackson;AUS;;;;;0;0;1958;1;;;;United States;Newnan;Board member;10;Alan Jackson;https://en.wikipedia.org/wiki/Alan_Jackson;Q380927;40.0;exact_title|name_similarity:1.00|role_hint;matched;1
+Hugh Morgan;Hugh Morgan;AUS;hugh;morgan;AUS;;;;;0;0;;;;;;;;Board member;;Hugh Morgan (businessman);https://en.wikipedia.org/wiki/Hugh_Morgan_(businessman);Q5932027;41.47058823529411;strong_title|name_similarity:0.65|econ_context|country_hint|role_hint;rejected;0
+Graham Kraehe;Graham Kraehe;AUS;graham;kraehe;AUS;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+BW Fraser;Bernie Fraser;AUS;bernie;fraser;AUS;;;;;2;0;;;;;;;;President / Governor;;Bernie Fraser (economist);https://en.wikipedia.org/wiki/Bernie_Fraser_(economist);Q4894388;42.22222222222222;strong_title|name_similarity:0.72|econ_context|country_hint|role_hint;rejected;0
+Richard Warburton;Richard Warburton;AUS;richard;warburton;AUS;;;;;0;0;;;;;;;;Board member;;Richard Warburton;https://en.wikipedia.org/wiki/Richard_Warburton;Q7329803;40.0;exact_title|name_similarity:1.00|role_hint;matched;1
+Roger Corbett;Roger Corbett;AUS;roger;corbett;AUS;;;;;0;0;1942;2;;;;;;Board member;1;Roger Corbett;https://en.wikipedia.org/wiki/Roger_Corbett;Q7358020;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Robert Gerard;Robert Gerard;AUS;robert;gerard;AUS;;;;;0;0;1945;1;;;;;;Board member;1;Robert Gerard;https://en.wikipedia.org/wiki/Robert_Gerard;Q7344731;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+IJ Macfarlane;Stephen Grenville;AUS;stephen;grenville;AUS;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;Stephen Grenville Fremantle;https://en.wikipedia.org/wiki/Stephen_Grenville_Fremantle;Q75696910;30.727272727272727;strong_title|name_similarity:0.77|role_hint;rejected;0
+Jillian Broadbent;Jillian Broadbent;AUS;jillian;broadbent;AUS;;;;;2;1;1948;1;;;;Australia;New South Wales;President / Governor;;Jillian Broadbent;https://en.wikipedia.org/wiki/Jillian_Broadbent;Q16123989;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+John Akehurst;John Akehurst;AUS;john;akehurst;AUS;;;;;0;0;;;;;;;;Board member;;John Akehurst;https://en.wikipedia.org/wiki/John_Akehurst;Q6218391;35.0;exact_title|name_similarity:1.00;matched;1
+John Edwards;John Edwards;AUS;john;edwards;AUS;;;;;0;0;1953;3;State University;;;United States;Seneca;Board member;6;John Edwards;https://en.wikipedia.org/wiki/John_Edwards;Q217314;48.0;exact_title|name_similarity:1.00|econ_context|role_hint;matched;1
+Allan Moss;Allan Moss;AUS;allan;moss;AUS;;;;;0;0;1949;1;;;;Australia;Sydney;Board member;8;Allan Moss;https://en.wikipedia.org/wiki/Allan_Moss;Q4730873;44.0;exact_title|name_similarity:1.00|country_hint|role_hint;matched;1
+Donald McGauchie;Donald Mcgauchie;AUS;donald;mcgauchie;AUS;1998;1998;2;2;2;0;1959;3;Grammar School;;;Australia;Australia;President / Governor;1;Donald McGauchie;https://en.wikipedia.org/wiki/Donald_McGauchie;Q5294835;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Ric Battellino;Ric Battellino;AUS;ric;battellino;AUS;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Heather Ridout;Heather Ridout;AUS;heather;ridout;AUS;;;;;0;1;1954;;;;;;;Board member;1;Heather Ridout;https://en.wikipedia.org/wiki/Heather_Ridout;Q5694068;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Carol Louise Schwartz AO;Carol Ao;AUS;carol;ao;AUS;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Carolyn Hewson;Carolyn Hewson;AUS;carolyn;hewson;AUS;;;;;0;1;1955;2;;;;Australia;Adelaide;Board member;7;Carolyn Hewson;https://en.wikipedia.org/wiki/Carolyn_Hewson;Q55584096;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+David Clarke;David Clarke;AUS;david;clarke;AUS;;;;;0;0;;;;;;;;Board member;;David Clarke Sr.;https://en.wikipedia.org/wiki/David_Clarke_Sr.;Q5233161;35.888888888888886;strong_title|name_similarity:0.89|country_hint|role_hint;rejected;0
+Warwick McKibbin;Warwick Mckibbin;AUS;warwick;mckibbin;AUS;;;;;2;0;1957;1;;;;;;President / Governor;4;Warwick McKibbin;https://en.wikipedia.org/wiki/Warwick_McKibbin;Q7971156;39.0;exact_title|name_similarity:1.00|country_hint;matched;1
+Ian Harper;Ian Harper;AUS;ian;harper;AUS;;;;;0;0;;1;;;;;;Board member;;Ian Harper;https://en.wikipedia.org/wiki/Ian_Harper;Q5981743;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Glenn Stevens;Glenn Stevens;AUS;glenn;stevens;AUS;2006;2016;9;9;2;0;1958;3;;;;Australia;Sydney;President / Governor;1;Glenn Stevens;https://en.wikipedia.org/wiki/Glenn_Stevens;Q1813984;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Iain Ross;Iain Ross;AUS;iain;ross;AUS;;;;;0;0;;;;;;;;Board member;;Iain Ross (judge);https://en.wikipedia.org/wiki/Iain_Ross_(judge);Q61052425;42.5;strong_title|name_similarity:0.75|econ_context|country_hint|role_hint;rejected;0
+Warwick Hunt;Warwick Hunt;AUS;warwick;hunt;AUS;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Catherine Tanna;Catherine Tanna;AUS;catherine;tanna;AUS;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Elana Rubin;Elana Rubin;AUS;elana;rubin;AUS;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Kathryn Fagg;Kathryn Fagg;AUS;kathryn;fagg;AUS;;;;;0;1;1961;;;;;;;Board member;;Kathryn Fagg;https://en.wikipedia.org/wiki/Kathryn_Fagg;Q53568318;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Philip Lowe;Philip Lowe;AUS;philip;lowe;AUS;2016;2023;9;9;2;0;1961;6;;;Massachusetts Institute of Technology;Australia;Wagga Wagga;President / Governor;10;Philip Lowe;https://en.wikipedia.org/wiki/Philip_Lowe;Q27922677;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Alison Watkins;Alison Watkins;AUS;alison;watkins;AUS;;;;;0;1;1962;2;;;;;;Board member;12;Alison Watkins;https://en.wikipedia.org/wiki/Alison_Watkins;Q67205468;44.0;exact_title|name_similarity:1.00|country_hint|role_hint;matched;1
+Michele Bullock;Michele Bullock;AUS;michele;bullock;AUS;2023;;9;;1;1;1962;3;London School of Economics;;;Australia;Melbourne;Vice-president / Deputy-governor;;Michele Bullock;https://en.wikipedia.org/wiki/Michele_Bullock;Q112491545;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Michele Bullock;Michele Bullock;AUS;michele;bullock;AUS;2023;;9;;2;1;1962;3;London School of Economics;;;Australia;Melbourne;President / Governor;;Michele Bullock;https://en.wikipedia.org/wiki/Michele_Bullock;Q112491545;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Brad Banducci;Brad Banducci;AUS;brad;banducci;AUS;;;;;0;0;;3;"University of; Graduate School of Management";;;;;Board member;;Brad Banducci;https://en.wikipedia.org/wiki/Brad_Banducci;Q28771408;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Guy Debelle;Guy Debelle;AUS;guy;debelle;AUS;;;;;1;0;1966;6;;;"University of; Massachusetts Institute of Technology";;;Vice-president / Deputy-governor;;Guy Debelle;https://en.wikipedia.org/wiki/Guy_Debelle;Q31079680;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Guy Debelle;Guy Debelle;AUS;guy;debelle;AUS;;;;;1;0;1966;6;;;"University of; Massachusetts Institute of Technology";;;Vice-president / Deputy-governor;;Guy Debelle;https://en.wikipedia.org/wiki/Guy_Debelle;Q31079680;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Andrew Hauser;Andrew Hauser;AUS;andrew;hauser;AUS;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Andrew Charlton;Andrew Charlton;AUS;andrew;charlton;AUS;2022;;5;;0;0;1978;6;;;;Australia;Sydney;Board member;9;Andrew Charlton;https://en.wikipedia.org/wiki/Andrew_Charlton;Q112567447;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+A.P. Payan;A Payan;AUS;a;payan;AUS;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Bruce Preston;Bruce Preston;AUS;bruce;preston;AUS;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Richard Reisch;Richard Reisch;AUT;richard;reisch;AUT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Viktor Kienböck;Viktor Kienbock;AUT;viktor;kienbock;AUT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Hans Rizzi;Hans Rizzi;AUT;hans;rizzi;AUT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Eugen Margarétha;Eugen Margaretha;AUT;eugen;margaretha;AUT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Eugen Kaniak;Eugen Kaniak;AUT;eugen;kaniak;AUT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dr. Hans Kloss;Hans Kloss;AUT;hans;kloss;AUT;;;;;2;0;;;;;;;;President / Governor;;Hans Kloss (bank manager);https://en.wikipedia.org/wiki/Hans_Kloss_(bank_manager);Q1580768;41.06060606060606;strong_title|name_similarity:0.61|econ_context|country_hint|role_hint;rejected;0
+Reinhard Kamitz;Reinhard Kamitz;AUT;reinhard;kamitz;AUT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dr. Wolfgang Schmitz;Wolfgang Schmitz;AUT;wolfgang;schmitz;AUT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dr. Helmuth Klauhs;Hellmuth Klauhs;AUT;hellmuth;klauhs;AUT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dr. Maria Schaumayer;Maria Schaumayer;AUT;maria;schaumayer;AUT;;;;;2;1;1931;2;Vienna University of Economics;;;Austria;Graz;President / Governor;10;Maria Schaumayer;https://en.wikipedia.org/wiki/Maria_Schaumayer;Q1277360;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Adolf Wala;Adolf Wala;AUT;adolf;wala;AUT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Adolf Wala;Adolf Wala;AUT;adolf;wala;AUT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Herbert Schimetschek;Herbert Schimetschek;AUT;herbert;schimetschek;AUT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dr. Klaus Liebscher;Klaus Liebscher;AUT;klaus;liebscher;AUT;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Claus Raidl;Claus Raidl;AUT;claus;raidl;AUT;;;;;2;0;1942;1;;;;Austria;Kapfenberg;President / Governor;11;Claus Raidl;https://en.wikipedia.org/wiki/Claus_Raidl;Q1098779;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Ewald Nowotny;Ewald Nowotny;AUT;ewald;nowotny;AUT;;;;;2;0;1944;1;;;;Austria;Vienna;President / Governor;6;Ewald Nowotny;https://en.wikipedia.org/wiki/Ewald_Nowotny;Q88443;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Robert Holzmann;Robert Holzmann;AUT;robert;holzmann;AUT;2019;2025;9;8;2;0;1949;1;;;;Austria;Leoben;President / Governor;2;Robert Holzmann;https://en.wikipedia.org/wiki/Robert_Holzmann;Q22005045;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Gertrude Tumpel-Gugerell;Gertrude Tumpelgugerell;AUT;gertrude;tumpelgugerell;AUT;;;;;1;1;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Gertrude Tumpel-Gugerell;Gertrude Tumpelgugerell;AUT;gertrude;tumpelgugerell;AUT;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Johannes Hahn;Johannes Hahn;AUT;johannes;hahn;AUT;;;;;0;0;1957;2;;;;Austria;Vienna;Board member;12;Johannes Hahn;https://en.wikipedia.org/wiki/Johannes_Hahn;Q78647;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Ingrid Reischl;Ingrid Reischl;AUT;ingrid;reischl;AUT;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Gottfried Haber;Gottfried Haber;AUT;gottfried;haber;AUT;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Harald Mahrer;Harald Mahrer;AUT;harald;mahrer;AUT;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Martin Kocher;Martin Kocher;AUT;martin;kocher;AUT;2025;;9;;2;0;1973;2;;;;Austria;Salzburg;President / Governor;1;Martin Kocher;https://en.wikipedia.org/wiki/Martin_Kocher;Q18222522;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Bettina Dorfer‑Pauschenwein;Bettina Dorferpauschenwein;AUT;bettina;dorferpauschenwein;AUT;;;;;1;1;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Stephan Koren;Stephan Koren;AUT;stephan;koren;AUT;;;;;2;0;;;;;;;;President / Governor;;Elisabeth Bleyleben-Koren;https://en.wikipedia.org/wiki/Elisabeth_Bleyleben-Koren;Q1329787;27.73684210526316;shared_last_name|name_similarity:0.47|econ_context|country_hint|role_hint;rejected;0
+Qalib Ağayev;Qalib Agayev;AZE;qalib;agayev;AZE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Qalib Ağayev;Qalib Agayev;AZE;qalib;agayev;AZE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Elman Rustamov;Elman Rustamov;AZE;elman;rustamov;AZE;1995;2022;1;4;2;0;1952;1;;;;Azerbaijan;Jabrayil District;President / Governor;6;Elman Rustamov;https://en.wikipedia.org/wiki/Elman_Rustamov;Q1813593;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Alim Guliyev;Alim Guliyev;AZE;alim;guliyev;AZE;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Taleh Kazimov;Taleh Kazimov;AZE;taleh;kazimov;AZE;2022;;4;;2;0;1983;2;"Oil Academy; Technical University; State University; Harvard University; Business School";;;Russian Empire;Baku;President / Governor;9;Taleh Kazimov;https://en.wikipedia.org/wiki/Taleh_Kazimov;Q108823069;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Cavanşir Abdullayev;Cavansir Abdullayev;AZE;cavansir;abdullayev;AZE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Greogiore Bayiyezako;Greogiore Bayiyezako;BDI;greogiore;bayiyezako;BDI;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Salvator Toyi;Salvator Toyi;BDI;salvator;toyi;BDI;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Grégoire Banyiyezako;Gregoire Banyiyezako;BDI;gregoire;banyiyezako;BDI;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Gaspard Sindayigaya;Gaspard Sindayigaya;BDI;gaspard;sindayigaya;BDI;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Bonaventure Kidwingira;Bonaventure Kidwingira;BDI;bonaventure;kidwingira;BDI;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Elisee Ntahonikora;Elisee Ntahonikora;BDI;elisee;ntahonikora;BDI;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Aloys Ntahonkiriye;Aloys Ntahonkiriye;BDI;aloys;ntahonkiriye;BDI;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Isaac Budabuda;Isaac Budabuda;BDI;isaac;budabuda;BDI;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Mathias Sinamenye;Mathias Sinamenye;BDI;mathias;sinamenye;BDI;1998;2001;6;11;2;0;;;;;;;;President / Governor;;Mathias Sinamenye;https://en.wikipedia.org/wiki/Mathias_Sinamenye;Q3298604;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Gabriel Ntisezerana;Gabriel Ntisezerana;BDI;gabriel;ntisezerana;BDI;2007;2010;2;8;2;0;;;;;;;;President / Governor;;Gabriel Ntisezerana;https://en.wikipedia.org/wiki/Gabriel_Ntisezerana;Q1803951;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Isaac Bizimana;Isaac Bizimana;BDI;isaac;bizimana;BDI;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Jean Ciza;Jean Ciza;BDI;jean;ciza;BDI;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Édouard Normand Bigendako;Edouard Bigendako;BDI;edouard;bigendako;BDI;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Maurice Frère ;Maurice Frere;BEL;maurice;frere;BEL;1944;1957;;;2;0;1890;;;;;Belgium;;President / Governor;8;Maurice Frère;https://en.wikipedia.org/wiki/Maurice_Frère;Q3300806;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Hubert Ansiaux;Hubert Ansiaux;BEL;hubert;ansiaux;BEL;1957;1971;;;2;0;1908;;;;;Belgium;Ixelles;President / Governor;11;Hubert Ansiaux;https://en.wikipedia.org/wiki/Hubert_Ansiaux;Q742865;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Robert Vandeputte;Robert Vandeputte;BEL;robert;vandeputte;BEL;1971;1975;;;2;0;1908;;;;;Belgium;Antwerp;President / Governor;2;Robert Vandeputte;https://en.wikipedia.org/wiki/Robert_Vandeputte;Q1898248;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Baron Cecil de Strycker;Cecil Strycker;BEL;cecil;strycker;BEL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Baron Jean Godeaux;Jean Godeaux;BEL;jean;godeaux;BEL;1982;1989;;;2;0;1922;;;;;Belgium;Jemeppe-sur-Meuse;President / Governor;7;Jean Godeaux;https://en.wikipedia.org/wiki/Jean_Godeaux;Q2241115;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Viscount Alfons Verplaetse;Alfons Verplaetse;BEL;alfons;verplaetse;BEL;1989;1999;7;2;2;0;1930;1;;;;Belgium;Zulte;President / Governor;2;Alfons Verplaetse;https://en.wikipedia.org/wiki/Alfons_Verplaetse;Q2521512;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Viscount Alfons Verplaetse;Alfons Verplaetse;BEL;alfons;verplaetse;BEL;1989;1999;7;2;2;0;1930;1;;;;Belgium;Zulte;President / Governor;2;Alfons Verplaetse;https://en.wikipedia.org/wiki/Alfons_Verplaetse;Q2521512;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Rik Branson;Rik Branson;BEL;rik;branson;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Guy Quaden;Guy Quaden;BEL;guy;quaden;BEL;1999;2011;;;2;0;1945;1;;;;Belgium;Liège;President / Governor;8;Guy Quaden;https://en.wikipedia.org/wiki/Guy_Quaden;Q1774517;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Luc Coene;Luc Coene;BEL;luc;coene;BEL;2011;2015;;;2;0;1947;1;;;;Belgium;Ghent;President / Governor;3;Luc Coene;https://en.wikipedia.org/wiki/Luc_Coene;Q466176;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Peter Praet;Peter Praet;BEL;peter;praet;BEL;;;;;0;0;1949;2;;;;Germany;Herchen;Board member;1;Peter Praet;https://en.wikipedia.org/wiki/Peter_Praet;Q539287;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Peter Praet;Peter Praet;BEL;peter;praet;BEL;;;;;0;0;1949;2;;;;Germany;Herchen;Board member;1;Peter Praet;https://en.wikipedia.org/wiki/Peter_Praet;Q539287;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Gerald Frère;Gerald Frere;BEL;gerald;frere;BEL;;;;;0;0;1951;;;;;Belgium;;Board member;5;Gérald Frère;https://en.wikipedia.org/wiki/Gérald_Frère;Q3123617;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Didier Matray;Didier Matray;BEL;didier;matray;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Jan Smets;Jan Smets;BEL;jan;smets;BEL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Rudi Thomaes;Rudi Thomaes;BEL;rudi;thomaes;BEL;;;;;0;0;1952;1;;;;;;Board member;8;Rudi Thomaes;https://en.wikipedia.org/wiki/Rudi_Thomaes;Q2030643;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Eddy Varmoesen;Eddy Varmoesen;BEL;eddy;varmoesen;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Marcia de Wachter;Marcia Wachter;BEL;marcia;wachter;BEL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Guy Haaze;Guy Haaze;BEL;guy;haaze;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Rudy De Leeuw;Rudy Leeuw;BEL;rudy;leeuw;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Carl Devlies;Carl Devlies;BEL;carl;devlies;BEL;;;;;0;0;1953;;;;;Netherlands;Amsterdam;Board member;1;Carl Devlies;https://en.wikipedia.org/wiki/Carl_Devlies;Q1037486;40.0;exact_title|name_similarity:1.00|role_hint;matched;1
+Jan Vercamst;Jan Vercamst;BEL;jan;vercamst;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Christl Joris;Christl Joris;BEL;christl;joris;BEL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Yves Prete;Yves Prete;BEL;yves;prete;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Jean Louis Six;Jean Six;BEL;jean;six;BEL;;;;;0;0;1533;1;;;;France;Lille;Board member;;Jean Six;https://en.wikipedia.org/wiki/Jean_Six;Q3174652;35.0;exact_title|name_similarity:1.00;matched;1
+Jean Francois Cats;Jean Cats;BEL;jean;cats;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Eric Mathay;Eric Mathay;BEL;eric;mathay;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Michèle Detaille;Michele Detaille;BEL;michele;detaille;BEL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Claire Tillekaerts;Claire Tillekaerts;BEL;claire;tillekaerts;BEL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Hans Dhondt;Hans Dhondt;BEL;hans;dhondt;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Jean Eylenbosch;Jean Eylenbosch;BEL;jean;eylenbosch;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Tom Dechaene;Tom Dechaene;BEL;tom;dechaene;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Mario Coppens;Mario Coppens;BEL;mario;coppens;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Thierry Bodson;Thierry Bodson;BEL;thierry;bodson;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Christine Mahy;Christine Mahy;BEL;christine;mahy;BEL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Marc Leemans;Marc Leemans;BEL;marc;leemans;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Mia Schamphelaere;Mia Schamphelaere;BEL;mia;schamphelaere;BEL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Tom Dechaene;Tom Dechaene;BEL;tom;dechaene;BEL;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Christian Van Thillo;Christian Thillo;BEL;christian;thillo;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Fabienne Bister;Fabienne Bister;BEL;fabienne;bister;BEL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Veronique Thirion;Veronique Thirion;BEL;veronique;thirion;BEL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Jo Swyngedouw;Jo Swyngedouw;BEL;jo;swyngedouw;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Pieter Timmermans;Pieter Timmermans;BEL;pieter;timmermans;BEL;;;;;0;0;1964;1;;;;Belgium;Ninove;Board member;6;Pieter Timmermans;https://en.wikipedia.org/wiki/Pieter_Timmermans;Q18402469;39.0;exact_title|name_similarity:1.00|country_hint;matched;1
+Steven Vanackere;Steven Vanackere;BEL;steven;vanackere;BEL;2010;2011;6;;1;0;1964;2;Catholic University of Leuven;;;Belgium;Wevelgem;Vice-president / Deputy-governor;2;Steven Vanackere;https://en.wikipedia.org/wiki/Steven_Vanackere;Q2067763;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Steven Vanackere;Steven Vanackere;BEL;steven;vanackere;BEL;2010;2011;6;;1;0;1964;2;Catholic University of Leuven;;;Belgium;Wevelgem;Vice-president / Deputy-governor;2;Steven Vanackere;https://en.wikipedia.org/wiki/Steven_Vanackere;Q2067763;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Véronique Thirion;Veronique Thirion;BEL;veronique;thirion;BEL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Robert Vertenueil;Robert Vertenueil;BEL;robert;vertenueil;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Karel Van Eetvel;Karel Eetvel;BEL;karel;eetvel;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Sonja De Becker;Sonja Becker;BEL;sonja;becker;BEL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Pierre Wunsch;Pierre Wunsch;BEL;pierre;wunsch;BEL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Gregoire Koutentakis;Gregoire Koutentakis;BEL;gregoire;koutentakis;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Vincent Magnee;Vincent Magnee;BEL;vincent;magnee;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Danny Assche;Danny Assche;BEL;danny;assche;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Estelle Cantillo;Estelle Cantillo;BEL;estelle;cantillo;BEL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Tim Hermans;Tim Hermans;BEL;tim;hermans;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Géraldine Van der Stichele;Geraldine Stichele;BEL;geraldine;stichele;BEL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Pieter Verhelst;Pieter Verhelst;BEL;pieter;verhelst;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Lionel Rouget;Lionel Rouget;BEL;lionel;rouget;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Dimitri Lhoste;Dimitri Lhoste;BEL;dimitri;lhoste;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Cedric Frère;Cedric Frere;BEL;cedric;frere;BEL;;;;;0;0;;;;;;;;Board member;;Gérald Frère;https://en.wikipedia.org/wiki/Gérald_Frère;Q3123617;29.666666666666664;shared_last_name|name_similarity:0.67|econ_context|country_hint|role_hint;rejected;0
+Louise Fromont;Louise Fromont;BEL;louise;fromont;BEL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Bernard Jurion;Bernard Jurion;BEL;bernard;jurion;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Edwin De Boeck;Edwin Boeck;BEL;edwin;boeck;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Marjan Maes;Marjan Maes;BEL;marjan;maes;BEL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Gilles Vandorpe;Gilles Vandorpe;BEL;gilles;vandorpe;BEL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Adidjatou Mathys;Adidjatou Mathys;BEN;adidjatou;mathys;BEN;2017;;4;;0;1;1956;;;;;Benin;Porto-Novo;Board member;;Adidjatou Mathys;https://en.wikipedia.org/wiki/Adidjatou_Mathys;Q106764634;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Houessou Yaovi Hadonou;Houessou Hadonou;BEN;houessou;hadonou;BEN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Oumara Karimou Assouma;Oumara Assouma;BEN;oumara;assouma;BEN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Alain Michel Komaclo;Alain Komaclo;BEN;alain;komaclo;BEN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Emmanuel Assilamehoo;Emmanuel Assilamehoo;BEN;emmanuel;assilamehoo;BEN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Damo Justin Baro;Damo Baro;BFA;damo;baro;BFA;;;;;2;0;;;;;;;;President / Governor;;Justin Damo Baro;https://en.wikipedia.org/wiki/Justin_Damo_Baro;Q3190428;34.2;partial_title|name_similarity:0.72|econ_context|country_hint|role_hint;rejected;0
+Damo Justin Baro;Damo Baro;BFA;damo;baro;BFA;;;;;2;0;;;;;;;;President / Governor;;Justin Damo Baro;https://en.wikipedia.org/wiki/Justin_Damo_Baro;Q3190428;34.2;partial_title|name_similarity:0.72|econ_context|country_hint|role_hint;rejected;0
+Robert Julienne;Robert Julienne;BFA;robert;julienne;BFA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Abdoulaye Fadiga;Abdoulaye Fadiga;BFA;abdoulaye;fadiga;BFA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+"Justin Damo Baro
+";Justin Baro;BFA;justin;baro;BFA;1983;1986;;;2;0;1952;1;;;;Burkina Faso;Toussiana Department;President / Governor;12;Justin Damo Baro;https://en.wikipedia.org/wiki/Justin_Damo_Baro;Q3190428;35.148148148148145;partial_title|name_similarity:0.81|econ_context|country_hint|role_hint;matched;1
+"Philippe-Henri Dakoury-Tabley
+";Philippe Dakourytabley;BFA;philippe;dakourytabley;BFA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Jean-Baptiste M.P. Compaore;Jean Compaore;BFA;jean;compaore;BFA;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+A.N.M Hamidullah;A Hamidullah;BGD;a;hamidullah;BGD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+M. Nurul Islam;Nurul Islam;BGD;nurul;islam;BGD;;;;;2;0;;;;;;;;President / Governor;;Nurul Islam;https://en.wikipedia.org/wiki/Nurul_Islam;Q7070305;42.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint|disambiguation_penalty;matched;1
+Sarkar;Lutfar Sarkar;BGD;lutfar;sarkar;BGD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dr. Salehuddin Ahmed;A Ahmed;BGD;a;ahmed;BGD;;;;;2;0;;;;;;;;President / Governor;;Z. A. Ahmed;https://en.wikipedia.org/wiki/Z._A._Ahmed;Q13115148;31.75;partial_title|name_similarity:0.88|econ_context|role_hint;rejected;0
+Shegufta Bakht Chaudhuri ;Shegufta Chaudhuri;BGD;shegufta;chaudhuri;BGD;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+A.K.N. Ahmed;A Ahmed;BGD;a;ahmed;BGD;;;;;2;0;;;;;;;;President / Governor;;Z. A. Ahmed;https://en.wikipedia.org/wiki/Z._A._Ahmed;Q13115148;31.75;partial_title|name_similarity:0.88|econ_context|role_hint;rejected;0
+Khorshed Alam;Khorshed Alam;BGD;khorshed;alam;BGD;;;;;2;0;1935;3;"University; Harvard University";;;Bangladesh;Narsingdi;President / Governor;1;Khorshed Alam;https://en.wikipedia.org/wiki/Khorshed_Alam;Q24943799;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+A.K.N. Ahmed;Fakhruddin Ahmed;BGD;fakhruddin;ahmed;BGD;2007;2009;1;1;2;0;1940;2;Princeton University;;;Bangladesh;Munshiganj District;President / Governor;5;Fakhruddin Ahmed;https://en.wikipedia.org/wiki/Fakhruddin_Ahmed;Q560060;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Dr. Fakhruddin Ahmed;Fakhruddin Ahmed;BGD;fakhruddin;ahmed;BGD;2007;2009;1;1;2;0;1940;2;Princeton University;;;Bangladesh;Munshiganj District;President / Governor;5;Fakhruddin Ahmed;https://en.wikipedia.org/wiki/Fakhruddin_Ahmed;Q560060;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Sanat Kumar Saha;Sanat Saha;BGD;sanat;saha;BGD;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Farashuddin;Mohammed Farashuddin;BGD;mohammed;farashuddin;BGD;;;;;2;0;1942;2;Boston University;;;British Raj;Assam Province;President / Governor;4;Mohammed Farashuddin;https://en.wikipedia.org/wiki/Mohammed_Farashuddin;Q24943804;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Mustafa Kamal Mujeri;Mustafa Mujeri;BGD;mustafa;mujeri;BGD;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+A. K. M. Aftab ul Islam;A Islam;BGD;a;islam;BGD;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Dr. Atiur Rahman;Atiur Rahman;BGD;atiur;rahman;BGD;2009;2016;5;3;2;0;1953;2;;;;Bangladesh;Jamalpur District;President / Governor;12;Atiur Rahman;https://en.wikipedia.org/wiki/Atiur_Rahman;Q3350886;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Mohammad Ali Taslim;Mohammad Taslim;BGD;mohammad;taslim;BGD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Ahsan H. Mansur;Ahsan Mansur;BGD;ahsan;mansur;BGD;;;;;2;0;1950;3;University of;;;Pakistan;1950/1951 (age 74–75) East Bengal;President / Governor;;Ahsan H. Mansur;https://en.wikipedia.org/wiki/Ahsan_H._Mansur;Q116759475;36.23076923076923;partial_title|name_similarity:0.92|econ_context|country_hint|role_hint;matched;1
+Abul Quasem;Abul Quasem;BGD;abul;quasem;BGD;;;;;2;0;;;;;;;;President / Governor;;Mohammad Abul Quasem;https://en.wikipedia.org/wiki/Mohammad_Abul_Quasem;Q106410468;34.096774193548384;partial_title|name_similarity:0.71|econ_context|country_hint|role_hint;rejected;0
+S. M. Mahfuzur Rahman;S Rahman;BGD;s;rahman;BGD;;;;;0;0;;;;;;;;Board member;;Talat Rahman;https://en.wikipedia.org/wiki/Talat_Rahman;Q88416015;21.0;shared_last_name|name_similarity:0.70|econ_context;rejected;0
+Sadiq Ahmed;Sadiq Ahmed;BGD;sadiq;ahmed;BGD;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Nazrul Huda;Nazrul Huda;BGD;nazrul;huda;BGD;;;;;0;0;;;;;;;;Board member;;A. T. M. Zahurul Huq;https://en.wikipedia.org/wiki/A._T._M._Zahurul_Huq;Q131994915;17.714285714285715;name_similarity:0.57|econ_context|country_hint;rejected;0
+Dr. Salehuddin Ahmed;Nasiruddin Ahmed;BGD;nasiruddin;ahmed;BGD;;;;;0;0;;;;;;;;Board member;;Nasiruddin Ahmed;https://en.wikipedia.org/wiki/Nasiruddin_Ahmed;Q124956231;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Rushidan Islam Rahman;Rushidan Rahman;BGD;rushidan;rahman;BGD;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Mohammad Tareque;Mohammad Tareque;BGD;mohammad;tareque;BGD;;;;;0;0;;;;;;;;Board member;;Mohammad Tareque;https://en.wikipedia.org/wiki/Mohammad_Tareque;Q131601693;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Shafiqur Rahman Patwari;Shafiqur Patwari;BGD;shafiqur;patwari;BGD;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Fazle Kabir;Fazle Kabir;BGD;fazle;kabir;BGD;2016;2022;3;7;2;0;1955;3;Cadet College;;;Bangladesh;Dhaka;President / Governor;7;Fazle Kabir;https://en.wikipedia.org/wiki/Fazle_Kabir;Q23304407;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Musharraf Hossain Bhuiyan;Musharraf Bhuiyan;BGD;musharraf;bhuiyan;BGD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Kazi Muktadir;Kazi Muktadir;BGD;kazi;muktadir;BGD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Hedayetullah Al Mamoon;Hedayetullah Mamoon;BGD;hedayetullah;mamoon;BGD;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Hedayetullah Mamoon;Hedayetullah Mamoon;BGD;hedayetullah;mamoon;BGD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Mohammad Muslim Chowdhury;Mohammad Chowdhury;BGD;mohammad;chowdhury;BGD;;;;;0;0;;;;;;;;Board member;;Niaz Mohammad Chowdhury;https://en.wikipedia.org/wiki/Niaz_Mohammad_Chowdhury;Q63184452;22.78048780487805;partial_title|name_similarity:0.88|country_hint;rejected;0
+Nojibur Rahman;Nojibur Rahman;BGD;nojibur;rahman;BGD;;;;;0;0;;;;;;;;Board member;;Md. Nojibur Rahman;https://en.wikipedia.org/wiki/Md._Nojibur_Rahman;Q124972501;36.03225806451613;partial_title|name_similarity:0.90|econ_context|country_hint|role_hint;rejected;0
+Ahmed Jamal;Ahmed Jamal;BGD;ahmed;jamal;BGD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;Ahmed Jamal;https://en.wikipedia.org/wiki/Ahmed_Jamal;Q92767713;25.0;exact_title|name_similarity:1.00|disambiguation_penalty;matched;1
+A.K.N. Ahmed;Salehuddin Ahmed;BGD;salehuddin;ahmed;BGD;;;;;2;0;;;;;;;;President / Governor;;Salehuddin Ahmed (economist);https://en.wikipedia.org/wiki/Salehuddin_Ahmed_(economist);Q20202812;42.61904761904762;strong_title|name_similarity:0.76|econ_context|country_hint|role_hint;rejected;0
+Dr. Salehuddin Ahmed;Salehuddin Ahmed;BGD;salehuddin;ahmed;BGD;;;;;2;0;;;;;;;;President / Governor;;Salehuddin Ahmed (economist);https://en.wikipedia.org/wiki/Salehuddin_Ahmed_(economist);Q20202812;42.61904761904762;strong_title|name_similarity:0.76|econ_context|country_hint|role_hint;rejected;0
+M Khan;M Khan;BGD;m;khan;BGD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;Lina Khan;https://en.wikipedia.org/wiki/Lina_Khan;Q56523534;20.666666666666664;shared_last_name|name_similarity:0.67|econ_context;rejected;0
+Abu Nasser;Abu Nasser;BGD;abu;nasser;BGD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Abdur Rouf Talukder;Abdur Talukder;BGD;abdur;talukder;BGD;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Abdur Talukder;Abdur Talukder;BGD;abdur;talukder;BGD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Mostakur Rahman;Mostakur Rahman;BGD;mostakur;rahman;BGD;;;;;2;0;;;;;;;;President / Governor;;Md Mostaqur Rahman;https://en.wikipedia.org/wiki/Md_Mostaqur_Rahman;Q138464766;31.484848484848484;shared_last_name|name_similarity:0.85|econ_context|country_hint|role_hint;rejected;0
+Md. Ezazul Islam;Md Islam;BGD;md;islam;BGD;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Md. Zabaidul Islam;Md Islam;BGD;md;islam;BGD;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Dr. Fakhruddin Ahmed;Salahuddin Ahmed;BGD;salahuddin;ahmed;BGD;;;;;2;0;;;;;;;;President / Governor;;Salahuddin Ahmed;https://en.wikipedia.org/wiki/Salahuddin_Ahmed;Q19745126;29.0;exact_title|name_similarity:1.00|country_hint|disambiguation_penalty;matched;1
+Dr. Salehuddin Ahmed;Salahuddin Ahmed;BGD;salahuddin;ahmed;BGD;;;;;2;0;;;;;;;;President / Governor;;Salahuddin Ahmed;https://en.wikipedia.org/wiki/Salahuddin_Ahmed;Q19745126;29.0;exact_title|name_similarity:1.00|country_hint|disambiguation_penalty;matched;1
+A.K.N. Ahmed;Momtaz Ahmed;BGD;momtaz;ahmed;BGD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Ghulam Hussain;Ghulam Hussain;BGD;ghulam;hussain;BGD;;;;;2;0;;;;;;;;President / Governor;;Ghulam Hussain (civil servant);https://en.wikipedia.org/wiki/Ghulam_Hussain_(civil_servant);Q124978513;41.666666666666664;strong_title|name_similarity:0.67|econ_context|country_hint|role_hint;rejected;0
+Dr. Atiur Rahman;Md Rahman;BGD;md;rahman;BGD;;;;;0;0;;;;;;;;Board member;;MD Rahman;https://en.wikipedia.org/wiki/MD_Rahman;Q116741180;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Dr. Atiur Rahman;Kazi Rahman;BGD;kazi;rahman;BGD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Md. Habibur Rahman;Md Rahman;BGD;md;rahman;BGD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;MD Rahman;https://en.wikipedia.org/wiki/MD_Rahman;Q116741180;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Todor Valchev;Todor Valchev;BGR;todor;valchev;BGR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Lyubomir Filipov;Lyubomir Filipov;BGR;lyubomir;filipov;BGR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Svetoslav Gavriiski;Svetoslav Gavriiski;BGR;svetoslav;gavriiski;BGR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Emilia Milanova;Emilia Milanova;BGR;emilia;milanova;BGR;;;;;1;1;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Oleg Nedyalkov;Oleg Nedyalkov;BGR;oleg;nedyalkov;BGR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Emiliya Milanova;Emiliya Milanova;BGR;emiliya;milanova;BGR;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+Statty Stattev;Statty Stattev;BGR;statty;stattev;BGR;;;;;0;0;;;;;;;;Board member;;Stati Statev;https://en.wikipedia.org/wiki/Stati_Statev;Q12295085;20.46153846153846;name_similarity:0.85|econ_context|country_hint;rejected;0
+Dimitar Radev;Dimitar Radev;BGR;dimitar;radev;BGR;2015;;7;;2;0;1956;2;Georgetown University;;;Bulgaria;Plovdiv;President / Governor;7;Dimitar Radev;https://en.wikipedia.org/wiki/Dimitar_Radev;Q25431484;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Dimitar Kostov;Dimiter Kostov;BGR;dimiter;kostov;BGR;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Dimitar Kostov;Dimitar Kostov;BGR;dimitar;kostov;BGR;;;;;1;0;1936;;;;;Bulgaria;Sofia;Vice-president / Deputy-governor;7;Dimitar Kostov;https://en.wikipedia.org/wiki/Dimitar_Kostov;Q3707774;39.0;exact_title|name_similarity:1.00|country_hint;matched;1
+Tsvetan Gunev;Tsvetan Gunev;BGR;tsvetan;gunev;BGR;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Tsvetan Manchev;Tsvetan Manchev;BGR;tsvetan;manchev;BGR;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Tsvetan Manchev;Tsvetan Manchev;BGR;tsvetan;manchev;BGR;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Nikolay Nenovsky;Nikolay Nenovsky;BGR;nikolay;nenovsky;BGR;;;;;0;0;1963;1;;;;Bulgaria;Veliko Tarnovo;Board member;7;Nikolay Nenovsky;https://en.wikipedia.org/wiki/Nikolay_Nenovsky;Q718970;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Nina Stoyanova;Nina Stoyanova;BGR;nina;stoyanova;BGR;;;;;1;1;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Ivan Iskrov;Ivan Iskrov;BGR;ivan;iskrov;BGR;2003;2015;10;7;2;0;1967;1;;;;Bulgaria;Pirdop;President / Governor;3;Ivan Iskrov;https://en.wikipedia.org/wiki/Ivan_Iskrov;Q1774671;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Ivan Iskrov;Ivan Iskrov;BGR;ivan;iskrov;BGR;2003;2015;10;7;2;0;1967;1;;;;Bulgaria;Pirdop;President / Governor;3;Ivan Iskrov;https://en.wikipedia.org/wiki/Ivan_Iskrov;Q1774671;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Ivan Iskrov;Ivan Iskrov;BGR;ivan;iskrov;BGR;2003;2015;10;7;1;0;1967;1;;;;Bulgaria;Pirdop;Vice-president / Deputy-governor;3;Ivan Iskrov;https://en.wikipedia.org/wiki/Ivan_Iskrov;Q1774671;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Kalin Hristov;Kalin Hristov;BGR;kalin;hristov;BGR;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Radoslav Milenkov;Radoslav Milenkov;BGR;radoslav;milenkov;BGR;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Lyudmila Elkova;Lyudmila Elkova;BGR;lyudmila;elkova;BGR;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Lyudmila Elkova;Lyudmila Elkova;BGR;lyudmila;elkova;BGR;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Elitsa Nikolova;Elitsa Nikolova;BGR;elitsa;nikolova;BGR;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Iliya Lingorski;Iliya Lingorski;BGR;iliya;lingorski;BGR;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Andrey Gurov;Andrey Gurov;BGR;andrey;gurov;BGR;;;;;1;0;1975;;;;;;;Vice-president / Deputy-governor;1;Andrey Gurov;https://en.wikipedia.org/wiki/Andrey_Gurov;Q20036949;35.0;exact_title|name_similarity:1.00;matched;1
+Petar Chobanov;Petar Chobanov;BGR;petar;chobanov;BGR;2013;2013;5;5;1;0;1976;1;;;;Bulgaria;Yambol;Vice-president / Deputy-governor;7;Petar Chobanov;https://en.wikipedia.org/wiki/Petar_Chobanov;Q15732366;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Petar Chobanov;Petar Chobanov;BGR;petar;chobanov;BGR;2013;2013;5;5;1;0;1976;1;;;;Bulgaria;Yambol;Vice-president / Deputy-governor;7;Petar Chobanov;https://en.wikipedia.org/wiki/Petar_Chobanov;Q15732366;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Ivan Stefanov;Ivan Stefanov;BGR;ivan;stefanov;BGR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Tzonyu Tzonchev;Tzonyu Tzonchev;BGR;tzonyu;tzonchev;BGR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Atanas Mechkarov;Atanas Mechkarov;BGR;atanas;mechkarov;BGR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Vela Lukanova;Vela Lukanova;BGR;vela;lukanova;BGR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Kiril Nestorov;Kiril Nestorov;BGR;kiril;nestorov;BGR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Kiril Zarev;Kiril Zarev;BGR;kiril;zarev;BGR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Veselin Nikiforov;Veselin Nikiforov;BGR;veselin;nikiforov;BGR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Vasil Kolarov;Vasil Kolarov;BGR;vasil;kolarov;BGR;1949;1950;7;1;2;0;1877;1;;;;Bulgaria;Shumen;President / Governor;7;Vasil Kolarov;https://en.wikipedia.org/wiki/Vasil_Kolarov;Q350248;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Ivan Dragnevski;Ivan Dragnevski;BGR;ivan;dragnevski;BGR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Garabed Minassian;Garabed Minassian;BGR;garabed;minassian;BGR;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Rumen Simeonov;Rumen Simeonov;BGR;rumen;simeonov;BGR;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Penka Kratunova;Penka Kratunova;BGR;penka;kratunova;BGR;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+Boryana Pencheva;Boryana Pencheva;BGR;boryana;pencheva;BGR;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Nelly Kordovska;Nelly Kordovska;BGR;nelly;kordovska;BGR;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Abdulla Hassan Saif;Abdullah Saif;BHR;abdullah;saif;BHR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Rasheed Maraj;Rasheed Maraj;BHR;rasheed;maraj;BHR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Shaikh Abdulla bin Khalifa Al Khalifa;Ahmed Khalifa;BHR;ahmed;khalifa;BHR;;;;;2;0;1985;;;;;Egypt;Ismailia;President / Governor;3;Ahmed Khalifa;https://en.wikipedia.org/wiki/Ahmed_Khalifa;Q16223711;35.0;exact_title|name_similarity:1.00;matched;1
+Abdul Albaker;Abdul Albaker;BHR;abdul;albaker;BHR;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Shaikh Ahmed bin Mohammed Al Khalifa;Ahmed Khalifa;BHR;ahmed;khalifa;BHR;;;;;2;0;1985;;;;;Egypt;Ismailia;President / Governor;3;Ahmed Khalifa;https://en.wikipedia.org/wiki/Ahmed_Khalifa;Q16223711;35.0;exact_title|name_similarity:1.00;matched;1
+Abdulla Hassan Saif;Abdulla Saif;BHR;abdulla;saif;BHR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Shaikh Ahmed bin Mohammed Al Khalifa;Abdullah Khalifa;BHR;abdullah;khalifa;BHR;;;;;2;0;;;;;;;;President / Governor;;Khalid bin Abdullah Al Khalifa;https://en.wikipedia.org/wiki/Khalid_bin_Abdullah_Al_Khalifa;Q16730783;33.95652173913044;partial_title|name_similarity:0.70|econ_context|country_hint|role_hint;rejected;0
+Khalid Humaidan;Khalid Humaidan;BHR;khalid;humaidan;BHR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Carleton Williams;Carleton Williams;BHS;carleton;williams;BHS;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+ Timothy B. Donaldson;Timothy Donaldson;BHS;timothy;donaldson;BHS;;;;;2;0;1934;2;Columbia University;;;1934;( 1934-01-02 ) January 2;President / Governor;1;Timothy Donaldson;https://en.wikipedia.org/wiki/Timothy_Donaldson;Q7807158;43.0;exact_title|name_similarity:1.00|econ_context;matched;1
+John A. Rolle;Warren Rolle;BHS;warren;rolle;BHS;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Collin Callender;Collin Callender;BHS;collin;callender;BHS;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Sir. William C. Allen (reapp.);Julian Reapp;BHS;julian;reapp;BHS;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Pandora Johnson;Pandora Johnson;BHS;pandora;johnson;BHS;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Vincent Vanderpool-Wallace;Vincent Vanderpoolwallace;BHS;vincent;vanderpoolwallace;BHS;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Archdeacon James Palacious;Archdeacon Palacious;BHS;archdeacon;palacious;BHS;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Julian W Francis;Julian Francis;BHS;julian;francis;BHS;;;;;2;0;;;;;;;;President / Governor;;Frank Francis;https://en.wikipedia.org/wiki/Frank_Francis;Q646445;26.407407407407405;shared_last_name|name_similarity:0.74|econ_context|role_hint;rejected;0
+Julian W. Francis;Julian Francis;BHS;julian;francis;BHS;;;;;2;0;;;;;;;;President / Governor;;Frank Francis;https://en.wikipedia.org/wiki/Frank_Francis;Q646445;26.407407407407405;shared_last_name|name_similarity:0.74|econ_context|role_hint;rejected;0
+Michael Lightbourne;Michael Lightbourne;BHS;michael;lightbourne;BHS;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Duane Sands;Duane Sands;BHS;duane;sands;BHS;;;;;2;0;1962;2;"University; Hopkins School of Medicine";;;Bahamas;1962 (age 63–64) Nassau;President / Governor;;Duane Sands;https://en.wikipedia.org/wiki/Duane_Sands;Q104414309;35.0;exact_title|name_similarity:1.00;matched;1
+John Rolle;John Rolle;BHS;john;rolle;BHS;;;;;2;0;1756;3;Emmanuel College;;;;;President / Governor;10;John Rolle, 1st Baron Rolle;https://en.wikipedia.org/wiki/John_Rolle,_1st_Baron_Rolle;Q6255491;31.555555555555557;strong_title|name_similarity:0.56|econ_context;matched;1
+Sir William C. Allen;William Allen;BHS;william;allen;BHS;;;;;2;0;;;;;;;;President / Governor;;William Allen (governor);https://en.wikipedia.org/wiki/William_Allen_(governor);Q880659;38.42857142857143;strong_title|name_similarity:0.74|econ_context|role_hint;rejected;0
+James E. Smith;James Smith;BHS;james;smith;BHS;;;;;2;0;;;;;;;;President / Governor;;James Smith Cree Nation;https://en.wikipedia.org/wiki/James_Smith_Cree_Nation;Q6143359;24.470588235294116;strong_title|name_similarity:0.65;rejected;0
+Julian W Francis;Julian Francis;BHS;julian;francis;BHS;;;;;2;0;;;;;;;;President / Governor;;Frank Francis;https://en.wikipedia.org/wiki/Frank_Francis;Q646445;26.407407407407405;shared_last_name|name_similarity:0.74|econ_context|role_hint;rejected;0
+Wendy Craigg;Wendy Craigg;BHS;wendy;craigg;BHS;2005;2015;6;12;2;1;;1;;;;;;President / Governor;;Wendy Craigg;https://en.wikipedia.org/wiki/Wendy_Craigg;Q16187819;48.0;exact_title|name_similarity:1.00|econ_context|role_hint;matched;1
+Edgar Moxey;Edgar Moxey;BHS;edgar;moxey;BHS;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Paula Adderley;Paula Adderley;BHS;paula;adderley;BHS;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Jure Pelivan;Jure Pelivan;BIH;jure;pelivan;BIH;1992;1992;3;11;0;0;1928;;;;;Bosnia and Herzegovina;Livno;Board member;12;Jure Pelivan;https://en.wikipedia.org/wiki/Jure_Pelivan;Q16513879;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Kasim Omicevic;Kasim Omicevic;BIH;kasim;omicevic;BIH;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Peter Nicholl;Peter Nicholl;BIH;peter;nicholl;BIH;1997;2004;7;12;2;0;1944;1;;;;New Zealand;Hamilton;President / Governor;1;Peter Nicholl;https://en.wikipedia.org/wiki/Peter_Nicholl;Q7176092;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Vasilj Zarkovic;Vasilj Zarkovic;BIH;vasilj;zarkovic;BIH;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Zeljko Sain;Zeljko Sain;BIH;zeljko;sain;BIH;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Ankica Kolobaric;Ankica Kolobaric;BIH;ankica;kolobaric;BIH;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Kemal KozarićBis;Kemal Kozaricbis;BIH;kemal;kozaricbis;BIH;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Radomir Božić;Radomir Bozic;BIH;radomir;bozic;BIH;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Fikret Causevic;Fikret Causevic;BIH;fikret;causevic;BIH;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Senad Softic;Senad Softic;BIH;senad;softic;BIH;;;;;2;0;;;;;;;;President / Governor;;Jasmina Selimović;https://en.wikipedia.org/wiki/Jasmina_Selimović;Q137599400;22.517241379310345;name_similarity:0.55|econ_context|country_hint|role_hint;rejected;0
+Vladusic Ljubisa;Vladusic Ljubisa;BIH;vladusic;ljubisa;BIH;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Željko Marić;Zeljko Maric;BIH;zeljko;maric;BIH;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Jasmina Selimović;Jasmina Selimovic;BIH;jasmina;selimovic;BIH;2024;;1;;2;1;1979;2;;;;Bosnia and Herzegovina;Sarajevo;President / Governor;7;Jasmina Selimović;https://en.wikipedia.org/wiki/Jasmina_Selimović;Q137599400;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Manoijo Coric;Manoijo Coric;BIH;manoijo;coric;BIH;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Ljubomir Kovacević;Ljubomir Kovacevic;BIH;ljubomir;kovacevic;BIH;;;;;0;0;1848;;;;;Serbia;Petnica;Board member;1;Ljubomir Kovačević;https://en.wikipedia.org/wiki/Ljubomir_Kovačević;Q14506819;35.0;exact_title|name_similarity:1.00;matched;1
+Mehmed Jahit;Mehmed Jahit;BIH;mehmed;jahit;BIH;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Trivo Marinković;Trivo Marinkovic;BIH;trivo;marinkovic;BIH;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Marko Vidojević;Marko Vidojevic;BIH;marko;vidojevic;BIH;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Nikolai Omelyanovich;Nikolai Omelyanovich;BLR;nikolai;omelyanovich;BLR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Stanislav A. Bogdankevich;Stanislav Bogdankevich;BLR;stanislav;bogdankevich;BLR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Petr P. Prokopovich;Pyotr Prokopovich;BLR;pyotr;prokopovich;BLR;;;;;2;0;;;;;;;;President / Governor;;Pyotr Prokopovich;https://en.wikipedia.org/wiki/Pyotr_Prokopovich;Q4380355;35.0;exact_title|name_similarity:1.00;matched;1
+Vladimir Ya. Senko;Vladimir Senko;BLR;vladimir;senko;BLR;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Gennady S. Aleynikov;Gennady Aleynikov;BLR;gennady;aleynikov;BLR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Tamara D. Vinnikova;Tamara Vinnikova;BLR;tamara;vinnikova;BLR;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+Nadezhda Yermakova ;Nadezhda Yermakova;BLR;nadezhda;yermakova;BLR;;;;;2;1;1953;2;Economic University;;;Belarus;Razaĺmova;President / Governor;4;Nadezhda Yermakova;https://en.wikipedia.org/wiki/Nadezhda_Yermakova;Q3646683;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Petr A. Mamanovich;Petr Mamanovich;BLR;petr;mamanovich;BLR;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Pavel Uladzimiravich Kalaur;Pavel Kalaur;BLR;pavel;kalaur;BLR;;;;;2;0;;;;;;;;President / Governor;;Pavel Kallaur;https://en.wikipedia.org/wiki/Pavel_Kallaur;Q18710422;26.6;name_similarity:0.96|econ_context|country_hint|role_hint;rejected;0
+Pavel Kallaur;Pavel Kallaur;BLR;pavel;kallaur;BLR;2014;2025;12;3;2;0;1962;1;;;;Belarus;Bielavuša;President / Governor;8;Pavel Kallaur;https://en.wikipedia.org/wiki/Pavel_Kallaur;Q18710422;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Elena Mashnina;Elena Mashnina;BLR;elena;mashnina;BLR;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Dmitry Lapko;Dmitry Lapko;BLR;dmitry;lapko;BLR;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Sergei Kalechits;Sergei Kalechits;BLR;sergei;kalechits;BLR;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Alexander V. Lobanov;Alexander Lobanov;BLR;alexander;lobanov;BLR;;;;;0;0;;;;;;;;Board member;;Alexander Lobanov (artist);https://en.wikipedia.org/wiki/Alexander_Lobanov_(artist);Q1857695;26.29268292682927;strong_title|name_similarity:0.83;rejected;0
+Sergey V. Dubkov;Sergey Dubkov;BLR;sergey;dubkov;BLR;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Yury M. Alymov;Yury Alymov;BLR;yury;alymov;BLR;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Taras Yu. Nadolyn;Taras Nadolyn;BLR;taras;nadolyn;BLR;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Ilona A. Durasova/Lednitskaya;Ilona Durasovalednitskaya;BLR;ilona;durasovalednitskaya;BLR;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Dmitry L. Kalechits;Dmitry Kalechits;BLR;dmitry;kalechits;BLR;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Sir Edney Cain;Edney Cain;BLZ;edney;cain;BLZ;;;;;2;0;1924;;;;;Belize;Belize;President / Governor;12;Edney Cain;https://en.wikipedia.org/wiki/Edney_Cain;Q26997689;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Sir Edney Cain;Edney Cain;BLZ;edney;cain;BLZ;;;;;2;0;1924;;;;;Belize;Belize;President / Governor;12;Edney Cain;https://en.wikipedia.org/wiki/Edney_Cain;Q26997689;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Manual Esquivel;Manual Esquivel;BLZ;manual;esquivel;BLZ;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Jorge Meliton Auil;Jorge Auil;BLZ;jorge;auil;BLZ;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Ricardo Pelayo;Ricardo Pelayo;BLZ;ricardo;pelayo;BLZ;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Joy Grant;Joy Grant;BLZ;joy;grant;BLZ;2016;2021;10;3;2;1;1951;1;;;;Belize;Belize City;President / Governor;2;Joy Grant;https://en.wikipedia.org/wiki/Joy_Grant;Q18978033;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Carla Barnett;Carla Barnett;BLZ;carla;barnett;BLZ;;;;;1;1;1958;1;;;;Belize;Belize City;Vice-president / Deputy-governor;2;Carla Barnett;https://en.wikipedia.org/wiki/Carla_Barnett;Q86004208;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Glenford Ysaguirre;Glenford Ysaguirre;BLZ;glenford;ysaguirre;BLZ;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Carla Burnett;Carla Burnett;BLZ;carla;burnett;BLZ;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Jaime Briceño;Jaime Briceno;BLZ;jaime;briceno;BLZ;;;;;0;0;;;;;;;;Board member;;Johnny Briceño;https://en.wikipedia.org/wiki/Johnny_Briceño;Q6266369;16.666666666666664;shared_last_name|name_similarity:0.67|country_hint;rejected;0
+Francis Fonseca;Francis Fonseca;BLZ;francis;fonseca;BLZ;;;;;0;0;1967;2;Louisiana University of the West;;;Belize;Belize City;Board member;3;Francis Fonseca;https://en.wikipedia.org/wiki/Francis_Fonseca;Q5480967;39.0;exact_title|name_similarity:1.00|country_hint;matched;1
+Kareem Michael;Kareem Michael;BLZ;kareem;michael;BLZ;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Vanessa Retreage;Vanessa Retreage;BLZ;vanessa;retreage;BLZ;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Robert Swift;Robert Swift;BLZ;robert;swift;BLZ;;;;;2;0;1985;1;;;;United States;Bakersfield;President / Governor;12;Robert Swift;https://en.wikipedia.org/wiki/Robert_Swift;Q2657620;35.0;exact_title|name_similarity:1.00;matched;1
+Alan Slusher;Alan Slusher;BLZ;alan;slusher;BLZ;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Keith Arnold;Keith Arnold;BLZ;keith;arnold;BLZ;;;;;2;0;;;;;;;;President / Governor;;Keith Arnold (bishop);https://en.wikipedia.org/wiki/Keith_Arnold_(bishop);Q6383998;25.741935483870968;strong_title|name_similarity:0.77;rejected;0
+Sydney Campbell;Sydney Campbell;BLZ;sydney;campbell;BLZ;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Marilyn Gardinerusher;Marilyn Gardinerusher;BLZ;marilyn;gardinerusher;BLZ;;;;;1;1;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+John Mencias;John Mencias;BLZ;john;mencias;BLZ;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Nestor Vasquez;Nestor Vasquez;BLZ;nestor;vasquez;BLZ;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;Jules Vasquez;https://en.wikipedia.org/wiki/Jules_Vasquez;Q66661710;30.407407407407405;shared_last_name|name_similarity:0.74|econ_context|country_hint|role_hint;rejected;0
+Gustavo Manuel Vasquez;Gustavo Vasquez;BLZ;gustavo;vasquez;BLZ;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Matthew Elderfield;Matthew Elderfield;BMU;matthew;elderfield;BMU;;;;;2;0;1966;;;;;;;President / Governor;1;Matthew Elderfield;https://en.wikipedia.org/wiki/Matthew_Elderfield;Q6790458;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Darren Q. Johnston;Darren Johnston;BMU;darren;johnston;BMU;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Mansfield Brock;Mansfield Brock;BMU;mansfield;brock;BMU;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Cheryl-Ann Lister;Cheryl Lister;BMU;cheryl;lister;BMU;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+Alan C. Cossar;Alan Cossar;BMU;alan;cossar;BMU;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Gerald D.E. Simons;Gerald Simons;BMU;gerald;simons;BMU;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Raúl Boada Rodríguez;Raul Rodriguez;BOL;raul;rodriguez;BOL;;;;;2;0;;;;;;;;President / Governor;;Raúl Rodríguez (boxer);https://en.wikipedia.org/wiki/Raúl_Rodríguez_(boxer);Q7299837;26.235294117647054;strong_title|name_similarity:0.82;rejected;0
+Pablo Ramos Sánchez;Pablo Sanchez;BOL;pablo;sanchez;BOL;;;;;2;0;;;;;;;;President / Governor;;Pablo Sánchez-Valladares;https://en.wikipedia.org/wiki/Pablo_Sánchez-Valladares;Q95494523;25.027027027027028;strong_title|name_similarity:0.70;rejected;0
+Armando Méndez Morales;Armando Morales;BOL;armando;morales;BOL;;;;;2;0;1927;;;;;Nicaragua;Granada;President / Governor;1;Armando Morales;https://en.wikipedia.org/wiki/Armando_Morales;Q4792796;35.0;exact_title|name_similarity:1.00;matched;1
+Juan Antonio Morales;Juan Morales;BOL;juan;morales;BOL;;;;;2;0;;;;;;;;President / Governor;;Juan Morales (hurdler);https://en.wikipedia.org/wiki/Juan_Morales_(hurdler);Q522917;25.5;strong_title|name_similarity:0.75;rejected;0
+Fernando Baldivieso;Fernando Baldivieso;BOL;fernando;baldivieso;BOL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Agustín Saavedra Weise;Agustin Weise;BOL;agustin;weise;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Armando Siles;Armando Siles;BOL;armando;siles;BOL;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Gabriel Loza Tellería;Gabriel Telleria;BOL;gabriel;telleria;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Fernando Prudencio;Fernando Prudencio;BOL;fernando;prudencio;BOL;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Marcelo Zabalaga;Marcelo Zabalaga;BOL;marcelo;zabalaga;BOL;2010;2017;11;3;2;0;1953;1;;;;Bolivia;Cochabamba;President / Governor;8;Marcelo Zabalaga;https://en.wikipedia.org/wiki/Marcelo_Zabalaga;Q11988100;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Luis Olea;Luis Olea;BOL;luis;olea;BOL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Gustavo Blacutt Alcalà;Gustavo Alcala;BOL;gustavo;alcala;BOL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Guillermo Aponte Reyes Ortiz;Guillermo Ortiz;BOL;guillermo;ortiz;BOL;;;;;2;0;;;;;;;;President / Governor;;Guillermo Ortiz Martínez;https://en.wikipedia.org/wiki/Guillermo_Ortiz_Martínez;Q911058;38.69230769230769;strong_title|name_similarity:0.77|econ_context|role_hint;rejected;0
+Ernesto Aguilar;Ernesto Aguilar;BOL;ernesto;aguilar;BOL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Roger Edwin Rojas Ulo;Roger Ulo;BOL;roger;ulo;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Alfredo Alexander Jordán;Alfredo Jordan;BOL;alfredo;jordan;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+José María Gutiérrez;Jose Gutierrez;BOL;jose;gutierrez;BOL;;;;;2;0;;;;;;;;President / Governor;;José Gutiérrez Guerra;https://en.wikipedia.org/wiki/José_Gutiérrez_Guerra;Q3306291;43.0;strong_title|name_similarity:0.80|econ_context|country_hint|role_hint;rejected;0
+Alcides Molina;Alcides Molina;BOL;alcides;molina;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Humberto Cuenca de la Riva;Humberto Riva;BOL;humberto;riva;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Armando Pinell Centellas;Armando Centellas;BOL;armando;centellas;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Franklin Antezana Paz;Franklin Paz;BOL;franklin;paz;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Luis Peñaloza Cordero;Luis Cordero;BOL;luis;cordero;BOL;;;;;2;0;;;;;;;;President / Governor;;Luis Cordero Crespo;https://en.wikipedia.org/wiki/Luis_Cordero_Crespo;Q889119;38.74193548387097;strong_title|name_similarity:0.77|econ_context|role_hint;rejected;0
+Eufronio Hinojosa Guzmán;Eufronio Guzman;BOL;eufronio;guzman;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Humberto Fossati Rocha;Humberto Rocha;BOL;humberto;rocha;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Raúl Lema Pelaez;Raul Pelaez;BOL;raul;pelaez;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Santiago Sologuren Sologuren;Santiago Sologuren;BOL;santiago;sologuren;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Alberto Ibañez Gonzales;Alberto Gonzales;BOL;alberto;gonzales;BOL;;;;;2;0;1955;3;"Academy; University; Harvard University";;;United States;San Antonio;President / Governor;8;Alberto Gonzales;https://en.wikipedia.org/wiki/Alberto_Gonzales;Q202350;35.0;exact_title|name_similarity:1.00;matched;1
+Luis Arce Pacheco;Luis Pacheco;BOL;luis;pacheco;BOL;;;;;2;0;;;;;;;;President / Governor;;Luis Pacheco de Narváez;https://en.wikipedia.org/wiki/Luis_Pacheco_de_Narváez;Q2370221;24.857142857142858;strong_title|name_similarity:0.69;rejected;0
+Jorge Jordán Ferrufino;Jorge Ferrufino;BOL;jorge;ferrufino;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Oscar Vega López;Oscar Lopez;BOL;oscar;lopez;BOL;;;;;2;0;;;;;;;;President / Governor;;Oscar López Rivera;https://en.wikipedia.org/wiki/Oscar_López_Rivera;Q7106111;38.58620689655172;strong_title|name_similarity:0.76|econ_context|role_hint;rejected;0
+Wenceslao Alba Quiroz;Wenceslao Quiroz;BOL;wenceslao;quiroz;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Manuel Mercado Montero;Manuel Montero;BOL;manuel;montero;BOL;;;;;2;0;1991;;;;;Argentina;Buenos Aires;President / Governor;11;Manuel Montero;https://en.wikipedia.org/wiki/Manuel_Montero;Q6752744;35.0;exact_title|name_similarity:1.00;matched;1
+Luis Bedregal Rodo;Luis Rodo;BOL;luis;rodo;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+José Justiniano Aguilera;Jose Aguilera;BOL;jose;aguilera;BOL;;;;;2;0;2000;;;;;Chile;Combarbalá;President / Governor;1;José Aguilera;https://en.wikipedia.org/wiki/José_Aguilera;Q56842928;35.0;exact_title|name_similarity:1.00;matched;1
+Miguel Fabbri Cohn;Miguel Cohn;BOL;miguel;cohn;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Enrique García Ayaviri;Enrique Ayaviri;BOL;enrique;ayaviri;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Arturo Nuñez del Prado;Marcelo Prado;BOL;marcelo;prado;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Guido Salinas;Guido Salinas;BOL;guido;salinas;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Luis Viscarra Cruz;Luis Cruz;BOL;luis;cruz;BOL;;;;;2;0;1984;;;;;;Navojoa;President / Governor;2;Luis Cruz;https://en.wikipedia.org/wiki/Luis_Cruz;Q3266651;35.0;exact_title|name_similarity:1.00;matched;1
+Herbert Müller Costas;Herbert Costas;BOL;herbert;costas;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Reynaldo Cardozo Arellano;Reynaldo Arellano;BOL;reynaldo;arellano;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Tamara Sánchez Peña;Tamara Pena;BOL;tamara;pena;BOL;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+Javier Nogales Iturri;Javier Iturri;BOL;javier;iturri;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Jacques Trigo Loubiere;Jacques Loubiere;BOL;jacques;loubiere;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Fernando Candia Castillo;Fernando Castillo;BOL;fernando;castillo;BOL;;;;;2;0;;;;;;;;President / Governor;;Fernando Castillo Velasco metro station;https://en.wikipedia.org/wiki/Fernando_Castillo_Velasco_metro_station;Q5970123;37.07142857142857;strong_title|name_similarity:0.61|econ_context|role_hint;rejected;0
+Armando Méndez Morales;Juan Morales;BOL;juan;morales;BOL;;;;;2;0;;;;;;;;President / Governor;;Juan Morales (hurdler);https://en.wikipedia.org/wiki/Juan_Morales_(hurdler);Q522917;25.5;strong_title|name_similarity:0.75;rejected;0
+José Luis Evia Vizcarra;Jose Vizcarra;BOL;jose;vizcarra;BOL;;;;;0;0;;;;;;;;Board member;;José Vizcarra;https://en.wikipedia.org/wiki/José_Vizcarra;Q124250285;33.0;exact_title|name_similarity:1.00|econ_context|disambiguation_penalty;matched;1
+Raul Garron Claure;Raul Claure;BOL;raul;claure;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Lenny Valdivia Bautista;Lenny Bautista;BOL;lenny;bautista;BOL;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+Abraham Pérez Alandia;Abraham Alandia;BOL;abraham;alandia;BOL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Reynaldo Yujra Segales;Reynaldo Segales;BOL;reynaldo;segales;BOL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Rafael Bloyan Tellez;Rafael Tellez;BOL;rafael;tellez;BOL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+David Iván Espinoza Torrico;David Torrico;BOL;david;torrico;BOL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dênio Chagas Nogueir;Denio Nogueir;BRA;denio;nogueir;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dênio Chagas Nogueira;Denio Nogueira;BRA;denio;nogueira;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Ary Burger;Ary Burger;BRA;ary;burger;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Galvêas;Ernane Galveas;BRA;ernane;galveas;BRA;1968;1974;2;3;2;0;1922;2;Princeton University;;;Brazil;Cachoeiro de Itapemirim;President / Governor;10;Ernane Galvêas;https://en.wikipedia.org/wiki/Ernane_Galvêas;Q5861550;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Galvêas;Ernane Galveas;BRA;ernane;galveas;BRA;1968;1974;2;3;2;0;1922;2;Princeton University;;;Brazil;Cachoeiro de Itapemirim;President / Governor;10;Ernane Galvêas;https://en.wikipedia.org/wiki/Ernane_Galvêas;Q5861550;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Rui Aguiar da Silva Leme;Rui Leme;BRA;rui;leme;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Camões;Elmo Camoes;BRA;elmo;camoes;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Brandão;Carlos Brandao;BRA;carlos;brandao;BRA;2015;2018;1;12;2;0;1958;3;State University;;;Brazil;Colinas;President / Governor;6;Carlos Brandão;https://en.wikipedia.org/wiki/Carlos_Brandão;Q18707872;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Lycio de Faria;Lycio Faria;BRA;lycio;faria;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Paulo Hortêncio Pereira Lima;Paulo Lima;BRA;paulo;lima;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Bracher;Fernao Bracher;BRA;fernao;bracher;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Pastore;Affonso Pastore;BRA;affonso;pastore;BRA;1983;1985;9;3;2;0;1938;1;;;;Brazil;São Paulo;President / Governor;6;Affonso Celso Pastore;https://en.wikipedia.org/wiki/Affonso_Celso_Pastore;Q4689024;35.333333333333336;partial_title|name_similarity:0.83|econ_context|country_hint|role_hint;matched;1
+Lira;Paulo Lira;BRA;paulo;lira;BRA;;;;;2;0;;;;;;;;President / Governor;;Vinicius Lira;https://en.wikipedia.org/wiki/Vinicius_Lira;Q131935711;15.217391304347826;shared_last_name|name_similarity:0.52|country_hint;rejected;0
+Paulo Vieira da Cunha;Paulo Cunha;BRA;paulo;cunha;BRA;;;;;0;0;;;;;;;;Board member;;Paulo Cunha (businessman);https://en.wikipedia.org/wiki/Paulo_Cunha_(businessman);Q10346617;41.47058823529411;strong_title|name_similarity:0.65|econ_context|country_hint|role_hint;rejected;0
+Gros;Francisco Gros;BRA;francisco;gros;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Gros;Francisco Gros;BRA;francisco;gros;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Malan;Pedro Malan;BRA;pedro;malan;BRA;1993;1994;9;12;2;0;1943;2;"Catholic University of Rio de; Janeiro University of California";;;Brazil;Petrópolis;President / Governor;2;Pedro Malan;https://en.wikipedia.org/wiki/Pedro_Malan;Q376883;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Langoni;Carlos Langoni;BRA;carlos;langoni;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Eris;Ibrahim Eris;BRA;ibrahim;eris;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Carlos Eduardo de Freitas;Carlos Freitas;BRA;carlos;freitas;BRA;;;;;2;0;1994;;;;;Portugal;Guimarães;President / Governor;1;Carlos Freitas;https://en.wikipedia.org/wiki/Carlos_Freitas;Q27830845;35.0;exact_title|name_similarity:1.00;matched;1
+Carlos Eduardo de Freitas;Carlos Freitas;BRA;carlos;freitas;BRA;;;;;0;0;1994;;;;;Portugal;Guimarães;Board member;1;Carlos Freitas;https://en.wikipedia.org/wiki/Carlos_Freitas;Q27830845;35.0;exact_title|name_similarity:1.00;matched;1
+Meirelles;Hinrique Meirelles;BRA;hinrique;meirelles;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Lemgruber;Antonio Lemgruber;BRA;antonio;lemgruber;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Francisco Lopes;Francisco Lopes;BRA;francisco;lopes;BRA;;;;;2;0;1955;;;;;Portugal;Freguesia de Vila Cova de Alva;President / Governor;8;Francisco Lopes;https://en.wikipedia.org/wiki/Francisco_Lopes;Q3062583;48.0;exact_title|name_similarity:1.00|econ_context|role_hint;matched;1
+Tereza Cristina Grossi Togni;Tereza Togni;BRA;tereza;togni;BRA;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+Maria Celina Berardinelli Arraes;Maria Arraes;BRA;maria;arraes;BRA;;;;;0;0;1994;;;;;Brazil;Recife;Board member;2;Maria Arraes;https://en.wikipedia.org/wiki/Maria_Arraes;Q115550538;44.0;exact_title|name_similarity:1.00|country_hint|role_hint;matched;1
+Alvir Alberto Hoffmann;Alvir Hoffmann;BRA;alvir;hoffmann;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Wadico Waldir Bucch;Wadico Bucch;BRA;wadico;bucch;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Antonio Gustavo Matos do Vale;Antonio Vale;BRA;antonio;vale;BRA;;;;;2;0;1982;;;;;Portugal;( 1982-04-03 ) 3 April 1982 (age 44) Lisbon;President / Governor;4;António do Vale;https://en.wikipedia.org/wiki/António_do_Vale;Q128106768;18.88888888888889;partial_title|name_similarity:0.89;matched;1
+Antonio Gustavo Matos do Vale;Antonio Vale;BRA;antonio;vale;BRA;;;;;0;0;1982;;;;;Portugal;( 1982-04-03 ) 3 April 1982 (age 44) Lisbon;Board member;4;António do Vale;https://en.wikipedia.org/wiki/António_do_Vale;Q128106768;18.88888888888889;partial_title|name_similarity:0.89;matched;1
+Persio Arida;Persio Arida;BRA;persio;arida;BRA;1995;1995;1;6;2;0;1952;3;"University of; Massachusetts Institute of Technology";;;Brazil;São Paulo;President / Governor;3;Pérsio Arida;https://en.wikipedia.org/wiki/Pérsio_Arida;Q7264675;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Sergio Werlang;Sergio Werlang;BRA;sergio;werlang;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Maria Arraes;Maria Arraes;BRA;maria;arraes;BRA;;;;;0;0;1994;;;;;Brazil;Recife;Board member;2;Maria Arraes;https://en.wikipedia.org/wiki/Maria_Arraes;Q115550538;44.0;exact_title|name_similarity:1.00|country_hint|role_hint;matched;1
+Luiz Edson Feltrim;Luiz Feltrim;BRA;luiz;feltrim;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Franco;Gustavo Franco;BRA;gustavo;franco;BRA;1997;1999;8;3;2;0;1956;6;;;"Harvard University; Catholic University of Rio";Brazil;Rio de Janeiro;President / Governor;1;Gustavo Franco;https://en.wikipedia.org/wiki/Gustavo_Franco;Q5621403;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Neto;Arminio Neto;BRA;arminio;neto;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Sidnei Marqsue;Sidnei Marqsue;BRA;sidnei;marqsue;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Daniel Luiz Gleizer;Daniel Gleizer;BRA;daniel;gleizer;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Daniel Luiz Gleizer;Daniel Gleizer;BRA;daniel;gleizer;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Aldo Luiz Mendes;Aldo Mendes;BRA;aldo;mendes;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Beny Parnes;Beny Parnes;BRA;beny;parnes;BRA;;;;;2;0;1959;6;;;Catholic University of Rio;Brazil;Rio de Janeiro;President / Governor;5;Beny Parnes;https://en.wikipedia.org/wiki/Beny_Parnes;Q4890727;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Luiz Awazu Pereira da Silva;Luiz Silva;BRA;luiz;silva;BRA;2003;2006;1;12;2;0;1945;2;;;;Brazil;Caetés;President / Governor;10;Luiz Inácio Lula da Silva;https://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva;Q37181;32.714285714285715;partial_title|name_similarity:0.57|econ_context|country_hint|role_hint;matched;1
+Sidnei Corrêa Marques;Sidnei Marques;BRA;sidnei;marques;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Eduardo Henrique de Mello Motta Loyo;Eduardo Loyo;BRA;eduardo;loyo;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Rodrigo Telles da Rocha Azevedo;Rodrigo Azevedo;BRA;rodrigo;azevedo;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Mário Gomes Torós;Mario Toros;BRA;mario;toros;BRA;;;;;2;0;1922;;;;;Italy;Pagnacco;President / Governor;12;Mario Toros;https://en.wikipedia.org/wiki/Mario_Toros;Q3849154;48.0;exact_title|name_similarity:1.00|econ_context|role_hint;matched;1
+Reinaldo Le Grazie;Reinaldo Grazie;BRA;reinaldo;grazie;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Alexandre Schwartsman;Alexandre Schwartsman;BRA;alexandre;schwartsman;BRA;;;;;2;0;1963;2;;;;Brazil;São Paulo;President / Governor;2;Alexandre Schwartsman;https://en.wikipedia.org/wiki/Alexandre_Schwartsman;Q15126857;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Alexandre Antonio Tombini;Alexandre Tombini;BRA;alexandre;tombini;BRA;2011;2016;1;6;0;0;1963;3;Sc. University of Illinois;;;Brazil;Porto Alegre;Board member;12;Alexandre Tombini;https://en.wikipedia.org/wiki/Alexandre_Tombini;Q3376150;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Alexandre Antonio Tombini;Alexandre Tombini;BRA;alexandre;tombini;BRA;2011;2016;1;6;0;0;1963;3;Sc. University of Illinois;;;Brazil;Porto Alegre;Board member;12;Alexandre Tombini;https://en.wikipedia.org/wiki/Alexandre_Tombini;Q3376150;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Paulo Sérgio Cavalheiro;Paulo Cavalheiro;BRA;paulo;cavalheiro;BRA;;;;;1;0;1934;;;;;;;Vice-president / Deputy-governor;5;Paulo Cavalheiro;https://en.wikipedia.org/wiki/Paulo_Cavalheiro;Q58892300;39.0;exact_title|name_similarity:1.00|country_hint;matched;1
+Paulo Picchetti;Paulo Picchetti;BRA;paulo;picchetti;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Luiz Fernando Figueiredo;Luiz Figueiredo;BRA;luiz;figueiredo;BRA;;;;;2;0;1955;1;;;;Brazil;Rio de Janeiro;President / Governor;7;Luiz Alberto Figueiredo;https://en.wikipedia.org/wiki/Luiz_Alberto_Figueiredo;Q14699824;21.894736842105264;partial_title|name_similarity:0.79|country_hint;matched;1
+Luiz Fernando Figueiredo;Luiz Figueiredo;BRA;luiz;figueiredo;BRA;;;;;1;0;1955;1;;;;Brazil;Rio de Janeiro;Vice-president / Deputy-governor;7;Luiz Alberto Figueiredo;https://en.wikipedia.org/wiki/Luiz_Alberto_Figueiredo;Q14699824;21.894736842105264;partial_title|name_similarity:0.79|country_hint;matched;1
+Carlos Hamilton Vasconcelos Araújo;Carlos Araujo;BRA;carlos;araujo;BRA;;;;;2;0;1981;;;;;Argentina;Mendoza;President / Governor;11;Carlos Araujo;https://en.wikipedia.org/wiki/Carlos_Araujo;Q5041788;35.0;exact_title|name_similarity:1.00;matched;1
+Mário Magalhães Carvalho Mesquita;Mario Mesquita;BRA;mario;mesquita;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Tony Volpon;Tony Volpon;BRA;tony;volpon;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Ilan Goldfajn;Ilan Goldfajn;BRA;ilan;goldfajn;BRA;2016;2019;6;2;2;0;1966;6;;;"Federal University of Rio de; Catholic University of Rio; Massachusetts Institute of Technology";Israel;Haifa;President / Governor;3;Ilan Goldfajn;https://en.wikipedia.org/wiki/Ilan_Goldfajn;Q25439494;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Mauricio Moura;Mauricio Moura;BRA;mauricio;moura;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Roberto Neto;Roberto Neto;BRA;roberto;neto;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Sérgio Darcy da Silva Alves;Sergio Alves;BRA;sergio;alves;BRA;;;;;2;0;1970;;;;;Brazil;Recife;President / Governor;4;Sérgio Alves;https://en.wikipedia.org/wiki/Sérgio_Alves;Q10376096;39.0;exact_title|name_similarity:1.00|country_hint;matched;1
+Paulo Vieira da Cunha;Paulo Cunha;BRA;paulo;cunha;BRA;;;;;2;0;;;;;;;;President / Governor;;Paulo Cunha (businessman);https://en.wikipedia.org/wiki/Paulo_Cunha_(businessman);Q10346617;41.47058823529411;strong_title|name_similarity:0.65|econ_context|country_hint|role_hint;rejected;0
+Otavio Damaso;Otavio Damaso;BRA;otavio;damaso;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Ferreira;Isaac Ferreira;BRA;isaac;ferreira;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Ferreira;Isaac Ferreira;BRA;isaac;ferreira;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Joao Mello;Joao Mello;BRA;joao;mello;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Carolina Barros;Carolina Barros;BRA;carolina;barros;BRA;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Ailton de Aquino Santos;Ailton Santos;BRA;ailton;santos;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Rodrigo Alves Teixeira;Rodrigo Teixeira;BRA;rodrigo;teixeira;BRA;;;;;0;0;1978;;;;;Brazil;Belo Horizonte;Board member;6;Rodrigo Teixeira;https://en.wikipedia.org/wiki/Rodrigo_Teixeira;Q7357431;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Tiago Couto Berriel;Tiago Berriel;BRA;tiago;berriel;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Fernanda Guardado;Fernanda Guardado;BRA;fernanda;guardado;BRA;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Diogo Abry Guillen;Diogo Guillen;BRA;diogo;guillen;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Renato Goncalves;Renato Goncalves;BRA;renato;goncalves;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Bruno Serra Fernandes;Bruno Fernandes;BRA;bruno;fernandes;BRA;;;;;0;0;1978;;;;;Brazil;Rio de Janeiro;Board member;4;Bruno F. Fernandes;https://en.wikipedia.org/wiki/Bruno_F._Fernandes;Q15704621;36.375;partial_title|name_similarity:0.94|econ_context|country_hint|role_hint;matched;1
+Gabriel Galipolo;Gabriel Galipolo;BRA;gabriel;galipolo;BRA;2023;2023;5;7;0;0;1982;2;Catholic University of São;;;Brazil;São Paulo;Board member;4;Gabriel Galípolo;https://en.wikipedia.org/wiki/Gabriel_Galípolo;Q118333955;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Gabriel Galípolo;Gabriel Galipolo;BRA;gabriel;galipolo;BRA;2023;2023;5;7;2;0;1982;2;Catholic University of São;;;Brazil;São Paulo;President / Governor;4;Gabriel Galípolo;https://en.wikipedia.org/wiki/Gabriel_Galípolo;Q118333955;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Ary Burguer;Ary Burguer;BRA;ary;burguer;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Luiz Augusto de Oliveira Candiota;Luiz Candiota;BRA;luiz;candiota;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+João Antônio Fleury Teixeira;Joao Teixeira;BRA;joao;teixeira;BRA;;;;;0;0;;;;;;;;Board member;;João Teixeira de Faria;https://en.wikipedia.org/wiki/João_Teixeira_de_Faria;Q576918;29.42857142857143;strong_title|name_similarity:0.74|country_hint;rejected;0
+Meirelles;Anthero Meirelles;BRA;anthero;meirelles;BRA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Altamir Lopes;Altamir Lopes;BRA;altamir;lopes;BRA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Carlos Viana de Carvalho;Carlos Carvalho;BRA;carlos;carvalho;BRA;;;;;0;0;1957;;;;;Brazil;Rio de Janeiro;Board member;3;Carlos Carvalho;https://en.wikipedia.org/wiki/Carlos_Carvalho;Q79423309;39.0;exact_title|name_similarity:1.00|country_hint;matched;1
+Renato Dias de Brito Gomes;Renato Gomes;BRA;renato;gomes;BRA;;;;;1;0;1981;;;;;Brazil;João Pessoa;Vice-president / Deputy-governor;1;Renato Gomes;https://en.wikipedia.org/wiki/Renato_Gomes;Q2143612;39.0;exact_title|name_similarity:1.00|country_hint;matched;1
+Dr. Courtney Blackman;Courtney Blackman;BRB;courtney;blackman;BRB;;;;;2;0;1933;6;;;"University of the; Interamerican University of Puerto; Columbia University";Barbados;Barbados;President / Governor;3;Courtney Blackman;https://en.wikipedia.org/wiki/Courtney_Blackman;Q5178581;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Dr Kurgleigh King;Kurleigh King;BRB;kurleigh;king;BRB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+DeLisle Worrell;De Worrell;BRB;de;worrell;BRB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+DeLisle Worrell;Delisle Worrell;BRB;delisle;worrell;BRB;2009;2017;11;3;2;0;1945;6;;;Gill University;Barbados;Barbados;President / Governor;;DeLisle Worrell;https://en.wikipedia.org/wiki/DeLisle_Worrell;Q19372427;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Carlos Holder;Carlos Holder;BRB;carlos;holder;BRB;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Darcy Boyce;Darcy Boyce;BRB;darcy;boyce;BRB;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Elson Gaskin;Elson Gaskin;BRB;elson;gaskin;BRB;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Cleviston Haynes;Cleviston Haynes;BRB;cleviston;haynes;BRB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dr Greenidge;Dr Greenidge;BRB;dr;greenidge;BRB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Mr. Calvin Springer;Calvin Springer;BRB;calvin;springer;BRB;;;;;2;0;;;;;;;;President / Governor;;Calvin S. Hall;https://en.wikipedia.org/wiki/Calvin_S._Hall;Q1027727;18.714285714285715;name_similarity:0.57|econ_context|role_hint;rejected;0
+Mr. Winston Cox;Winston Cox;BRB;winston;cox;BRB;;;;;2;0;;;;;;;;President / Governor;;Joseph Winston Cox;https://en.wikipedia.org/wiki/Joseph_Winston_Cox;Q6288027;30.58620689655172;partial_title|name_similarity:0.76|econ_context|role_hint;rejected;0
+Marion Williams;Marion Williams;BRB;marion;williams;BRB;;;;;2;1;1927;;;;;United States;Miami;President / Governor;8;Marion Williams;https://en.wikipedia.org/wiki/Marion_Williams;Q4470088;35.0;exact_title|name_similarity:1.00;matched;1
+Kevin Greenidge;Kevin Greenidge;BRB;kevin;greenidge;BRB;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Haji Mohd Roselan bin Haij Mohd Daud;Haji Daud;BRN;haji;daud;BRN;;;;;0;0;;;;;;;;Board member;;Mohammad bin Daud;https://en.wikipedia.org/wiki/Mohammad_bin_Daud;Q117042830;16.153846153846153;shared_last_name|name_similarity:0.62|country_hint;rejected;0
+Haji Mohd Roselan bin Haij Mohd Daud;Haji Daud;BRN;haji;daud;BRN;;;;;0;0;;;;;;;;Board member;;Mohammad bin Daud;https://en.wikipedia.org/wiki/Mohammad_bin_Daud;Q117042830;16.153846153846153;shared_last_name|name_similarity:0.62|country_hint;rejected;0
+Khairuddin bin Haji Abdul Hamid;Khairuddin Hamid;BRN;khairuddin;hamid;BRN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dr. Haji Abdul Manaf bin Haji Metussin;Haji Metussin;BRN;haji;metussin;BRN;;;;;2;0;;;;;;;;President / Governor;;Abdul Manaf Metussin;https://en.wikipedia.org/wiki/Abdul_Manaf_Metussin;Q113630374;29.060606060606062;shared_last_name|name_similarity:0.61|econ_context|country_hint|role_hint;rejected;0
+Haji Hisham bin Haji Mohd Hanifah;Haji Hanifah;BRN;haji;hanifah;BRN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Haji Ahmaddin bin Haji Abdul Rahman;Haji Rahman;BRN;haji;rahman;BRN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Prince Billah;Prince Billah;BRN;prince;billah;BRN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Abdul Ibrahim;Abdul Ibrahim;BRN;abdul;ibrahim;BRN;;;;;0;0;;;;;;;;Board member;;Abdul Ibrahim (politician);https://en.wikipedia.org/wiki/Abdul_Ibrahim_(politician);Q108062292;30.027027027027028;strong_title|name_similarity:0.70|role_hint;rejected;0
+Mohd Rosli bin Haji Sabtu;Mohd Sabtu;BRN;mohd;sabtu;BRN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Dayang Naimah binti Md.Ali;Dayang Md;BRN;dayang;md;BRN;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Mohammad Yasmin bin Haji Umar;Mohammad Umar;BRN;mohammad;umar;BRN;;;;;0;0;;;;;;;;Board member;;Mohammad Umar (Sindh cricketer);https://en.wikipedia.org/wiki/Mohammad_Umar_(Sindh_cricketer);Q85786039;24.19047619047619;strong_title|name_similarity:0.62;rejected;0
+Rashidah binti Haji Sabtu;Rashidah Sabtu;BRN;rashidah;sabtu;BRN;;;;;1;1;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Lyonpo Kinzang Dorji;Lyonpo Dorji;BTN;lyonpo;dorji;BTN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+H. E. Lyonpo Yeshey Zimba;Lyonpo Zimba;BTN;lyonpo;zimba;BTN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+H. E. Lyonpo Yeshey Zimba;Lyonpo Zimba;BTN;lyonpo;zimba;BTN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+H.E. Daw Tezin;H Tezin;BTN;h;tezin;BTN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dasho Penjore;Dasho Penjore;BTN;dasho;penjore;BTN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Ashi Sonam Choden Wangchuck;Ashi Wangchuck;BTN;ashi;wangchuck;BTN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dasho Bap Kesang;Dasho Kesang;BTN;dasho;kesang;BTN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Sonam Wangchuk;Dasho Wangchuk;BTN;dasho;wangchuk;BTN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Lyonpo Wangdi Norbu;Lyonpo Norbu;BTN;lyonpo;norbu;BTN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Lyonpo Wangdi Norbu;Lyonpo Norbu;BTN;lyonpo;norbu;BTN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Daw Tenzin;Dasho Tenzin;BTN;dasho;tenzin;BTN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dasho Yangchen Tshogyel;Dasho Tshogyel;BTN;dasho;tshogyel;BTN;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+"Jean-Baptiste Compaoré
+";Jean Compaore;BUR;jean;compaore;BUR;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+N Fidzani;N Fidzani;BWA;n;fidzani;BWA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+T. Seretse;T Seretse;BWA;t;seretse;BWA;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Charles Kikonyogo	;Charles Kikonyogo;BWA;charles;kikonyogo;BWA;;;;;2;0;;;;;;;;President / Governor;;Charles Kikonyogo Nyonyintono;https://en.wikipedia.org/wiki/Charles_Kikonyogo_Nyonyintono;Q138542252;38.391304347826086;strong_title|name_similarity:0.74|econ_context|role_hint;rejected;0
+Charles Nyonyintono Kikonyogo;Charles Kikonyogo;BWA;charles;kikonyogo;BWA;;;;;2;0;;;;;;;;President / Governor;;Charles Kikonyogo Nyonyintono;https://en.wikipedia.org/wiki/Charles_Kikonyogo_Nyonyintono;Q138542252;38.391304347826086;strong_title|name_similarity:0.74|econ_context|role_hint;rejected;0
+Hermans;Christopher Hermans;BWA;christopher;hermans;BWA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Quill Hermans;Quill Hermans;BWA;quill;hermans;BWA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Festus Mogae;Festus Mogae;BWA;festus;mogae;BWA;1998;2008;4;4;2;0;1939;2;Oxford University of Sussex;;;Botswana;Serowe;President / Governor;8;Festus Mogae;https://en.wikipedia.org/wiki/Festus_Mogae;Q193238;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Mogae;Festus Mogae;BWA;festus;mogae;BWA;1998;2008;4;4;2;0;1939;2;Oxford University of Sussex;;;Botswana;Serowe;President / Governor;8;Festus Mogae;https://en.wikipedia.org/wiki/Festus_Mogae;Q193238;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Gaolathe;Baledzi Gaolathe;BWA;baledzi;gaolathe;BWA;;;;;2;0;;;;;;;;President / Governor;;Ndaba Gaolathe;https://en.wikipedia.org/wiki/Ndaba_Gaolathe;Q117843828;30.333333333333332;shared_last_name|name_similarity:0.73|econ_context|country_hint|role_hint;rejected;0
+U. Corea;U Corea;BWA;u;corea;BWA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Linah K Mohohlo;Linah Mohohlo;BWA;linah;mohohlo;BWA;1999;2016;10;;2;1;1952;1;;;;Botswana;Ramotswa;President / Governor;2;Linah Mohohlo;https://en.wikipedia.org/wiki/Linah_Mohohlo;Q6550228;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+G Cunliffe;G Cunliffe;BWA;g;cunliffe;BWA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Linah Mohohlo;Linah Mohohlo;BWA;linah;mohohlo;BWA;1999;2016;10;;2;1;1952;1;;;;Botswana;Ramotswa;President / Governor;2;Linah Mohohlo;https://en.wikipedia.org/wiki/Linah_Mohohlo;Q6550228;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Keith Jefferis;Keith Jefferis;BWA;keith;jefferis;BWA;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Moses Dinekere Pelaelo;Moses Pelaelo;BWA;moses;pelaelo;BWA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Moses Dinekere Pelaelo;Moses Pelaelo;BWA;moses;pelaelo;BWA;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+Cornelius Dekop;Cornelius Dekop;BWA;cornelius;dekop;BWA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Victoria Lekoma;Victoria Lekoma;BWA;victoria;lekoma;BWA;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Malebogo Bakwena;Malebogo Bakwena;BWA;malebogo;bakwena;BWA;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Brenton C. Leavitt;Brenton Leavitt;BWA;brenton;leavitt;BWA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+K.R. Jefferis;K Jefferis;BWA;k;jefferis;BWA;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+R. G. M Mmutle;R Mmutle;BWA;r;mmutle;BWA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+B. Moeletsi;B Moeletsi;BWA;b;moeletsi;BWA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+C. S. Botlhole-Mmopi;C Botlholemmopi;BWA;c;botlholemmopi;BWA;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+R.N. Matthews;R Matthews;BWA;r;matthews;BWA;;;;;0;0;;;;;;;;Board member;;D. R. Matthews;https://en.wikipedia.org/wiki/D._R._Matthews;Q1240249;24.09090909090909;partial_title|name_similarity:0.91|role_hint;rejected;0
+J. Sentsho;J Sentsho;BWA;j;sentsho;BWA;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Jean-Félix Mamalepot;Jean Mamalepot;CAF;jean;mamalepot;CAF;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Michael Mukete;Michael Mukete;CAF;michael;mukete;CAF;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Rigobert Roger Andely;Rigobert Andely;CAF;rigobert;andely;CAF;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Philibert Andzembe;Philibert Andzembe;CAF;philibert;andzembe;CAF;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Lucas Abaga Nchama;Lucas Nchama;CAF;lucas;nchama;CAF;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Ali Chaibou;Ali Chaibou;CAF;ali;chaibou;CAF;;;;;0;0;;;;;;;;Board member;;Ali Saibou;https://en.wikipedia.org/wiki/Ali_Saibou;Q448655;21.57142857142857;name_similarity:0.86|econ_context|role_hint;rejected;0
+Abbas Mahamat Tolli;Abbas Tolli;CAF;abbas;tolli;CAF;2017;;2;;2;0;1972;1;;;;Chad;Abéché;President / Governor;4;Abbas Tolli;https://en.wikipedia.org/wiki/Abbas_Tolli;Q55606323;48.0;exact_title|name_similarity:1.00|econ_context|role_hint;matched;1
+Yvon Sana Bangui;Yvon Bangui;CAF;yvon;bangui;CAF;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Georges Gautier;Georges Gautier;CAF;georges;gautier;CAF;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Tahir Hamid Nguilin;Tahir Nguilin;CAF;tahir;nguilin;CAF;;;;;0;0;;;;;;;;Board member;;Tahir Hamid Nguilin;https://en.wikipedia.org/wiki/Tahir_Hamid_Nguilin;Q89875464;31.125;partial_title|name_similarity:0.81|econ_context|role_hint;matched;1
+Emmanuel Rocher;Emmanuel Rocher;CAF;emmanuel;rocher;CAF;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Allamine Bourma Treye;Allamine Treye;CAF;allamine;treye;CAF;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Gervais-Magloire Doungoupou;Gervais Doungoupou;CAF;gervais;doungoupou;CAF;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Pascal Fourcaut;Pascal Fourcaut;CAF;pascal;fourcaut;CAF;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Graham Towers;Graham Towers;CAN;graham;towers;CAN;1934;1954;9;12;2;0;1897;2;Gill University;;;Canada;Montreal;President / Governor;9;Graham Towers;https://en.wikipedia.org/wiki/Graham_Towers;Q2423265;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Louis Rasminsky;Louis Rasminsky;CAN;louis;rasminsky;CAN;1961;1973;7;2;2;0;1908;2;London School of Economics;;;Canada;Montreal;President / Governor;2;Louis Rasminsky;https://en.wikipedia.org/wiki/Louis_Rasminsky;Q6688034;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+James Coyne;James Coyne;CAN;james;coyne;CAN;;;;;0;0;;;;;;;;Board member;;James Coyne;https://en.wikipedia.org/wiki/James_Coyne;Q92784300;35.0;exact_title|name_similarity:1.00;matched;1
+James Coyne;James Coyne;CAN;james;coyne;CAN;;;;;2;0;;;;;;;;President / Governor;;James Coyne;https://en.wikipedia.org/wiki/James_Coyne;Q92784300;35.0;exact_title|name_similarity:1.00;matched;1
+Gerald Bouey;Gerald Reapp;CAN;gerald;reapp;CAN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Gilles Loiselle;Gilles Loiselle;CAN;gilles;loiselle;CAN;1988;1993;11;10;0;0;1929;;;;;Canada;Ville-Marie;Board member;5;Gilles Loiselle;https://en.wikipedia.org/wiki/Gilles_Loiselle;Q3106364;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Bernard Bonin;Bernard Bonin;CAN;bernard;bonin;CAN;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+John Crow;John Crow;CAN;john;crow;CAN;1987;1994;2;2;2;0;1937;2;Balliol College;;;Roman Empire;London;President / Governor;1;John Crow;https://en.wikipedia.org/wiki/John_Crow;Q6227768;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+John Crow;John Crow;CAN;john;crow;CAN;1987;1994;2;2;2;0;1937;2;Balliol College;;;Roman Empire;London;President / Governor;1;John Crow;https://en.wikipedia.org/wiki/John_Crow;Q6227768;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+"Paul Martin
+";Paul Martin;CAN;paul;martin;CAN;1988;1993;11;10;0;0;1938;3;"University of; Ottawa University of Toronto";;;Canada;Windsor;Board member;8;Paul Martin;https://en.wikipedia.org/wiki/Paul_Martin;Q128529;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Gordon Thiessen;Gordon Thiessen;CAN;gordon;thiessen;CAN;1994;2001;2;1;2;0;1938;2;"University of; London School of Economics";;;Canada;Ontario;President / Governor;8;Gordon Thiessen;https://en.wikipedia.org/wiki/Gordon_Thiessen;Q3110930;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Monique Jeromeforget;Monique Jeromeforget;CAN;monique;jeromeforget;CAN;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+John Horsley Palmer;John Palmer;CAN;john;palmer;CAN;;;;;2;0;;;;;;;;President / Governor;;John Palmer MacBeth;https://en.wikipedia.org/wiki/John_Palmer_MacBeth;Q6251828;42.33333333333333;strong_title|name_similarity:0.73|econ_context|country_hint|role_hint;rejected;0
+David A. Dodge;David Dodge;CAN;david;dodge;CAN;;;;;2;0;;;;;;;;President / Governor;;David Dodge;https://en.wikipedia.org/wiki/David_Dodge;Q3017781;42.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint|disambiguation_penalty;matched;1
+Malcolm Knight;Malcolm Knight;CAN;malcolm;knight;CAN;;;;;1;0;1944;3;London School of Economics;;;Canada;Windsor;Vice-president / Deputy-governor;4;Malcolm Knight;https://en.wikipedia.org/wiki/Malcolm_Knight;Q6742427;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Daniel Johnson;Daniel Johnson;CAN;daniel;johnson;CAN;;;;;0;0;;;;;;;;Board member;;Daniel Johnson Jr.;https://en.wikipedia.org/wiki/Daniel_Johnson_Jr.;Q3014237;44.03225806451613;strong_title|name_similarity:0.90|econ_context|country_hint|role_hint;rejected;0
+Bonnie DuPont;Bonnie Dupont;CAN;bonnie;dupont;CAN;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Pierre Duguay;Pierre Duguay;CAN;pierre;duguay;CAN;;;;;2;0;;;;;;;;President / Governor;;Joseph Duguay;https://en.wikipedia.org/wiki/Joseph_Duguay;Q284599;16.153846153846153;shared_last_name|name_similarity:0.62|country_hint;rejected;0
+David Laidley;David Laidley;CAN;david;laidley;CAN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+"Ralph Goodale
+";Ralph Goodale;CAN;ralph;goodale;CAN;1974;1979;7;5;0;0;1949;3;"University of; Regina University of Saskatchewan";;;Canada;Regina;Board member;10;Ralph Goodale;https://en.wikipedia.org/wiki/Ralph_Goodale;Q2070905;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+"Jim Flaherty
+";Jim Flaherty;CAN;jim;flaherty;CAN;2006;2008;1;10;0;0;1949;3;"University; York University";;;Canada;Lachine;Board member;12;Jim Flaherty;https://en.wikipedia.org/wiki/Jim_Flaherty;Q644783;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+"John Manley
+";John Manley;CAN;john;manley;CAN;1988;1993;11;10;0;0;1950;2;;;;Canada;Ottawa;Board member;1;John Manley;https://en.wikipedia.org/wiki/John_Manley;Q1389967;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+William Black;William Black;CAN;william;black;CAN;;;;;0;0;1951;2;Arbor University of California;;;United States;Dearborn;Board member;9;William K. Black;https://en.wikipedia.org/wiki/William_K._Black;Q3568755;32.285714285714285;partial_title|name_similarity:0.93|econ_context|role_hint;matched;1
+Paul Haggis;Paul Haggis;CAN;paul;haggis;CAN;;;;;0;0;1953;1;;;;Canada;London;Board member;3;Paul Haggis;https://en.wikipedia.org/wiki/Paul_Haggis;Q314935;44.0;exact_title|name_similarity:1.00|country_hint|role_hint;matched;1
+Graeme Thompson;Graeme Thompson;CAN;graeme;thompson;CAN;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Nicholas Pan;Nicholas Pan;CAN;nicholas;pan;CAN;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Norman Betts;Norman Betts;CAN;norman;betts;CAN;;;;;0;0;1954;2;Queen's University;;;Canada;Doaktown;Board member;4;Norman Betts;https://en.wikipedia.org/wiki/Norman_Betts;Q7051969;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Stephen Poloz;Stephen Poloz;CAN;stephen;poloz;CAN;2013;2020;6;6;2;0;1956;2;;;;Canada;Oshawa;President / Governor;1;Stephen Poloz;https://en.wikipedia.org/wiki/Stephen_Poloz;Q15127111;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Sheryl Kennedy;Sheryl Kennedy;CAN;sheryl;kennedy;CAN;;;;;1;1;;2;Oakland University;;;;;Vice-president / Deputy-governor;;Sheryl Kennedy;https://en.wikipedia.org/wiki/Sheryl_Kennedy;Q74733410;35.0;exact_title|name_similarity:1.00;matched;1
+Timothy Lane;Timothy Lane;CAN;timothy;lane;CAN;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Jean Simon;Jean Simon;CAN;jean;simon;CAN;;;;;0;0;;;;;;;;Board member;;Jean-Simon Berthélemy;https://en.wikipedia.org/wiki/Jean-Simon_Berthélemy;Q3174641;24.451612903225808;strong_title|name_similarity:0.65;rejected;0
+Monique Mercier;Monique Mercier;CAN;monique;mercier;CAN;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Carol Hansell;Carol Hansell;CAN;carol;hansell;CAN;;;;;0;1;;1;;;;;;Board member;;Carol Hansell;https://en.wikipedia.org/wiki/Carol_Hansell;Q5044356;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Lawrence Schembri;Lawrence Schembri;CAN;lawrence;schembri;CAN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Paul Beaudry;Paul Beaudry;CAN;paul;beaudry;CAN;;;;;1;0;1960;6;;;Princeton University;Canada;Montreal;Vice-president / Deputy-governor;3;Paul Beaudry;https://en.wikipedia.org/wiki/Paul_Beaudry;Q7149281;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Tiff Macklem;Tiff Macklem;CAN;tiff;macklem;CAN;2020;;6;;0;0;1961;6;;;;Canada;Montreal;Board member;;Tiff Macklem;https://en.wikipedia.org/wiki/Tiff_Macklem;Q15127104;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Lynn Patterson;Lynn Patterson;CAN;lynn;patterson;CAN;;;;;0;1;;;;;;;;Board member;;Jared Patterson;https://en.wikipedia.org/wiki/Jared_Patterson;Q88385976;17.896551724137932;shared_last_name|name_similarity:0.69|role_hint;rejected;0
+Tiff Macklem;Tiff Macklem;CAN;tiff;macklem;CAN;2020;;6;;2;0;1961;6;;;;Canada;Montreal;President / Governor;;Tiff Macklem;https://en.wikipedia.org/wiki/Tiff_Macklem;Q15127104;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Tiff Macklen;Tiff Macklen;CAN;tiff;macklen;CAN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Bill Morneau;Bill Morneau;CAN;bill;morneau;CAN;2015;2019;10;10;0;0;1962;4;;"University of; London School of Economics; INSEAD";;Canada;Toronto;Board member;10;Bill Morneau;https://en.wikipedia.org/wiki/Bill_Morneau;Q21175197;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Mark J. Carney;Mark Carney;CAN;mark;carney;CAN;2008;2013;2;6;2;0;1965;2;;;;Canada;Fort Smith;President / Governor;3;Mark Carney;https://en.wikipedia.org/wiki/Mark_Carney;Q192533;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Peter Dhillon;Peter Dhillon;CAN;peter;dhillon;CAN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Paul Jenkins;Paul Jenkins;CAN;paul;jenkins;CAN;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;Paul Jenkins (economist);https://en.wikipedia.org/wiki/Paul_Jenkins_(economist);Q7151571;42.05882352941177;strong_title|name_similarity:0.71|econ_context|country_hint|role_hint;rejected;0
+Stephanie Bowman;Stephanie Bowman;CAN;stephanie;bowman;CAN;;;;;0;1;;;;;;;;Board member;;Stephanie Bowman;https://en.wikipedia.org/wiki/Stephanie_Bowman;Q112622508;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Chrystia Freeland;Chrystia Freeland;CAN;chrystia;freeland;CAN;2013;2015;11;10;0;1;1968;3;Antony's College;;;Canada;Peace River;Board member;8;Chrystia Freeland;https://en.wikipedia.org/wiki/Chrystia_Freeland;Q4492815;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Carolyn Rogers;Carolyn Rogers;CAN;carolyn;rogers;CAN;;;;;1;1;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Jean Boivin;Jean Boivin;CAN;jean;boivin;CAN;;;;;0;0;;;;;;;;Board member;;Jean Boivin the Younger;https://en.wikipedia.org/wiki/Jean_Boivin_the_Younger;Q775414;37.47058823529411;strong_title|name_similarity:0.65|econ_context|role_hint;rejected;0
+Sharon Kozicki;Sharon Kozicki;CAN;sharon;kozicki;CAN;;;;;1;1;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Charles Freedman;Charles Freedman;CAN;charles;freedman;CAN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Tim E. Noël;Tim Noel;CAN;tim;noel;CAN;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Malcom Knight;Malcom Knight;CAN;malcom;knight;CAN;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+David Longworth;David Longworth;CAN;david;longworth;CAN;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Phillip Deck;Phillip Deck;CAN;phillip;deck;CAN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Jock Finlayson;Jock Finlayson;CAN;jock;finlayson;CAN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Richard Mcgaw;Richard Mcgaw;CAN;richard;mcgaw;CAN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Agathe Coté;Agathe Cote;CAN;agathe;cote;CAN;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+Phyllis Clark;Phyllis Clark;CAN;phyllis;clark;CAN;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Colin Dodds;Colin Dodds;CAN;colin;dodds;CAN;;;;;0;0;;;;;;;;Board member;;J. Colin Dodds;https://en.wikipedia.org/wiki/J._Colin_Dodds;Q6105164;32.166666666666664;partial_title|name_similarity:0.92|econ_context|role_hint;rejected;0
+Wes Scott;Wes Scott;CAN;wes;scott;CAN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Sylvain Leduc;Sylvain Leduc;CAN;sylvain;leduc;CAN;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Robert M. Campbell;Robert Campbell;CAN;robert;campbell;CAN;;;;;0;0;;;;;;;;Board member;;Robert Campbell Reeve;https://en.wikipedia.org/wiki/Robert_Campbell_Reeve;Q15485871;34.333333333333336;strong_title|name_similarity:0.83|econ_context;rejected;0
+Nicolas Vincent;Nicolas Vincent;CAN;nicolas;vincent;CAN;;;;;1;0;1769;;;;;Canada;Quebec City;Vice-president / Deputy-governor;4;Nicolas Vincent;https://en.wikipedia.org/wiki/Nicolas_Vincent;Q3340855;35.0;exact_title|name_similarity:1.00;matched;1
+Sandra L. Hanington;Sandra Hanington;CAN;sandra;hanington;CAN;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Heinrich Kundert;Heinrich Kundert;CHE;heinrich;kundert;CHE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+August Burckhardt;August Burckhardt;CHE;august;burckhardt;CHE;;;;;2;0;;;;;;;;President / Governor;;Rudy Burckhardt;https://en.wikipedia.org/wiki/Rudy_Burckhardt;Q7377582;17.5;shared_last_name|name_similarity:0.75|country_hint;rejected;0
+Rodolphe de Haller;Rodolphe Haller;CHE;rodolphe;haller;CHE;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Charles Schnyder von Wartensee;Charles Wartensee;CHE;charles;wartensee;CHE;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Gottlieb Bachmann;Gottlieb Bachmann;CHE;gottlieb;bachmann;CHE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Ernst Weber;Ernst Weber;CHE;ernst;weber;CHE;;;;;2;0;;;;;;;;President / Governor;;Ernst Weber (engineer);https://en.wikipedia.org/wiki/Ernst_Weber_(engineer);Q90248;38.096774193548384;strong_title|name_similarity:0.71|econ_context|role_hint;rejected;0
+Paul Rossy;Paul Rossy;CHE;paul;rossy;CHE;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Paul Keller;Paul Keller;CHE;paul;keller;CHE;;;;;2;0;1966;;;;;United States;Everett;President / Governor;1;Paul Kenneth Keller;https://en.wikipedia.org/wiki/Paul_Kenneth_Keller;Q4249931;17.333333333333332;partial_title|name_similarity:0.73;matched;1
+Dr. Walter Schwegler;Walter Schwegler;CHE;walter;schwegler;CHE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dr. Edwin Stopper;Edwin Stopper;CHE;edwin;stopper;CHE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Dr. h.c. Pierre Languetin;Pierre Languetin;CHE;pierre;languetin;CHE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Peter Gerber;Peter Gerber;CHE;peter;gerber;CHE;;;;;0;0;;;;;;;;Board member;;Peter Gerber;https://en.wikipedia.org/wiki/Peter_Gerber;Q3376604;48.0;exact_title|name_similarity:1.00|econ_context|role_hint;matched;1
+Fritz Leutwiler;Fritz Leutwiler;CHE;fritz;leutwiler;CHE;;;;;2;0;1924;;;;;Switzerland;Baden;President / Governor;7;Fritz Leutwiler;https://en.wikipedia.org/wiki/Fritz_Leutwiler;Q15810789;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Dr. Markus Lusser;Markus Lusser;CHE;markus;lusser;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Dr. Markus Lusser;Markus Lusser;CHE;markus;lusser;CHE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Kurt Hauri;Kurt Hauri;CHE;kurt;hauri;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Dr. Hans Meyer;Hans Meyer;CHE;hans;meyer;CHE;;;;;2;0;;;;;;;;President / Governor;;Hans Meyer Range;https://en.wikipedia.org/wiki/Hans_Meyer_Range;Q1577940;25.692307692307693;strong_title|name_similarity:0.77;rejected;0
+Kathi Bangerter;Kathi Bangerter;CHE;kathi;bangerter;CHE;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Henri Andre;Henri Andre;CHE;henri;andre;CHE;;;;;0;0;;;;;;;;Board member;;Henri-André Laperrière;https://en.wikipedia.org/wiki/Henri-André_Laperrière;Q1605651;37.666666666666664;strong_title|name_similarity:0.67|econ_context|role_hint;rejected;0
+George Rich;George Rich;CHE;george;rich;CHE;;;;;0;0;1863;1;;;;Australia;Braidwood;Board member;5;George Rich;https://en.wikipedia.org/wiki/George_Rich;Q5543840;35.0;exact_title|name_similarity:1.00;matched;1
+Ueli Forster;Ueli Forster;CHE;ueli;forster;CHE;;;;;0;0;1939;2;;;;Switzerland;St. Gallen;Board member;10;Ueli Forster;https://en.wikipedia.org/wiki/Ueli_Forster;Q15851950;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Yvette Jaggi;Yvette Jaggi;CHE;yvette;jaggi;CHE;1987;1991;11;11;0;1;1941;2;;;;Switzerland;Lausanne;Board member;2;Yvette Jaggi;https://en.wikipedia.org/wiki/Yvette_Jaggi;Q2602315;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Eduard Belser;Eduard Belser;CHE;eduard;belser;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Ulrich Kohli;Ulrich Kohli;CHE;ulrich;kohli;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Philippe Pidoux;Philippe Pidoux;CHE;philippe;pidoux;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Niklaus Blattner;Niklaus Blattner;CHE;niklaus;blattner;CHE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Niklaus Blattner;Niklaus Blattner;CHE;niklaus;blattner;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Werner Messmer;Werner Messmer;CHE;werner;messmer;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Dr. Jean-Pierre Roth;Jean Roth;CHE;jean;roth;CHE;;;;;2;0;1924;;;;;France;Le Havre;President / Governor;3;Jean Roth;https://en.wikipedia.org/wiki/Jean_Roth;Q690351;35.0;exact_title|name_similarity:1.00;matched;1
+Franz Marty;Franz Marty;CHE;franz;marty;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Ruth Luthi;Ruth Luthi;CHE;ruth;luthi;CHE;1988;1991;;;0;1;1947;2;;;;Switzerland;Grenchen;Board member;9;Ruth Lüthi;https://en.wikipedia.org/wiki/Ruth_Lüthi;Q2177682;44.0;exact_title|name_similarity:1.00|country_hint|role_hint;matched;1
+Hans Ulrich Raggenbass;Hans Raggenbass;CHE;hans;raggenbass;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Gerold Buhrer;Gerold Buhrer;CHE;gerold;buhrer;CHE;1991;2007;11;12;0;0;1948;;;;;Switzerland;Hofen;Board member;6;Gerold Bührer;https://en.wikipedia.org/wiki/Gerold_Bührer;Q120521;40.0;exact_title|name_similarity:1.00|role_hint;matched;1
+Alfredo Gysi;Alfredo Gysi;CHE;alfredo;gysi;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Jean-Pierre Danthine;Jean Danthine;CHE;jean;danthine;CHE;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Konrad Hummler;Konrad Hummler;CHE;konrad;hummler;CHE;;;;;0;0;1953;4;;"University of; Zurich University of Rochester";;Switzerland;St. Gallen;Board member;3;Konrad Hummler;https://en.wikipedia.org/wiki/Konrad_Hummler;Q122631;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Rita Fuhrer;Rita Fuhrer;CHE;rita;fuhrer;CHE;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Serge Gaillard;Serge Gaillard;CHE;serge;gaillard;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Olivier Steimber;Olivier Steimber;CHE;olivier;steimber;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Ernst Stocker;Ernst Stocker;CHE;ernst;stocker;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Eveline Widmer Schlumpf;Eveline Schlumpf;CHE;eveline;schlumpf;CHE;2008;2015;1;12;0;1;1956;2;;;;Switzerland;Felsberg;Board member;3;Eveline Widmer-Schlumpf;https://en.wikipedia.org/wiki/Eveline_Widmer-Schlumpf;Q162767;35.205128205128204;partial_title|name_similarity:0.82|econ_context|country_hint|role_hint;matched;1
+Jean Studer;Jean Studer;CHE;jean;studer;CHE;;;;;0;0;1914;;;;;Switzerland;Biel/Bienne;Board member;9;Jean Studer;https://en.wikipedia.org/wiki/Jean_Studer;Q28093932;35.0;exact_title|name_similarity:1.00;matched;1
+Martin Kraenzlin;Martin Kraenzlin;CHE;martin;kraenzlin;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Marina Masoni;Marina Masoni;CHE;marina;masoni;CHE;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Christoph Lengwiler;Christoph Lengwiler;CHE;christoph;lengwiler;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Heinz Karrer;Heinz Karrer;CHE;heinz;karrer;CHE;;;;;0;0;1959;;;;;Switzerland;Winterthur;Board member;5;Heinz Karrer;https://en.wikipedia.org/wiki/Heinz_Karrer;Q15814933;35.0;exact_title|name_similarity:1.00;matched;1
+Christoph Mäder;Christoph Mader;CHE;christoph;mader;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Dewet Moser;Dewet Moser;CHE;dewet;moser;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Simonetta Sommaruga;Simonetta Sommaruga;CHE;simonetta;sommaruga;CHE;2010;2022;11;12;0;1;1960;2;Lucerne University;;;Switzerland;Zug;Board member;5;Simonetta Sommaruga;https://en.wikipedia.org/wiki/Simonetta_Sommaruga;Q122991;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Shelby Pasquier;Shelby Pasquier;CHE;shelby;pasquier;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Fritz Zurbrügg;Fritz Zurbrugg;CHE;fritz;zurbrugg;CHE;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Romeo Lacher;Romeo Lacher;CHE;romeo;lacher;CHE;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Laura Sadis;Laura Sadis;CHE;laura;sadis;CHE;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Monika Butler;Monika Butler;CHE;monika;butler;CHE;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Rajna Gibson Brandon;Rajna Brandon;CHE;rajna;brandon;CHE;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Philipp Hildebrand;Philipp Hildebrand;CHE;philipp;hildebrand;CHE;2010;2012;;1;2;0;1963;2;"Graduate Institute of International; University of; Lincoln College";;;Switzerland;Bern;President / Governor;7;Philipp Hildebrand;https://en.wikipedia.org/wiki/Philipp_Hildebrand;Q116927;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Thomas Jordan;Thomas Jordan;CHE;thomas;jordan;CHE;;;;;2;0;;;;;;;;President / Governor;;Thomas Jordan (economist);https://en.wikipedia.org/wiki/Thomas_Jordan_(economist);Q2425188;42.22222222222222;strong_title|name_similarity:0.72|econ_context|country_hint|role_hint;rejected;0
+Barbara Janom;Barbara Janom;CHE;barbara;janom;CHE;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Barbara Steiner;Barbara Steiner;CHE;barbara;steiner;CHE;;;;;0;1;1964;2;;;;Austria;Dörfles;Board member;;Barbara Steiner;https://en.wikipedia.org/wiki/Barbara_Steiner;Q95206216;40.0;exact_title|name_similarity:1.00|role_hint;matched;1
+Renaud de Planta;Renaud Planta;CHE;renaud;planta;CHE;;;;;0;0;1963;;;;;Switzerland;Geneva;Board member;11;Renaud de Planta;https://en.wikipedia.org/wiki/Renaud_de_Planta;Q97383430;30.96551724137931;partial_title|name_similarity:0.90|econ_context|country_hint;matched;1
+Daniel Lampart;Daniel Lampart;CHE;daniel;lampart;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Andrea Maechler;Andrea Maechler;CHE;andrea;maechler;CHE;;;;;0;0;1969;1;;;;Switzerland;Geneva;Board member;1;Andréa Maechler;https://en.wikipedia.org/wiki/Andréa_Maechler;Q18683282;48.0;exact_title|name_similarity:1.00|econ_context|role_hint;matched;1
+Vania Alleva;Vania Alleva;CHE;vania;alleva;CHE;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Antoine Martin;Antoine Martin;CHE;antoine;martin;CHE;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;Antoine Martin (boxer);https://en.wikipedia.org/wiki/Antoine_Martin_(boxer);Q9156300;26.235294117647054;strong_title|name_similarity:0.82;rejected;0
+Christoph Ammann;Christoph Ammann;CHE;christoph;ammann;CHE;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Cedric Tille;Cedric Tille;CHE;cedric;tille;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Angelo Ranaldo;Angelo Ranaldo;CHE;angelo;ranaldo;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Thomas Wiedmer;Thomas Wiedmer;CHE;thomas;wiedmer;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Christian Vitta;Christian Vitta;CHE;christian;vitta;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Martin Schlegel;Martin Schlegel;CHE;martin;schlegel;CHE;2022;2024;5;9;1;0;1976;6;;;"University of; Zurich University of Basel";;;Vice-president / Deputy-governor;8;Martin Schlegel;https://en.wikipedia.org/wiki/Martin_Schlegel;Q117352902;48.0;exact_title|name_similarity:1.00|econ_context|role_hint;matched;1
+Martin Schlegel;Martin Schlegel;CHE;martin;schlegel;CHE;2024;;10;;0;0;1976;6;;;"University of; Zurich University of Basel";;;Board member;8;Martin Schlegel;https://en.wikipedia.org/wiki/Martin_Schlegel;Q117352902;48.0;exact_title|name_similarity:1.00|econ_context|role_hint;matched;1
+Thomas Moser;Thomas Moser;CHE;thomas;moser;CHE;;;;;0;0;1945;1;;;;United States;Richmond;Board member;5;Thomas Moser;https://en.wikipedia.org/wiki/Thomas_Moser;Q992843;35.0;exact_title|name_similarity:1.00;matched;1
+Rosmarie Schlup;Rosmarie Schlup;CHE;rosmarie;schlup;CHE;;;;;1;1;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Michel Peytrignet;Michel Peytrignet;CHE;michel;peytrignet;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Alexander Swoboda;Alexander Swoboda;CHE;alexander;swoboda;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Armin Jans;Armin Jans;CHE;armin;jans;CHE;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Petra Tschudin;Petra Tschudin;CHE;petra;tschudin;CHE;;;;;1;1;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Manuel Trucco Franzani;Manuel Franzani;CHL;manuel;franzani;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Sergio Molina Silva;Sergio Silva;CHL;sergio;silva;CHL;;;;;2;0;;;;;;;;President / Governor;;Esperanza Silva;https://en.wikipedia.org/wiki/Esperanza_Silva;Q5840226;16.666666666666664;shared_last_name|name_similarity:0.67|country_hint;rejected;0
+Carlos Matus Romo;Carlos Romo;CHL;carlos;romo;CHL;;;;;0;0;1966;;;;;;;Board member;10;Carlos Romo;https://en.wikipedia.org/wiki/Carlos_Romo;Q28842071;35.0;exact_title|name_similarity:1.00;matched;1
+Carlos Massad Abud;Carlos Abud;CHL;carlos;abud;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Carlos Massad;Carlos Massad;CHL;carlos;massad;CHL;1967;1970;;;2;0;1932;3;;;;Chile;Santiago;President / Governor;8;Carlos Massad;https://en.wikipedia.org/wiki/Carlos_Massad;Q5750927;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Carlos Rodriguez;Carlos Rodriguez;CHL;carlos;rodriguez;CHL;;;;;2;0;;;;;;;;President / Governor;;Carlos Rodríguez Braun;https://en.wikipedia.org/wiki/Carlos_Rodríguez_Braun;Q16543425;26.421052631578945;strong_title|name_similarity:0.84;rejected;0
+Andrés Bianchi Larre;Andres Larre;CHL;andres;larre;CHL;;;;;2;0;;;;;;;;President / Governor;;Juan Andres Larré;https://en.wikipedia.org/wiki/Juan_Andres_Larré;Q3187704;18.275862068965516;partial_title|name_similarity:0.83;rejected;0
+María Elena Ovalle;Maria Ovalle;CHL;maria;ovalle;CHL;;;;;0;1;;;;;;;;Board member;;José Tomás Ovalle;https://en.wikipedia.org/wiki/José_Tomás_Ovalle;Q1709663;24.20689655172414;shared_last_name|name_similarity:0.62|econ_context|country_hint;rejected;0
+Alvaro Bardón Muñoz;Alvaro Munoz;CHL;alvaro;munoz;CHL;;;;;2;0;;;;;;;;President / Governor;;Álvaro Muñoz;https://en.wikipedia.org/wiki/Álvaro_Muñoz;Q16623968;25.0;exact_title|name_similarity:1.00|disambiguation_penalty;matched;1
+Carlos Cáceres Contreras;Carlos Contreras;CHL;carlos;contreras;CHL;;;;;2;0;;;;;;;;President / Governor;;Carlos Contreras Labarca;https://en.wikipedia.org/wiki/Carlos_Contreras_Labarca;Q29032759;43.0;strong_title|name_similarity:0.80|econ_context|country_hint|role_hint;rejected;0
+Vittorio Corbo Lioi;Vittorio Lioi;CHL;vittorio;lioi;CHL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Stephany Griffithjones;Stephany Griffithjones;CHL;stephany;griffithjones;CHL;;;;;0;1;;;;;;;;Board member;;;;;;;rejected;0
+Stephany Griffithjones;Stephany Griffithjones;CHL;stephany;griffithjones;CHL;;;;;1;1;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Miguel Kast Rist;Miguel Rist;CHL;miguel;rist;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Roberto Zahler Mayanz;Roberto Mayanz;CHL;roberto;mayanz;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Pablo Piñera;Pablo Pinera;CHL;pablo;pinera;CHL;;;;;2;0;;;;;;;;President / Governor;;José Piñera;https://en.wikipedia.org/wiki/José_Piñera;Q664693;29.956521739130434;shared_last_name|name_similarity:0.70|econ_context|country_hint|role_hint;rejected;0
+Jorge Desormeaux;Jorge Desormeaux;CHL;jorge;desormeaux;CHL;;;;;1;0;1950;3;"Catholic University of; Massachusetts Institute of Technology";;;Chile;Santiago;Vice-president / Deputy-governor;8;Jorge Desormeaux;https://en.wikipedia.org/wiki/Jorge_Desormeaux;Q5934867;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Jorge Desormeaux Jiménez;Jorge Jimenez;CHL;jorge;jimenez;CHL;;;;;0;0;;;;;;;;Board member;;Jorge Jiménez Cantú;https://en.wikipedia.org/wiki/Jorge_Jiménez_Cantú;Q6278171;39.125;strong_title|name_similarity:0.81|econ_context|role_hint;rejected;0
+Enrique Marshall;Enrique Marshall;CHL;enrique;marshall;CHL;;;;;0;0;;;;;;;;Board member;;Jorge Marshall;https://en.wikipedia.org/wiki/Jorge_Marshall;Q5551906;25.333333333333332;shared_last_name|name_similarity:0.73|econ_context|country_hint;rejected;0
+Jorge Desormeaux Jiménez;Jorge Jimenez;CHL;jorge;jimenez;CHL;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;Jorge Jiménez Cantú;https://en.wikipedia.org/wiki/Jorge_Jiménez_Cantú;Q6278171;39.125;strong_title|name_similarity:0.81|econ_context|role_hint;rejected;0
+José Manuel Marfán Lewis;Jose Lewis;CHL;jose;lewis;CHL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Manuel Marfan;Manuel Marfan;CHL;manuel;marfan;CHL;1999;2000;12;3;1;0;1952;6;;;Yale University;Chile;Santiago;Vice-president / Deputy-governor;12;Manuel Marfán;https://en.wikipedia.org/wiki/Manuel_Marfán;Q5669247;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Joaquín Luis Vial Ruiz-Tagle;Joaquin Ruiztagle;CHL;joaquin;ruiztagle;CHL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Joaquin Vial;Joaquin Vial;CHL;joaquin;vial;CHL;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Jorge Rivera;Jorge Rivera;CHL;jorge;rivera;CHL;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;Jorge Rivera Vicuña;https://en.wikipedia.org/wiki/Jorge_Rivera_Vicuña;Q12176838;29.741935483870968;strong_title|name_similarity:0.77|country_hint;rejected;0
+Jorge Marshall;Jorge Marshall;CHL;jorge;marshall;CHL;;;;;1;0;1954;2;"University of; Harvard University";;;Chile;( 1954-07-10 ) 10 July 1954 (age 71) Santiago;Vice-president / Deputy-governor;6;Jorge Marshall;https://en.wikipedia.org/wiki/Jorge_Marshall;Q5551906;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Rosanna Costa;Rosanna Costa;CHL;rosanna;costa;CHL;2022;;2;;2;1;1957;2;Catholic University of Chile;;;Chile;Viña del Mar;President / Governor;12;Rosanna Costa;https://en.wikipedia.org/wiki/Rosanna_Costa;Q6112329;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+José De Gregorio;Jose Gregorio;CHL;jose;gregorio;CHL;;;;;0;0;;;;;;;;Board member;;José Gregorio Salazar;https://en.wikipedia.org/wiki/José_Gregorio_Salazar;Q376057;38.64705882352941;strong_title|name_similarity:0.76|econ_context|role_hint;rejected;0
+José De Gregorio Rebecco;Jose Rebecco;CHL;jose;rebecco;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Jose De Gregorio Rebeco;Jose Rebeco;CHL;jose;rebeco;CHL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Mario Marcel Cullell;Mario Cullell;CHL;mario;cullell;CHL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Mario Marcel;Mario Marcel;CHL;mario;marcel;CHL;2016;2022;12;1;2;0;1959;3;;;;Chile;Santiago;President / Governor;10;Mario Marcel;https://en.wikipedia.org/wiki/Mario_Marcel;Q5998841;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Pablo Silva;Pablo Silva;CHL;pablo;silva;CHL;;;;;0;0;1984;;;;;Uruguay;Montevideo;Board member;11;Pablo Silva;https://en.wikipedia.org/wiki/Pablo_Silva;Q27988577;35.0;exact_title|name_similarity:1.00;matched;1
+Pablo Baraona Urzúa;Rodrigo Urzua;CHL;rodrigo;urzua;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Rodrigo Vergara Montes;Rodrigo Montes;CHL;rodrigo;montes;CHL;;;;;0;0;1999;;;;;Argentina;Córdoba;Board member;10;Rodrigo Montes;https://en.wikipedia.org/wiki/Rodrigo_Montes;Q108137717;35.0;exact_title|name_similarity:1.00;matched;1
+Rodrigo Vergara;Rodrigo Vergara;CHL;rodrigo;vergara;CHL;2011;2016;12;12;0;0;1962;2;Harvard University;;;Chile;Santiago;Board member;6;Rodrigo Vergara;https://en.wikipedia.org/wiki/Rodrigo_Vergara;Q3380860;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Sebastián Claro Edwards;Sebastian Edwards;CHL;sebastian;edwards;CHL;;;;;0;0;1953;6;;;;Chile;Santiago;Board member;8;Sebastián Edwards;https://en.wikipedia.org/wiki/Sebastián_Edwards;Q7442638;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Sebastián Claro Edwards;Sebastian Edwards;CHL;sebastian;edwards;CHL;;;;;1;0;1953;6;;;;Chile;Santiago;Vice-president / Deputy-governor;8;Sebastián Edwards;https://en.wikipedia.org/wiki/Sebastián_Edwards;Q7442638;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Pablo Garcia;Pablo Garcia;CHL;pablo;garcia;CHL;2007;2013;6;6;0;0;1925;2;;;;Philippines;Dumanjug;Board member;9;Pablo P. Garcia;https://en.wikipedia.org/wiki/Pablo_P._Garcia;Q1867908;32.23076923076923;partial_title|name_similarity:0.92|econ_context|role_hint;matched;1
+Claudio Gamboa;Claudio Gamboa;CHL;claudio;gamboa;CHL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Sebastin Claro;Sebastin Claro;CHL;sebastin;claro;CHL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Sebastián Claro;Sebastian Claro;CHL;sebastian;claro;CHL;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Alberto Naudon;Alberto Naudon;CHL;alberto;naudon;CHL;;;;;0;0;1916;2;;;;Chile;Santiago;Board member;7;Alberto Naudón;https://en.wikipedia.org/wiki/Alberto_Naudón;Q5663359;39.0;exact_title|name_similarity:1.00|country_hint;matched;1
+Alberto Naudon Dell’Oro;Alberto Delloro;CHL;alberto;delloro;CHL;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Arturo Maschke Tornero;Arturo Tornero;CHL;arturo;tornero;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Eduardo Figueroa Geisse;Eduardo Geisse;CHL;eduardo;geisse;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Luis Mackenna Shiell;Luis Shiell;CHL;luis;shiell;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Alfonso Inostroza Cuevas;Alfonso Cuevas;CHL;alfonso;cuevas;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Eduardo Cano Quijada;Eduardo Quijada;CHL;eduardo;quijada;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Pablo Baraona Urzúa;Pablo Urzua;CHL;pablo;urzua;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Sergio de la Cuadra Fabres;Sergio Fabres;CHL;sergio;fabres;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Hernán Felipe Errázuriz Correa;Hernan Correa;CHL;hernan;correa;CHL;;;;;2;0;;;;;;;;President / Governor;;María Silvia Correa;https://en.wikipedia.org/wiki/María_Silvia_Correa;Q104535085;28.0;shared_last_name|name_similarity:0.50|econ_context|country_hint|role_hint;rejected;0
+Francisco Ibánez Barceló;Francisco Barcelo;CHL;francisco;barcelo;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Enrique Seguel Morel;Enrique Morel;CHL;enrique;morel;CHL;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Manuel Concha Martínez;Manuel Martinez;CHL;manuel;martinez;CHL;;;;;2;0;;;;;;;;President / Governor;;Manuel Martínez (athlete);https://en.wikipedia.org/wiki/Manuel_Martínez_(athlete);Q555905;25.894736842105264;strong_title|name_similarity:0.79;rejected;0
+* Nci;* Nci;CHL;*;nci;CHL;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Nan Hanchen;Nan Hanchen;CHN;;hanchen;CHN;;;;;2;0;;;;;;;;President / Governor;;Nan Hanchen;https://en.wikipedia.org/wiki/Nan_Hanchen;Q4208360;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;rejected;0
+Cao Juru;Cao Juru;CHN;cao;juru;CHN;;;;;2;0;1901;;;;;;;President / Governor;5;Cao Juru;https://en.wikipedia.org/wiki/Cao_Juru;Q4208034;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Li Baohua;Li Baohua;CHN;li;baohua;CHN;;;;;2;0;1909;;;;;People's Republic of China;Laoting County;President / Governor;10;Li Baohua;https://en.wikipedia.org/wiki/Li_Baohua;Q4207972;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Chen Xiyu;Chen Xiyu;CHN;chen;xiyu;CHN;;;;;2;0;1911;;;;;;;President / Governor;7;Chen Xiyu;https://en.wikipedia.org/wiki/Chen_Xiyu;Q4251574;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Hu Lijiao;Hu Lijiao;CHN;hu;lijiao;CHN;;;;;2;0;1914;;;;;;;President / Governor;12;Hu Lijiao;https://en.wikipedia.org/wiki/Hu_Lijiao;Q4208000;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Chen Muhua;Chen Muhua;CHN;chen;muhua;CHN;;;;;2;1;1921;2;Political University;;;People's Republic of China;Qingtian;President / Governor;6;Chen Muhua;https://en.wikipedia.org/wiki/Chen_Muhua;Q701442;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Lu Peijian;Lu Peijian;CHN;lu;peijian;CHN;1982;1985;4;3;2;0;1928;2;Renmin University of China;;;People's Republic of China;Hongze District;President / Governor;8;Lü Peijian;https://en.wikipedia.org/wiki/Lü_Peijian;Q4251596;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Lu Peijian;Lu Peijian;CHN;lu;peijian;CHN;1982;1985;4;3;2;0;1928;2;Renmin University of China;;;People's Republic of China;Hongze District;President / Governor;8;Lü Peijian;https://en.wikipedia.org/wiki/Lü_Peijian;Q4251596;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Zhu Rongji;Zhu Rongji;CHN;zhu;rongji;CHN;1993;1998;3;3;2;0;1928;2;Tsinghua University;;;People's Republic of China;Changsha;President / Governor;10;Zhu Rongji;https://en.wikipedia.org/wiki/Zhu_Rongji;Q18285;39.0;exact_title|name_similarity:1.00|country_hint;matched;1
+Li Guixian;Li Guixian;CHN;li;guixian;CHN;;;;;2;0;1937;2;Technology Institute;;;People's Republic of China;Gaizhou;President / Governor;8;Li Guixian;https://en.wikipedia.org/wiki/Li_Guixian;Q710930;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Dai Xianglong;Dai Xianglong;CHN;dai;xianglong;CHN;;;;;2;0;1944;2;Central University of Finance;;;People's Republic of China;Yizheng;President / Governor;10;Dai Xianglong;https://en.wikipedia.org/wiki/Dai_Xianglong;Q834484;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Chen Yuan;Chen Yuan;CHN;chen;yuan;CHN;2013;;3;;1;0;1945;1;;;;People's Republic of China;People's Republic of China;Vice-president / Deputy-governor;1;Chen Yuan;https://en.wikipedia.org/wiki/Chen_Yuan;Q82260;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Wu Xiaoling;Wu Xiaoling;CHN;wu;xiaoling;CHN;;;;;1;1;1947;;;;;;;Vice-president / Deputy-governor;1;Wu Xiaoling;https://en.wikipedia.org/wiki/Wu_Xiaoling;Q9063789;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Wu Xiaoling;Wu Xiaoling;CHN;wu;xiaoling;CHN;;;;;0;1;1947;;;;;;;Board member;1;Wu Xiaoling;https://en.wikipedia.org/wiki/Wu_Xiaoling;Q9063789;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Wu Xiaoling;Wu Xiaoling;CHN;wu;xiaoling;CHN;;;;;0;1;1947;;;;;;;Board member;1;Wu Xiaoling;https://en.wikipedia.org/wiki/Wu_Xiaoling;Q9063789;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Zhou Xiaochuan;Zhou Xiaochuan;CHN;zhou;xiaochuan;CHN;2002;2018;12;3;2;0;1948;2;"Beijing University of; Tsinghua University";;;People's Republic of China;Yixing;President / Governor;1;Zhou Xiaochuan;https://en.wikipedia.org/wiki/Zhou_Xiaochuan;Q198026;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Ma Delun;Ma Delun;CHN;ma;delun;CHN;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Su Ning;Su Ning;CHN;su;ning;CHN;;;;;0;0;1953;;;;;People's Republic of China;Xiaoyi;Board member;1;Su Ning;https://en.wikipedia.org/wiki/Su_Ning;Q7630360;39.0;exact_title|name_similarity:1.00|country_hint;matched;1
+Li Ruogu;Li Ruogu;CHN;li;ruogu;CHN;;;;;0;0;1951;2;"University; Princeton University";;;;;Board member;1;Li Ruogu;https://en.wikipedia.org/wiki/Li_Ruogu;Q1822593;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Li Ruogu;Li Ruogu;CHN;li;ruogu;CHN;;;;;1;0;1951;2;"University; Princeton University";;;;;Vice-president / Deputy-governor;1;Li Ruogu;https://en.wikipedia.org/wiki/Li_Ruogu;Q1822593;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Liu Tinghuan;Liu Tinghuan;CHN;liu;tinghuan;CHN;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Guo Shuqing;Guo Shuqing;CHN;guo;shuqing;CHN;;;;;0;0;1956;2;"University; Chinese Academy of Social";;;People's Republic of China;Inner Mongolia;Board member;1;Guo Shuqing;https://en.wikipedia.org/wiki/Guo_Shuqing;Q5619614;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Xiang Junbo;Xiang Junbo;CHN;xiang;junbo;CHN;;;;;1;0;1957;1;;;;People's Republic of China;Chongqing;Vice-president / Deputy-governor;;Xiang Junbo;https://en.wikipedia.org/wiki/Xiang_Junbo;Q8044137;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Junbo Xiang;Junbo Xiang;CHN;junbo;xiang;CHN;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Hu Xiaolian;Hu Xiaolian;CHN;hu;xiaolian;CHN;;;;;0;1;1958;;;;;People's Republic of China;Hubei;Board member;1;Hu Xiaolian;https://en.wikipedia.org/wiki/Hu_Xiaolian;Q5924778;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Hu Xiaolian;Hu Xiaolian;CHN;hu;xiaolian;CHN;;;;;1;1;1958;;;;;People's Republic of China;Hubei;Vice-president / Deputy-governor;1;Hu Xiaolian;https://en.wikipedia.org/wiki/Hu_Xiaolian;Q5924778;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Yi Gang;Yi Gang;CHN;yi;gang;CHN;2018;2023;3;7;2;0;1958;6;;;University;People's Republic of China;Beijing;President / Governor;3;Yi Gang;https://en.wikipedia.org/wiki/Yi_Gang;Q4743711;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Liu Guoqiang;Liu Guoqiang;CHN;liu;guoqiang;CHN;;;;;0;0;1953;2;"University; Northeastern University";;;People's Republic of China;Benxi;Board member;1;Liu Guoqiang;https://en.wikipedia.org/wiki/Liu_Guoqiang;Q8989806;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Liu Shiyu;Liu Shiyu;CHN;liu;shiyu;CHN;;;;;0;0;1961;2;Tsinghua University;;;People's Republic of China;Guanyun County;Board member;11;Liu Shiyu;https://en.wikipedia.org/wiki/Liu_Shiyu;Q6653716;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Liu Shiyu;Liu Shiyu;CHN;liu;shiyu;CHN;;;;;1;0;1961;2;Tsinghua University;;;People's Republic of China;Guanyun County;Vice-president / Deputy-governor;11;Liu Shiyu;https://en.wikipedia.org/wiki/Liu_Shiyu;Q6653716;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Pan Gongsheng;Pan Gongsheng;CHN;pan;gongsheng;CHN;2023;;7;;1;0;1963;2;Renmin University of China;;;People's Republic of China;Anqing;Vice-president / Deputy-governor;7;Pan Gongsheng;https://en.wikipedia.org/wiki/Pan_Gongsheng;Q9309080;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Pan Gongsheng;Pan Gongsheng;CHN;pan;gongsheng;CHN;2023;;7;;2;0;1963;2;Renmin University of China;;;People's Republic of China;Anqing;President / Governor;7;Pan Gongsheng;https://en.wikipedia.org/wiki/Pan_Gongsheng;Q9309080;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Fan Yifei;Fan Yifei;CHN;fan;yifei;CHN;;;;;1;0;1964;2;"Renmin University of; Columbia University";;;China;Jiangsu;Vice-president / Deputy-governor;1;Fan Yifei;https://en.wikipedia.org/wiki/Fan_Yifei;Q16075858;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Zhang Qingsong;Zhang Qingsong;CHN;zhang;qingsong;CHN;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Chen Yulu;Chen Yulu;CHN;chen;yulu;CHN;;;;;1;0;1966;2;Renmin University;;;People's Republic of China;Gaocheng District;Vice-president / Deputy-governor;11;Chen Yulu;https://en.wikipedia.org/wiki/Chen_Yulu;Q8290352;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Liu Guiping;Liu Guiping;CHN;liu;guiping;CHN;;;;;0;0;1966;2;"University; Jinan University";;;People's Republic of China;Hengnan County;Board member;5;Liu Guiping;https://en.wikipedia.org/wiki/Liu_Guiping;Q85352738;47.0;exact_title|name_similarity:1.00|econ_context|country_hint;matched;1
+Xuan Changneng;Xuan Changneng;CHN;xuan;changneng;CHN;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Zhu Hexin;Zhu Hexin;CHN;zhu;hexin;CHN;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Lu Lei;Lu Lei;CHN;lu;lei;CHN;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Abdoulaye Fadiga;Abdoulaye Fadiga;CIV;abdoulaye;fadiga;CIV;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Abdoulaye Fadig;Abdoulaye Fadig;CIV;abdoulaye;fadig;CIV;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Alassane Ouattara;Alassane Ouattara;CIV;alassane;ouattara;CIV;2012;2013;2;2;2;0;1942;6;;;;Ivory Coast;Dimbokro;President / Governor;1;Alassane Ouattara;https://en.wikipedia.org/wiki/Alassane_Ouattara;Q57413;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Alassane Ouattara;Alassane Ouattara;CIV;alassane;ouattara;CIV;2012;2013;2;2;2;0;1942;6;;;;Ivory Coast;Dimbokro;President / Governor;1;Alassane Ouattara;https://en.wikipedia.org/wiki/Alassane_Ouattara;Q57413;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+"Charles Konan Banny
+";Charles Banny;CIV;charles;banny;BFA;;;;;2;0;1942;1;;;;Ivory Coast;Divo;President / Governor;11;Charles Konan Banny;https://en.wikipedia.org/wiki/Charles_Konan_Banny;Q455728;35.125;partial_title|name_similarity:0.81|econ_context|country_hint|role_hint;matched;1
+"Charles Konan Banny
+";Charles Banny;CIV;charles;banny;CIV;;;;;0;0;1942;1;;;;Ivory Coast;Divo;Board member;11;Charles Konan Banny;https://en.wikipedia.org/wiki/Charles_Konan_Banny;Q455728;35.125;partial_title|name_similarity:0.81|econ_context|country_hint|role_hint;matched;1
+"Philippe-Henri Dakoury-Tabley
+";Philippe Dakourytabley;CIV;philippe;dakourytabley;CIV;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Philippe-Henri Dacoury-Tabley;Philippe Dacourytabley;CIV;philippe;dacourytabley;CIV;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Tiemoko Kone;Tiemoko Kone;CIV;tiemoko;kone;TGO;2022;;4;;2;0;1949;;;;;French West Africa (now Ivory Coast );( 1949-04-26 ) 26 April 1949 (age 77) Tafiré;President / Governor;4;Tiémoko Meyliet Koné;https://en.wikipedia.org/wiki/Tiémoko_Meyliet_Koné;Q19392607;34.5;partial_title|name_similarity:0.75|econ_context|country_hint|role_hint;matched;1
+Philippehenri Dacourytabley;Philippehenri Dacourytabley;CIV;philippehenri;dacourytabley;CIV;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+"Justin Damo Baro
+";Justin Baro;CIV;justin;baro;CIV;;;;;2;0;1952;1;;;;Burkina Faso;Toussiana Department;President / Governor;12;Justin Damo Baro;https://en.wikipedia.org/wiki/Justin_Damo_Baro;Q3190428;35.148148148148145;partial_title|name_similarity:0.81|econ_context|country_hint|role_hint;matched;1
+"Justin Damo Baro
+";Justin Baro;CIV;justin;baro;CIV;;;;;2;0;1952;1;;;;Burkina Faso;Toussiana Department;President / Governor;12;Justin Damo Baro;https://en.wikipedia.org/wiki/Justin_Damo_Baro;Q3190428;35.148148148148145;partial_title|name_similarity:0.81|econ_context|country_hint|role_hint;matched;1
+Jean‑Claude Kassi Brou;Jean Brou;CIV;jean;brou;TGO;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+"Jean-Baptiste Compaoré
+";Jean Compaore;CIV;jean;compaore;CIV;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Lansina Bakary;Lansina Bakary;CIV;lansina;bakary;CIV;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Kanvaly Diomande;Kanvaly Diomande;CIV;kanvaly;diomande;CIV;;;;;0;0;;;;;;;;Board member;;;;;;;rejected;0
+Mama Ouattara;Mama Ouattara;CIV;mama;ouattara;CIV;;;;;0;0;1951;;;;;Ivory Coast;Bouna;Board member;6;Mama Ouattara;https://en.wikipedia.org/wiki/Mama_Ouattara;Q3284782;35.0;exact_title|name_similarity:1.00;matched;1
+Robert Julienne;Robert Julienne;CIV;robert;julienne;CIV;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Mama Ouattara;Mama Ouattara;CIV;mama;ouattara;CIV;;;;;0;0;1951;;;;;Ivory Coast;Bouna;Board member;6;Mama Ouattara;https://en.wikipedia.org/wiki/Mama_Ouattara;Q3284782;35.0;exact_title|name_similarity:1.00;matched;1
+Jean-Félix Mamalepot;Jean Mamalepot;CMR;jean;mamalepot;CMR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Casimir Oyé-Mba;Casimir Oyemba;CMR;casimir;oyemba;CMR;;;;;2;0;;;;;;;;President / Governor;;Casimir Oyé-Mba;https://en.wikipedia.org/wiki/Casimir_Oyé-Mba;Q127219;22.655172413793103;name_similarity:0.97|econ_context|role_hint;rejected;0
+Abbas Tolli;Abbas Tolli;CMR;abbas;tolli;CMR;2017;;2;;2;0;1972;1;;;;Chad;Abéché;President / Governor;4;Abbas Tolli;https://en.wikipedia.org/wiki/Abbas_Tolli;Q55606323;48.0;exact_title|name_similarity:1.00|econ_context|role_hint;matched;1
+Yvon Sana Bangui;Yvon Bangui;CMR;yvon;bangui;CMR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Christian Joudiou;Christian Joudiou;CMR;christian;joudiou;CMR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Philibert Andzembe;Philibert Andzembe;CMR;philibert;andzembe;CMR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Lucas Abaga Nchama;Lucas Nchama;CMR;lucas;nchama;CMR;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Karel-Antoine-Francis VERCRUYSSE;Karel Vercruysse;COD;karel;vercruysse;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Jean N'SELE EKOFO ANYENGA;Jean Anyenga;COD;jean;anyenga;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Jean Nyembo Shabani;Jean Shabani;COD;jean;shabani;COD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Etienne Crispin MANTOMINA KIALA;Etienne Kiala;COD;etienne;kiala;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Charles Nkoso;Charles Nkoso;COD;charles;nkoso;COD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Jules Croy Emony Mondanga;Jules Mondanga;COD;jules;mondanga;COD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Jules Nbagui;Jules Nbagui;COD;jules;nbagui;COD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Omer TSHIUNZA MBIYE;Omer Mbiye;COD;omer;mbiye;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Joseph BUHENDWA BWA MUSHABA;Joseph Mushaba;COD;joseph;mushaba;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Joseph Buhendwa bwa Mushasa;Joseph Mushasa;COD;joseph;mushasa;COD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Casimir GBENDO NDEWA HEAD;Casimir Head;COD;casimir;head;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Pierre Pay-Pay wa Syakasighe;Pierre Syakasighe;COD;pierre;syakasighe;COD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+"Godefroid Ndiang Kabul
+";Godefroid Kabul;COD;godefroid;kabul;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Nestor DIAMBWANA;Nestor Diambwana;COD;nestor;diambwana;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+KIKATA NGIMA;Kikata Ngima;COD;kikata;ngima;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Dieudonné Fikiri Alimasi;Dieudonne Alimasi;COD;dieudonne;alimasi;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Jean-Marie EMUNGU;Jeanmarie Emungu;COD;jeanmarie;emungu;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Jules Assango;Jules Assango;COD;jules;assango;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Malangu Kabedi Mbuyi;Malangu Mbuyi;COD;malangu;mbuyi;COD;;;;;2;1;;;;;;;;President / Governor;;;;;;;rejected;0
+Deogratias Nyembo;Deogratias Nyembo;COD;deogratias;nyembo;COD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Pambu Pambu;Pambu Pambu;COD;pambu;pambu;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+André Wameso Nkwaluloki;Andre Nkwaluloki;COD;andre;nkwaluloki;COD;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Anderson MAWAKANI SAMBA;Anderson Samba;COD;anderson;samba;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+FIKIRI ALIMASI WA ASANI;I Asani;COD;i;asani;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+William Pambu;William Pambu;COD;william;pambu;COD;;;;;1;0;;;;;;;;Vice-president / Deputy-governor;;;;;;;rejected;0
+Albert Ndele;Albert Ndele;COG;albert;ndele;COG;;;;;2;0;1930;2;;;;Democratic Republic of the Congo;Boma;President / Governor;8;Albert Ndele;https://en.wikipedia.org/wiki/Albert_Ndele;Q285337;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint;matched;1
+Jean Nyembo Shabani;Jean Shabani;COG;jean;shabani;COG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Charles Bofossa Wambea Nkosso;Charles Nkosso;COG;charles;nkosso;COG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0
+Jules Croy Emony Mondanga;Jules Mondanga;COG;jules;mondanga;COG;;;;;2;0;;;;;;;;President / Governor;;;;;;;rejected;0

@@ -1,0 +1,452 @@
+search_name;iso3;position_original;wikipedia_title;wikipedia_person_url;wikipedia_qid;match_score;match_reason
+Hassanali Mehran;ABW;President / Governor;Hassan Ali Mehran;https://en.wikipedia.org/wiki/Hassan_Ali_Mehran;Q5691751;28.696969696969695;shared_last_name|name_similarity:0.97|econ_context|role_hint
+Hassanali Mehran;ABW;President / Governor;Hassan Ali Mehran;https://en.wikipedia.org/wiki/Hassan_Ali_Mehran;Q5691751;28.696969696969695;shared_last_name|name_similarity:0.97|econ_context|role_hint
+Elias Mansur;ABW;President / Governor;Don Elias Mansur Ballpark;https://en.wikipedia.org/wiki/Don_Elias_Mansur_Ballpark;Q5360550;20.486486486486488;partial_title|name_similarity:0.65|country_hint
+Jeanette Semeleer;ABW;President / Governor;Jane Semeleer;https://en.wikipedia.org/wiki/Jane_Semeleer;Q11978170;31.666666666666668;shared_last_name|name_similarity:0.87|econ_context|country_hint|role_hint
+A Williams;ABW;President / Governor;Kim A. Williams;https://en.wikipedia.org/wiki/Kim_A._Williams;Q23770345;31.333333333333336;partial_title|name_similarity:0.83|econ_context|role_hint
+Noorullah Delawari;AFG;President / Governor;Noorullah Delwari;https://en.wikipedia.org/wiki/Noorullah_Delwari;Q30688167;26.714285714285715;name_similarity:0.97|econ_context|country_hint|role_hint
+Noorullah Delawari;AFG;President / Governor;Noorullah Delwari;https://en.wikipedia.org/wiki/Noorullah_Delwari;Q30688167;26.714285714285715;name_similarity:0.97|econ_context|country_hint|role_hint
+Noorullah Delawari;AFG;President / Governor;Noorullah Delwari;https://en.wikipedia.org/wiki/Noorullah_Delwari;Q30688167;26.714285714285715;name_similarity:0.97|econ_context|country_hint|role_hint
+Anwar Ahady;AFG;President / Governor;Anwar ul-Haq Ahady;https://en.wikipedia.org/wiki/Anwar_ul-Haq_Ahady;Q3270084;29.586206896551722;partial_title|name_similarity:0.76|econ_context|country_hint
+Mohammad Qayoumi;AFG;Board member;Mohammad Qayoumi;https://en.wikipedia.org/wiki/Mohammad_Qayoumi;Q6892292;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Omar Zakhilwal;AFG;Board member;Omar Zakhilwal;https://en.wikipedia.org/wiki/Omar_Zakhilwal;Q7089863;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Ajmal Ahmady;AFG;President / Governor;Ajmal Ahmady;https://en.wikipedia.org/wiki/Ajmal_Ahmady;Q105641732;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Nargis Nehan;AFG;Board member;Nargis Nehan;https://en.wikipedia.org/wiki/Nargis_Nehan;Q61120412;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Abdul Azizi;AFG;President / Governor;Abdul Azizi Ali Rahman;https://en.wikipedia.org/wiki/Abdul_Azizi_Ali_Rahman;Q24088738;24.666666666666664;strong_title|name_similarity:0.67
+Mohammad Khan;AFG;President / Governor;Arif Mohammad Khan;https://en.wikipedia.org/wiki/Arif_Mohammad_Khan;Q4790546;31.387096774193548;partial_title|name_similarity:0.84|econ_context|role_hint
+Mohammad Kabir;AFG;President / Governor;Mohammad Kabir Hassan;https://en.wikipedia.org/wiki/Mohammad_Kabir_Hassan;Q30072965;34.0;strong_title|name_similarity:0.80|econ_context
+Mohammad Khan;AFG;President / Governor;Arif Mohammad Khan;https://en.wikipedia.org/wiki/Arif_Mohammad_Khan;Q4790546;31.387096774193548;partial_title|name_similarity:0.84|econ_context|role_hint
+Ehsanullah Ehsan;AFG;President / Governor;Ehsanullah Ehsan (banker);https://en.wikipedia.org/wiki/Ehsanullah_Ehsan_(banker);Q5348672;43.205128205128204;strong_title|name_similarity:0.82|econ_context|country_hint|role_hint
+Mohammad Ahmadi;AFG;President / Governor;Baz Mohammad Ahmadi;https://en.wikipedia.org/wiki/Baz_Mohammad_Ahmadi;Q730798;35.82352941176471;partial_title|name_similarity:0.88|econ_context|country_hint|role_hint
+Noorullah Delwari;AFG;President / Governor;Noorullah Delwari;https://en.wikipedia.org/wiki/Noorullah_Delwari;Q30688167;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Noorullah Delwari;AFG;President / Governor;Noorullah Delwari;https://en.wikipedia.org/wiki/Noorullah_Delwari;Q30688167;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Mohammad Osmani;AFG;Board member;Akhtar Mohammad Osmani;https://en.wikipedia.org/wiki/Akhtar_Mohammad_Osmani;Q2829009;35.10810810810811;partial_title|name_similarity:0.81|econ_context|country_hint|role_hint
+Shakir Jalali;AFG;President / Governor;Shakir Jalali;https://en.wikipedia.org/wiki/Shakir_Jalali;Q108872917;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Gaspar Martins;AGO;President / Governor;Ismael Martins;https://en.wikipedia.org/wiki/Ismael_Martins;Q5526551;25.142857142857142;shared_last_name|name_similarity:0.71|econ_context|country_hint
+Aguinaldo Jaime;AGO;President / Governor;Aguinaldo Jaime;https://en.wikipedia.org/wiki/Aguinaldo_Jaime;Q4694559;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Jose Morais;AGO;President / Governor;José Morais;https://en.wikipedia.org/wiki/José_Morais;Q4353621;39.0;exact_title|name_similarity:1.00|country_hint
+Gualberto Campos;AGO;Vice-president / Deputy-governor;Gualberto Campos;https://en.wikipedia.org/wiki/Gualberto_Campos;Q5613375;35.0;exact_title|name_similarity:1.00
+Manuel Dias;AGO;Vice-president / Deputy-governor;Manuel Dias (athlete);https://en.wikipedia.org/wiki/Manuel_Dias_(athlete);Q6752533;25.333333333333332;strong_title|name_similarity:0.73
+Manuel Dias;AGO;Board member;Manuel Dias (athlete);https://en.wikipedia.org/wiki/Manuel_Dias_(athlete);Q6752533;25.333333333333332;strong_title|name_similarity:0.73
+Valter Silva;AGO;President / Governor;Valter;https://en.wikipedia.org/wiki/Valter;Q16282332;24.666666666666664;strong_title|name_similarity:0.67
+Jose Carvalho;AGO;President / Governor;José Carvalho da Rocha;https://en.wikipedia.org/wiki/José_Carvalho_da_Rocha;Q18276312;42.42857142857143;strong_title|name_similarity:0.74|econ_context|country_hint|role_hint
+Pedro Neto;AGO;President / Governor;Pedro Neto;https://en.wikipedia.org/wiki/Pedro_Neto;Q30036972;35.0;exact_title|name_similarity:1.00
+Antonio Furtado;AGO;President / Governor;Antonio Luz Furtado;https://en.wikipedia.org/wiki/Antonio_Luz_Furtado;Q16668163;18.823529411764707;partial_title|name_similarity:0.88
+Rui Oliveira;AGO;Board member;Rui Oliveira;https://en.wikipedia.org/wiki/Rui_Oliveira;Q23005289;35.0;exact_title|name_similarity:1.00
+Walter Silva;AGO;Board member;Walter Silva;https://en.wikipedia.org/wiki/Walter_Silva;Q7966139;35.0;exact_title|name_similarity:1.00
+Kostandin Boshnjaku;ALB;President / Governor;Kostandin Boshnjaku;https://en.wikipedia.org/wiki/Kostandin_Boshnjaku;Q15998344;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Abdyl Kellezi;ALB;President / Governor;Abdyl Këllezi;https://en.wikipedia.org/wiki/Abdyl_Këllezi;Q317983;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Qirjako Mihali;ALB;President / Governor;Qirjako Mihali;https://en.wikipedia.org/wiki/Qirjako_Mihali;Q2121681;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Niko Gjyzari;ALB;President / Governor;Niko Gjyzari;https://en.wikipedia.org/wiki/Niko_Gjyzari;Q31668898;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Dylber Vrioni;ALB;President / Governor;Dylber Vrioni;https://en.wikipedia.org/wiki/Dylber_Vrioni;Q13038438;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Ardian Fullani;ALB;President / Governor;Ardian Fullani;https://en.wikipedia.org/wiki/Ardian_Fullani;Q1815088;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Ilir Hoti;ALB;President / Governor;Ilir Hoti;https://en.wikipedia.org/wiki/Ilir_Hoti;Q21229005;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Ermelinda Meksi;ALB;Board member;Ermelinda Meksi;https://en.wikipedia.org/wiki/Ermelinda_Meksi;Q30315479;44.0;exact_title|name_similarity:1.00|country_hint|role_hint
+Arben Malaj;ALB;Board member;Arben Malaj;https://en.wikipedia.org/wiki/Arben_Malaj;Q4784677;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Benet Beci;ALB;President / Governor;Benet Beci;https://en.wikipedia.org/wiki/Benet_Beci;Q132184886;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Andis Harasani;ALB;Board member;Andis Harasani;https://en.wikipedia.org/wiki/Andis_Harasani;Q13036997;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Frank Wong;ANT;President / Governor;Frank Wong;https://en.wikipedia.org/wiki/Frank_Wong;Q18217398;35.0;exact_title|name_similarity:1.00
+Jose Romero;ANT;President / Governor;José E. Romero;https://en.wikipedia.org/wiki/José_E._Romero;Q6279347;19.166666666666664;partial_title|name_similarity:0.92
+Juma Majid;ARE;Board member;Juma Al Majid;https://en.wikipedia.org/wiki/Juma_Al_Majid;Q6310767;35.69565217391305;partial_title|name_similarity:0.87|econ_context|country_hint|role_hint
+Ronald Scott;ARE;President / Governor;Ronald Scott-Miller;https://en.wikipedia.org/wiki/Ronald_Scott-Miller;Q7365266;25.741935483870968;strong_title|name_similarity:0.77
+Edelmiro Farrell;ARG;President / Governor;Edelmiro Julián Farrell;https://en.wikipedia.org/wiki/Edelmiro_Julián_Farrell;Q356699;35.205128205128204;partial_title|name_similarity:0.82|econ_context|country_hint|role_hint
+Juan Peron;ARG;President / Governor;Juan Perón;https://en.wikipedia.org/wiki/Juan_Perón;Q93330;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Juan Peron;ARG;President / Governor;Juan Perón;https://en.wikipedia.org/wiki/Juan_Perón;Q93330;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Juan Peron;ARG;President / Governor;Juan Perón;https://en.wikipedia.org/wiki/Juan_Perón;Q93330;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Juan Peron;ARG;President / Governor;Juan Perón;https://en.wikipedia.org/wiki/Juan_Perón;Q93330;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Pedro Aramburu;ARG;President / Governor;Pedro Eugenio Aramburu;https://en.wikipedia.org/wiki/Pedro_Eugenio_Aramburu;Q188974;34.77777777777778;partial_title|name_similarity:0.78|econ_context|country_hint|role_hint
+Alfredo Morales;ARG;President / Governor;Alfredo Morales;https://en.wikipedia.org/wiki/Alfredo_Morales;Q443222;35.0;exact_title|name_similarity:1.00
+Arthur Frondizi;ARG;President / Governor;Arturo Frondizi;https://en.wikipedia.org/wiki/Arturo_Frondizi;Q346658;32.333333333333336;shared_last_name|name_similarity:0.93|econ_context|country_hint|role_hint
+Hector Campora;ARG;President / Governor;Héctor José Cámpora;https://en.wikipedia.org/wiki/Héctor_José_Cámpora;Q356751;35.484848484848484;partial_title|name_similarity:0.85|econ_context|country_hint|role_hint
+Jose Guido;ARG;President / Governor;José María Guido;https://en.wikipedia.org/wiki/José_María_Guido;Q470971;34.69230769230769;partial_title|name_similarity:0.77|econ_context|country_hint|role_hint
+Juan Ongania;ARG;President / Governor;Juan Carlos Onganía;https://en.wikipedia.org/wiki/Juan_Carlos_Onganía;Q365326;34.74193548387097;partial_title|name_similarity:0.77|econ_context|country_hint|role_hint
+Alejandro Lanusse;ARG;President / Governor;Alejandro Agustín Lanusse;https://en.wikipedia.org/wiki/Alejandro_Agustín_Lanusse;Q345487;35.095238095238095;partial_title|name_similarity:0.81|econ_context|country_hint|role_hint
+Roberto Levingston;ARG;President / Governor;Roberto Marcelo Levingston;https://en.wikipedia.org/wiki/Roberto_Marcelo_Levingston;Q380980;35.18181818181818;partial_title|name_similarity:0.82|econ_context|country_hint|role_hint
+Jorge Videla;ARG;President / Governor;Jorge Rafael Videla;https://en.wikipedia.org/wiki/Jorge_Rafael_Videla;Q75853;34.74193548387097;partial_title|name_similarity:0.77|econ_context|country_hint|role_hint
+Leopoldo Galtieri;ARG;President / Governor;Leopoldo Galtieri;https://en.wikipedia.org/wiki/Leopoldo_Galtieri;Q124993;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Raul Alfonsin;ARG;President / Governor;Raúl Alfonsín;https://en.wikipedia.org/wiki/Raúl_Alfonsín;Q193062;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+* Zalduendo;ARG;President / Governor;Carlos Zalduendo;https://en.wikipedia.org/wiki/Carlos_Zalduendo;Q2960481;26.2;shared_last_name|name_similarity:0.72|econ_context|role_hint
+Reynaldo Bignone;ARG;President / Governor;Reynaldo Bignone;https://en.wikipedia.org/wiki/Reynaldo_Bignone;Q298430;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Carlos Menem;ARG;President / Governor;Carlos Menem;https://en.wikipedia.org/wiki/Carlos_Menem;Q185107;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Isabel Peron;ARG;President / Governor;Isabel Perón;https://en.wikipedia.org/wiki/Isabel_Perón;Q191014;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Adolfo Diz;ARG;President / Governor;Adolfo Diz;https://en.wikipedia.org/wiki/Adolfo_Diz;Q4684219;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+* Rossi;ARG;President / Governor;Agustín Rossi;https://en.wikipedia.org/wiki/Agustín_Rossi;Q19006869;28.555555555555557;shared_last_name|name_similarity:0.56|econ_context|country_hint|role_hint
+Antonio Gonzalez;ARG;President / Governor;Antonio González de Balcarce;https://en.wikipedia.org/wiki/Antonio_González_de_Balcarce;Q2698196;38.27272727272727;strong_title|name_similarity:0.73|econ_context|role_hint
+Eduardo Duhalde;ARG;President / Governor;Eduardo Duhalde;https://en.wikipedia.org/wiki/Eduardo_Duhalde;Q294578;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+* Cavallo;ARG;President / Governor;Cavallo;https://en.wikipedia.org/wiki/Cavallo;Q452126;33.0;exact_title|name_similarity:1.00|econ_context|disambiguation_penalty
+* Machinea;ARG;President / Governor;José Luis Machinea;https://en.wikipedia.org/wiki/José_Luis_Machinea;Q2894286;29.153846153846153;shared_last_name|name_similarity:0.62|econ_context|country_hint|role_hint
+Roque Fernandez;ARG;President / Governor;Roque Fernández;https://en.wikipedia.org/wiki/Roque_Fernández;Q7366791;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Mario Blejer;ARG;President / Governor;Mario Blejer;https://en.wikipedia.org/wiki/Mario_Blejer;Q3914720;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Mario Blejer;ARG;President / Governor;Mario Blejer;https://en.wikipedia.org/wiki/Mario_Blejer;Q3914720;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Juan Fabrega;ARG;President / Governor;Juan Carlos Fábrega;https://en.wikipedia.org/wiki/Juan_Carlos_Fábrega;Q15216933;34.74193548387097;partial_title|name_similarity:0.77|econ_context|country_hint|role_hint
+Aldo Pignanelli;ARG;President / Governor;Aldo Pignanelli;https://en.wikipedia.org/wiki/Aldo_Pignanelli;Q5664480;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Nestor Kirchner;ARG;President / Governor;Néstor Kirchner;https://en.wikipedia.org/wiki/Néstor_Kirchner;Q170899;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Cristina Kirchner;ARG;President / Governor;Cristina Fernández de Kirchner;https://en.wikipedia.org/wiki/Cristina_Fernández_de_Kirchner;Q40649;34.234042553191486;partial_title|name_similarity:0.72|econ_context|country_hint|role_hint
+Alberto Fernandez;ARG;Vice-president / Deputy-governor;Alberto Fernández;https://en.wikipedia.org/wiki/Alberto_Fernández;Q2642828;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Mauricio Macri;ARG;President / Governor;Mauricio Macri;https://en.wikipedia.org/wiki/Mauricio_Macri;Q561837;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Martin Redrado;ARG;Board member;Martín Redrado;https://en.wikipedia.org/wiki/Martín_Redrado;Q952055;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Alejandro Vanoli;ARG;President / Governor;Alejandro Vanoli;https://en.wikipedia.org/wiki/Alejandro_Vanoli;Q18218133;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Luis Caputo;ARG;President / Governor;Luis Caputo;https://en.wikipedia.org/wiki/Luis_Caputo;Q28058800;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Federico Sturzenegger;ARG;President / Governor;Federico Sturzenegger;https://en.wikipedia.org/wiki/Federico_Sturzenegger;Q16302129;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Guido Sandleris;ARG;President / Governor;Guido Sandleris;https://en.wikipedia.org/wiki/Guido_Sandleris;Q56742850;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Santiago Bausili;ARG;President / Governor;Santiago Bausili;https://en.wikipedia.org/wiki/Santiago_Bausili;Q123764093;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+* Gomez;ARG;President / Governor;Papu Gómez;https://en.wikipedia.org/wiki/Papu_Gómez;Q965846;16.666666666666664;shared_last_name|name_similarity:0.67|country_hint
+Grigor Jaghetyan;ARM;President / Governor;Grigor Jaghetyan;https://en.wikipedia.org/wiki/Grigor_Jaghetyan;Q20513008;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Isahak Isahakyan;ARM;President / Governor;Isahak Isahakyan;https://en.wikipedia.org/wiki/Isahak_Isahakyan;Q16730071;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Bagrat Asatryan;ARM;President / Governor;Bagrat Asatryan;https://en.wikipedia.org/wiki/Bagrat_Asatryan;Q4071171;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Tigran Sargsyan;ARM;President / Governor;Tigran Sargsyan;https://en.wikipedia.org/wiki/Tigran_Sargsyan;Q110233;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Vache Gabrielyan;ARM;Board member;Vache Gabrielyan;https://en.wikipedia.org/wiki/Vache_Gabrielyan;Q7907998;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Vache Gabrielyan;ARM;Vice-president / Deputy-governor;Vache Gabrielyan;https://en.wikipedia.org/wiki/Vache_Gabrielyan;Q7907998;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Nerses Yeritsyan;ARM;Vice-president / Deputy-governor;Nerses Yeritsyan;https://en.wikipedia.org/wiki/Nerses_Yeritsyan;Q1985828;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Arkadi Khachatryan;ARM;Board member;Arkadi Khachatryan;https://en.wikipedia.org/wiki/Arkadi_Khachatryan;Q60717461;44.0;exact_title|name_similarity:1.00|country_hint|role_hint
+Martin Galstyan;ARM;President / Governor;Martin Galstyan;https://en.wikipedia.org/wiki/Martin_Galstyan;Q90902573;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Grigory Smirnov;ARM;President / Governor;Grigory Smirnov;https://en.wikipedia.org/wiki/Grigory_Smirnov;Q22922400;35.0;exact_title|name_similarity:1.00
+Hovhannes Davtyan;ARM;President / Governor;Hovhannes Davtyan (actor);https://en.wikipedia.org/wiki/Hovhannes_Davtyan_(actor);Q24702860;30.5;strong_title|name_similarity:0.85|country_hint
+Arthur Stepanyan;ARM;Board member;Arthur Stepanyan;https://en.wikipedia.org/wiki/Arthur_Stepanyan;Q4442019;39.0;exact_title|name_similarity:1.00|country_hint
+Herbert Coombs;AUS;President / Governor;H. C. Coombs;https://en.wikipedia.org/wiki/H._C._Coombs;Q5628110;29.666666666666664;shared_last_name|name_similarity:0.67|econ_context|country_hint|role_hint
+John Phillips;AUS;President / Governor;John Phillips;https://en.wikipedia.org/wiki/John_Phillips;Q246456;42.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint|disambiguation_penalty
+Harold Knight;AUS;President / Governor;H. M. Knight;https://en.wikipedia.org/wiki/H._M._Knight;Q5628398;29.956521739130434;shared_last_name|name_similarity:0.70|econ_context|country_hint|role_hint
+Bob Johnston;AUS;President / Governor;Bob Johnston (economist);https://en.wikipedia.org/wiki/Bob_Johnston_(economist);Q4932952;42.05882352941177;strong_title|name_similarity:0.71|econ_context|country_hint|role_hint
+Frank Lowy;AUS;Board member;Frank Lowy;https://en.wikipedia.org/wiki/Frank_Lowy;Q1277577;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Alan Jackson;AUS;Board member;Alan Jackson;https://en.wikipedia.org/wiki/Alan_Jackson;Q380927;40.0;exact_title|name_similarity:1.00|role_hint
+Hugh Morgan;AUS;Board member;Hugh Morgan (businessman);https://en.wikipedia.org/wiki/Hugh_Morgan_(businessman);Q5932027;41.470588235294116;strong_title|name_similarity:0.65|econ_context|country_hint|role_hint
+Bernie Fraser;AUS;President / Governor;Bernie Fraser (economist);https://en.wikipedia.org/wiki/Bernie_Fraser_(economist);Q4894388;42.22222222222222;strong_title|name_similarity:0.72|econ_context|country_hint|role_hint
+Richard Warburton;AUS;Board member;Richard Warburton;https://en.wikipedia.org/wiki/Richard_Warburton;Q7329803;40.0;exact_title|name_similarity:1.00|role_hint
+Roger Corbett;AUS;Board member;Roger Corbett;https://en.wikipedia.org/wiki/Roger_Corbett;Q7358020;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Robert Gerard;AUS;Board member;Robert Gerard;https://en.wikipedia.org/wiki/Robert_Gerard;Q7344731;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Stephen Grenville;AUS;Vice-president / Deputy-governor;Stephen Grenville Fremantle;https://en.wikipedia.org/wiki/Stephen_Grenville_Fremantle;Q75696910;30.727272727272727;strong_title|name_similarity:0.77|role_hint
+Jillian Broadbent;AUS;President / Governor;Jillian Broadbent;https://en.wikipedia.org/wiki/Jillian_Broadbent;Q16123989;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+John Akehurst;AUS;Board member;John Akehurst;https://en.wikipedia.org/wiki/John_Akehurst;Q6218391;35.0;exact_title|name_similarity:1.00
+John Edwards;AUS;Board member;John Edwards;https://en.wikipedia.org/wiki/John_Edwards;Q217314;48.0;exact_title|name_similarity:1.00|econ_context|role_hint
+Allan Moss;AUS;Board member;Allan Moss;https://en.wikipedia.org/wiki/Allan_Moss;Q4730873;44.0;exact_title|name_similarity:1.00|country_hint|role_hint
+Donald Mcgauchie;AUS;President / Governor;Donald McGauchie;https://en.wikipedia.org/wiki/Donald_McGauchie;Q5294835;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Heather Ridout;AUS;Board member;Heather Ridout;https://en.wikipedia.org/wiki/Heather_Ridout;Q5694068;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Carolyn Hewson;AUS;Board member;Carolyn Hewson;https://en.wikipedia.org/wiki/Carolyn_Hewson;Q55584096;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+David Clarke;AUS;Board member;David Clarke Sr.;https://en.wikipedia.org/wiki/David_Clarke_Sr.;Q5233161;35.888888888888886;strong_title|name_similarity:0.89|country_hint|role_hint
+Warwick Mckibbin;AUS;President / Governor;Warwick McKibbin;https://en.wikipedia.org/wiki/Warwick_McKibbin;Q7971156;39.0;exact_title|name_similarity:1.00|country_hint
+Ian Harper;AUS;Board member;Ian Harper;https://en.wikipedia.org/wiki/Ian_Harper;Q5981743;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Glenn Stevens;AUS;President / Governor;Glenn Stevens;https://en.wikipedia.org/wiki/Glenn_Stevens;Q1813984;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Iain Ross;AUS;Board member;Iain Ross (judge);https://en.wikipedia.org/wiki/Iain_Ross_(judge);Q61052425;42.5;strong_title|name_similarity:0.75|econ_context|country_hint|role_hint
+Kathryn Fagg;AUS;Board member;Kathryn Fagg;https://en.wikipedia.org/wiki/Kathryn_Fagg;Q53568318;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Philip Lowe;AUS;President / Governor;Philip Lowe;https://en.wikipedia.org/wiki/Philip_Lowe;Q27922677;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Alison Watkins;AUS;Board member;Alison Watkins;https://en.wikipedia.org/wiki/Alison_Watkins;Q67205468;44.0;exact_title|name_similarity:1.00|country_hint|role_hint
+Michele Bullock;AUS;Vice-president / Deputy-governor;Michele Bullock;https://en.wikipedia.org/wiki/Michele_Bullock;Q112491545;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Michele Bullock;AUS;President / Governor;Michele Bullock;https://en.wikipedia.org/wiki/Michele_Bullock;Q112491545;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Brad Banducci;AUS;Board member;Brad Banducci;https://en.wikipedia.org/wiki/Brad_Banducci;Q28771408;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Guy Debelle;AUS;Vice-president / Deputy-governor;Guy Debelle;https://en.wikipedia.org/wiki/Guy_Debelle;Q31079680;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Guy Debelle;AUS;Vice-president / Deputy-governor;Guy Debelle;https://en.wikipedia.org/wiki/Guy_Debelle;Q31079680;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Andrew Charlton;AUS;Board member;Andrew Charlton;https://en.wikipedia.org/wiki/Andrew_Charlton;Q112567447;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Hans Kloss;AUT;President / Governor;Hans Kloss (bank manager);https://en.wikipedia.org/wiki/Hans_Kloss_(bank_manager);Q1580768;41.06060606060606;strong_title|name_similarity:0.61|econ_context|country_hint|role_hint
+Maria Schaumayer;AUT;President / Governor;Maria Schaumayer;https://en.wikipedia.org/wiki/Maria_Schaumayer;Q1277360;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Claus Raidl;AUT;President / Governor;Claus Raidl;https://en.wikipedia.org/wiki/Claus_Raidl;Q1098779;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Ewald Nowotny;AUT;President / Governor;Ewald Nowotny;https://en.wikipedia.org/wiki/Ewald_Nowotny;Q88443;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Robert Holzmann;AUT;President / Governor;Robert Holzmann;https://en.wikipedia.org/wiki/Robert_Holzmann;Q22005045;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Johannes Hahn;AUT;Board member;Johannes Hahn;https://en.wikipedia.org/wiki/Johannes_Hahn;Q78647;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Martin Kocher;AUT;President / Governor;Martin Kocher;https://en.wikipedia.org/wiki/Martin_Kocher;Q18222522;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Stephan Koren;AUT;President / Governor;Elisabeth Bleyleben-Koren;https://en.wikipedia.org/wiki/Elisabeth_Bleyleben-Koren;Q1329787;27.736842105263158;shared_last_name|name_similarity:0.47|econ_context|country_hint|role_hint
+Elman Rustamov;AZE;President / Governor;Elman Rustamov;https://en.wikipedia.org/wiki/Elman_Rustamov;Q1813593;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Taleh Kazimov;AZE;President / Governor;Taleh Kazimov;https://en.wikipedia.org/wiki/Taleh_Kazimov;Q108823069;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Mathias Sinamenye;BDI;President / Governor;Mathias Sinamenye;https://en.wikipedia.org/wiki/Mathias_Sinamenye;Q3298604;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Gabriel Ntisezerana;BDI;President / Governor;Gabriel Ntisezerana;https://en.wikipedia.org/wiki/Gabriel_Ntisezerana;Q1803951;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Maurice Frere;BEL;President / Governor;Maurice Frère;https://en.wikipedia.org/wiki/Maurice_Frère;Q3300806;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Hubert Ansiaux;BEL;President / Governor;Hubert Ansiaux;https://en.wikipedia.org/wiki/Hubert_Ansiaux;Q742865;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Robert Vandeputte;BEL;President / Governor;Robert Vandeputte;https://en.wikipedia.org/wiki/Robert_Vandeputte;Q1898248;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Jean Godeaux;BEL;President / Governor;Jean Godeaux;https://en.wikipedia.org/wiki/Jean_Godeaux;Q2241115;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Alfons Verplaetse;BEL;President / Governor;Alfons Verplaetse;https://en.wikipedia.org/wiki/Alfons_Verplaetse;Q2521512;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Alfons Verplaetse;BEL;President / Governor;Alfons Verplaetse;https://en.wikipedia.org/wiki/Alfons_Verplaetse;Q2521512;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Guy Quaden;BEL;President / Governor;Guy Quaden;https://en.wikipedia.org/wiki/Guy_Quaden;Q1774517;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Luc Coene;BEL;President / Governor;Luc Coene;https://en.wikipedia.org/wiki/Luc_Coene;Q466176;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Peter Praet;BEL;Board member;Peter Praet;https://en.wikipedia.org/wiki/Peter_Praet;Q539287;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Peter Praet;BEL;Board member;Peter Praet;https://en.wikipedia.org/wiki/Peter_Praet;Q539287;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Gerald Frere;BEL;Board member;Gérald Frère;https://en.wikipedia.org/wiki/Gérald_Frère;Q3123617;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Rudi Thomaes;BEL;Board member;Rudi Thomaes;https://en.wikipedia.org/wiki/Rudi_Thomaes;Q2030643;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Carl Devlies;BEL;Board member;Carl Devlies;https://en.wikipedia.org/wiki/Carl_Devlies;Q1037486;40.0;exact_title|name_similarity:1.00|role_hint
+Jean Six;BEL;Board member;Jean Six;https://en.wikipedia.org/wiki/Jean_Six;Q3174652;35.0;exact_title|name_similarity:1.00
+Pieter Timmermans;BEL;Board member;Pieter Timmermans;https://en.wikipedia.org/wiki/Pieter_Timmermans;Q18402469;39.0;exact_title|name_similarity:1.00|country_hint
+Steven Vanackere;BEL;Vice-president / Deputy-governor;Steven Vanackere;https://en.wikipedia.org/wiki/Steven_Vanackere;Q2067763;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Steven Vanackere;BEL;Vice-president / Deputy-governor;Steven Vanackere;https://en.wikipedia.org/wiki/Steven_Vanackere;Q2067763;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Cedric Frere;BEL;Board member;Gérald Frère;https://en.wikipedia.org/wiki/Gérald_Frère;Q3123617;29.666666666666664;shared_last_name|name_similarity:0.67|econ_context|country_hint|role_hint
+Adidjatou Mathys;BEN;Board member;Adidjatou Mathys;https://en.wikipedia.org/wiki/Adidjatou_Mathys;Q106764634;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Damo Baro;BFA;President / Governor;Justin Damo Baro;https://en.wikipedia.org/wiki/Justin_Damo_Baro;Q3190428;34.2;partial_title|name_similarity:0.72|econ_context|country_hint|role_hint
+Damo Baro;BFA;President / Governor;Justin Damo Baro;https://en.wikipedia.org/wiki/Justin_Damo_Baro;Q3190428;34.2;partial_title|name_similarity:0.72|econ_context|country_hint|role_hint
+Justin Baro;BFA;President / Governor;Justin Damo Baro;https://en.wikipedia.org/wiki/Justin_Damo_Baro;Q3190428;35.148148148148145;partial_title|name_similarity:0.81|econ_context|country_hint|role_hint
+Nurul Islam;BGD;President / Governor;Nurul Islam;https://en.wikipedia.org/wiki/Nurul_Islam;Q7070305;42.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint|disambiguation_penalty
+A Ahmed;BGD;President / Governor;Z. A. Ahmed;https://en.wikipedia.org/wiki/Z._A._Ahmed;Q13115148;31.75;partial_title|name_similarity:0.88|econ_context|role_hint
+A Ahmed;BGD;President / Governor;Z. A. Ahmed;https://en.wikipedia.org/wiki/Z._A._Ahmed;Q13115148;31.75;partial_title|name_similarity:0.88|econ_context|role_hint
+Khorshed Alam;BGD;President / Governor;Khorshed Alam;https://en.wikipedia.org/wiki/Khorshed_Alam;Q24943799;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Fakhruddin Ahmed;BGD;President / Governor;Fakhruddin Ahmed;https://en.wikipedia.org/wiki/Fakhruddin_Ahmed;Q560060;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Fakhruddin Ahmed;BGD;President / Governor;Fakhruddin Ahmed;https://en.wikipedia.org/wiki/Fakhruddin_Ahmed;Q560060;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Mohammed Farashuddin;BGD;President / Governor;Mohammed Farashuddin;https://en.wikipedia.org/wiki/Mohammed_Farashuddin;Q24943804;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Atiur Rahman;BGD;President / Governor;Atiur Rahman;https://en.wikipedia.org/wiki/Atiur_Rahman;Q3350886;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Ahsan Mansur;BGD;President / Governor;Ahsan H. Mansur;https://en.wikipedia.org/wiki/Ahsan_H._Mansur;Q116759475;36.23076923076923;partial_title|name_similarity:0.92|econ_context|country_hint|role_hint
+Abul Quasem;BGD;President / Governor;Mohammad Abul Quasem;https://en.wikipedia.org/wiki/Mohammad_Abul_Quasem;Q106410468;34.096774193548384;partial_title|name_similarity:0.71|econ_context|country_hint|role_hint
+S Rahman;BGD;Board member;Talat Rahman;https://en.wikipedia.org/wiki/Talat_Rahman;Q88416015;21.0;shared_last_name|name_similarity:0.70|econ_context
+Nazrul Huda;BGD;Board member;A. T. M. Zahurul Huq;https://en.wikipedia.org/wiki/A._T._M._Zahurul_Huq;Q131994915;17.714285714285715;name_similarity:0.57|econ_context|country_hint
+Nasiruddin Ahmed;BGD;Board member;Nasiruddin Ahmed;https://en.wikipedia.org/wiki/Nasiruddin_Ahmed;Q124956231;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Mohammad Tareque;BGD;Board member;Mohammad Tareque;https://en.wikipedia.org/wiki/Mohammad_Tareque;Q131601693;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Fazle Kabir;BGD;President / Governor;Fazle Kabir;https://en.wikipedia.org/wiki/Fazle_Kabir;Q23304407;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Mohammad Chowdhury;BGD;Board member;Niaz Mohammad Chowdhury;https://en.wikipedia.org/wiki/Niaz_Mohammad_Chowdhury;Q63184452;22.78048780487805;partial_title|name_similarity:0.88|country_hint
+Nojibur Rahman;BGD;Board member;Md. Nojibur Rahman;https://en.wikipedia.org/wiki/Md._Nojibur_Rahman;Q124972501;36.03225806451613;partial_title|name_similarity:0.90|econ_context|country_hint|role_hint
+Ahmed Jamal;BGD;Vice-president / Deputy-governor;Ahmed Jamal;https://en.wikipedia.org/wiki/Ahmed_Jamal;Q92767713;25.0;exact_title|name_similarity:1.00|disambiguation_penalty
+Salehuddin Ahmed;BGD;President / Governor;Salehuddin Ahmed (economist);https://en.wikipedia.org/wiki/Salehuddin_Ahmed_(economist);Q20202812;42.61904761904762;strong_title|name_similarity:0.76|econ_context|country_hint|role_hint
+Salehuddin Ahmed;BGD;President / Governor;Salehuddin Ahmed (economist);https://en.wikipedia.org/wiki/Salehuddin_Ahmed_(economist);Q20202812;42.61904761904762;strong_title|name_similarity:0.76|econ_context|country_hint|role_hint
+M Khan;BGD;Vice-president / Deputy-governor;Lina Khan;https://en.wikipedia.org/wiki/Lina_Khan;Q56523534;20.666666666666664;shared_last_name|name_similarity:0.67|econ_context
+Mostakur Rahman;BGD;President / Governor;Md Mostaqur Rahman;https://en.wikipedia.org/wiki/Md_Mostaqur_Rahman;Q138464766;31.484848484848484;shared_last_name|name_similarity:0.85|econ_context|country_hint|role_hint
+Salahuddin Ahmed;BGD;President / Governor;Salahuddin Ahmed;https://en.wikipedia.org/wiki/Salahuddin_Ahmed;Q19745126;29.0;exact_title|name_similarity:1.00|country_hint|disambiguation_penalty
+Salahuddin Ahmed;BGD;President / Governor;Salahuddin Ahmed;https://en.wikipedia.org/wiki/Salahuddin_Ahmed;Q19745126;29.0;exact_title|name_similarity:1.00|country_hint|disambiguation_penalty
+Ghulam Hussain;BGD;President / Governor;Ghulam Hussain (civil servant);https://en.wikipedia.org/wiki/Ghulam_Hussain_(civil_servant);Q124978513;41.666666666666664;strong_title|name_similarity:0.67|econ_context|country_hint|role_hint
+Md Rahman;BGD;Board member;MD Rahman;https://en.wikipedia.org/wiki/MD_Rahman;Q116741180;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Md Rahman;BGD;Vice-president / Deputy-governor;MD Rahman;https://en.wikipedia.org/wiki/MD_Rahman;Q116741180;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Statty Stattev;BGR;Board member;Stati Statev;https://en.wikipedia.org/wiki/Stati_Statev;Q12295085;20.46153846153846;name_similarity:0.85|econ_context|country_hint
+Dimitar Radev;BGR;President / Governor;Dimitar Radev;https://en.wikipedia.org/wiki/Dimitar_Radev;Q25431484;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Dimitar Kostov;BGR;Vice-president / Deputy-governor;Dimitar Kostov;https://en.wikipedia.org/wiki/Dimitar_Kostov;Q3707774;39.0;exact_title|name_similarity:1.00|country_hint
+Nikolay Nenovsky;BGR;Board member;Nikolay Nenovsky;https://en.wikipedia.org/wiki/Nikolay_Nenovsky;Q718970;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Ivan Iskrov;BGR;President / Governor;Ivan Iskrov;https://en.wikipedia.org/wiki/Ivan_Iskrov;Q1774671;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Ivan Iskrov;BGR;President / Governor;Ivan Iskrov;https://en.wikipedia.org/wiki/Ivan_Iskrov;Q1774671;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Ivan Iskrov;BGR;Vice-president / Deputy-governor;Ivan Iskrov;https://en.wikipedia.org/wiki/Ivan_Iskrov;Q1774671;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Andrey Gurov;BGR;Vice-president / Deputy-governor;Andrey Gurov;https://en.wikipedia.org/wiki/Andrey_Gurov;Q20036949;35.0;exact_title|name_similarity:1.00
+Petar Chobanov;BGR;Vice-president / Deputy-governor;Petar Chobanov;https://en.wikipedia.org/wiki/Petar_Chobanov;Q15732366;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Petar Chobanov;BGR;Vice-president / Deputy-governor;Petar Chobanov;https://en.wikipedia.org/wiki/Petar_Chobanov;Q15732366;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Vasil Kolarov;BGR;President / Governor;Vasil Kolarov;https://en.wikipedia.org/wiki/Vasil_Kolarov;Q350248;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Ahmed Khalifa;BHR;President / Governor;Ahmed Khalifa;https://en.wikipedia.org/wiki/Ahmed_Khalifa;Q16223711;35.0;exact_title|name_similarity:1.00
+Ahmed Khalifa;BHR;President / Governor;Ahmed Khalifa;https://en.wikipedia.org/wiki/Ahmed_Khalifa;Q16223711;35.0;exact_title|name_similarity:1.00
+Abdullah Khalifa;BHR;President / Governor;Khalid bin Abdullah Al Khalifa;https://en.wikipedia.org/wiki/Khalid_bin_Abdullah_Al_Khalifa;Q16730783;33.95652173913044;partial_title|name_similarity:0.70|econ_context|country_hint|role_hint
+Timothy Donaldson;BHS;President / Governor;Timothy Donaldson;https://en.wikipedia.org/wiki/Timothy_Donaldson;Q7807158;43.0;exact_title|name_similarity:1.00|econ_context
+Julian Francis;BHS;President / Governor;Frank Francis;https://en.wikipedia.org/wiki/Frank_Francis;Q646445;26.407407407407405;shared_last_name|name_similarity:0.74|econ_context|role_hint
+Julian Francis;BHS;President / Governor;Frank Francis;https://en.wikipedia.org/wiki/Frank_Francis;Q646445;26.407407407407405;shared_last_name|name_similarity:0.74|econ_context|role_hint
+Duane Sands;BHS;President / Governor;Duane Sands;https://en.wikipedia.org/wiki/Duane_Sands;Q104414309;35.0;exact_title|name_similarity:1.00
+John Rolle;BHS;President / Governor;John Rolle, 1st Baron Rolle;https://en.wikipedia.org/wiki/John_Rolle,_1st_Baron_Rolle;Q6255491;31.555555555555557;strong_title|name_similarity:0.56|econ_context
+William Allen;BHS;President / Governor;William Allen (governor);https://en.wikipedia.org/wiki/William_Allen_(governor);Q880659;38.42857142857143;strong_title|name_similarity:0.74|econ_context|role_hint
+James Smith;BHS;President / Governor;James Smith Cree Nation;https://en.wikipedia.org/wiki/James_Smith_Cree_Nation;Q6143359;24.470588235294116;strong_title|name_similarity:0.65
+Julian Francis;BHS;President / Governor;Frank Francis;https://en.wikipedia.org/wiki/Frank_Francis;Q646445;26.407407407407405;shared_last_name|name_similarity:0.74|econ_context|role_hint
+Wendy Craigg;BHS;President / Governor;Wendy Craigg;https://en.wikipedia.org/wiki/Wendy_Craigg;Q16187819;48.0;exact_title|name_similarity:1.00|econ_context|role_hint
+Jure Pelivan;BIH;Board member;Jure Pelivan;https://en.wikipedia.org/wiki/Jure_Pelivan;Q16513879;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Peter Nicholl;BIH;President / Governor;Peter Nicholl;https://en.wikipedia.org/wiki/Peter_Nicholl;Q7176092;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Senad Softic;BIH;President / Governor;Jasmina Selimović;https://en.wikipedia.org/wiki/Jasmina_Selimović;Q137599400;22.517241379310345;name_similarity:0.55|econ_context|country_hint|role_hint
+Jasmina Selimovic;BIH;President / Governor;Jasmina Selimović;https://en.wikipedia.org/wiki/Jasmina_Selimović;Q137599400;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Ljubomir Kovacevic;BIH;Board member;Ljubomir Kovačević;https://en.wikipedia.org/wiki/Ljubomir_Kovačević;Q14506819;35.0;exact_title|name_similarity:1.00
+Pyotr Prokopovich;BLR;President / Governor;Pyotr Prokopovich;https://en.wikipedia.org/wiki/Pyotr_Prokopovich;Q4380355;35.0;exact_title|name_similarity:1.00
+Nadezhda Yermakova;BLR;President / Governor;Nadezhda Yermakova;https://en.wikipedia.org/wiki/Nadezhda_Yermakova;Q3646683;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Pavel Kalaur;BLR;President / Governor;Pavel Kallaur;https://en.wikipedia.org/wiki/Pavel_Kallaur;Q18710422;26.6;name_similarity:0.96|econ_context|country_hint|role_hint
+Pavel Kallaur;BLR;President / Governor;Pavel Kallaur;https://en.wikipedia.org/wiki/Pavel_Kallaur;Q18710422;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Alexander Lobanov;BLR;Board member;Alexander Lobanov (artist);https://en.wikipedia.org/wiki/Alexander_Lobanov_(artist);Q1857695;26.29268292682927;strong_title|name_similarity:0.83
+Edney Cain;BLZ;President / Governor;Edney Cain;https://en.wikipedia.org/wiki/Edney_Cain;Q26997689;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Edney Cain;BLZ;President / Governor;Edney Cain;https://en.wikipedia.org/wiki/Edney_Cain;Q26997689;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Joy Grant;BLZ;President / Governor;Joy Grant;https://en.wikipedia.org/wiki/Joy_Grant;Q18978033;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Carla Barnett;BLZ;Vice-president / Deputy-governor;Carla Barnett;https://en.wikipedia.org/wiki/Carla_Barnett;Q86004208;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Jaime Briceno;BLZ;Board member;Johnny Briceño;https://en.wikipedia.org/wiki/Johnny_Briceño;Q6266369;16.666666666666664;shared_last_name|name_similarity:0.67|country_hint
+Francis Fonseca;BLZ;Board member;Francis Fonseca;https://en.wikipedia.org/wiki/Francis_Fonseca;Q5480967;39.0;exact_title|name_similarity:1.00|country_hint
+Robert Swift;BLZ;President / Governor;Robert Swift;https://en.wikipedia.org/wiki/Robert_Swift;Q2657620;35.0;exact_title|name_similarity:1.00
+Keith Arnold;BLZ;President / Governor;Keith Arnold (bishop);https://en.wikipedia.org/wiki/Keith_Arnold_(bishop);Q6383998;25.741935483870968;strong_title|name_similarity:0.77
+Nestor Vasquez;BLZ;Vice-president / Deputy-governor;Jules Vasquez;https://en.wikipedia.org/wiki/Jules_Vasquez;Q66661710;30.407407407407405;shared_last_name|name_similarity:0.74|econ_context|country_hint|role_hint
+Matthew Elderfield;BMU;President / Governor;Matthew Elderfield;https://en.wikipedia.org/wiki/Matthew_Elderfield;Q6790458;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Raul Rodriguez;BOL;President / Governor;Raúl Rodríguez (boxer);https://en.wikipedia.org/wiki/Raúl_Rodríguez_(boxer);Q7299837;26.235294117647058;strong_title|name_similarity:0.82
+Pablo Sanchez;BOL;President / Governor;Pablo Sánchez-Valladares;https://en.wikipedia.org/wiki/Pablo_Sánchez-Valladares;Q95494523;25.027027027027028;strong_title|name_similarity:0.70
+Armando Morales;BOL;President / Governor;Armando Morales;https://en.wikipedia.org/wiki/Armando_Morales;Q4792796;35.0;exact_title|name_similarity:1.00
+Juan Morales;BOL;President / Governor;Juan Morales (hurdler);https://en.wikipedia.org/wiki/Juan_Morales_(hurdler);Q522917;25.5;strong_title|name_similarity:0.75
+Marcelo Zabalaga;BOL;President / Governor;Marcelo Zabalaga;https://en.wikipedia.org/wiki/Marcelo_Zabalaga;Q11988100;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Guillermo Ortiz;BOL;President / Governor;Guillermo Ortiz Martínez;https://en.wikipedia.org/wiki/Guillermo_Ortiz_Martínez;Q911058;38.69230769230769;strong_title|name_similarity:0.77|econ_context|role_hint
+Jose Gutierrez;BOL;President / Governor;José Gutiérrez Guerra;https://en.wikipedia.org/wiki/José_Gutiérrez_Guerra;Q3306291;43.0;strong_title|name_similarity:0.80|econ_context|country_hint|role_hint
+Luis Cordero;BOL;President / Governor;Luis Cordero Crespo;https://en.wikipedia.org/wiki/Luis_Cordero_Crespo;Q889119;38.74193548387097;strong_title|name_similarity:0.77|econ_context|role_hint
+Alberto Gonzales;BOL;President / Governor;Alberto Gonzales;https://en.wikipedia.org/wiki/Alberto_Gonzales;Q202350;35.0;exact_title|name_similarity:1.00
+Luis Pacheco;BOL;President / Governor;Luis Pacheco de Narváez;https://en.wikipedia.org/wiki/Luis_Pacheco_de_Narváez;Q2370221;24.857142857142858;strong_title|name_similarity:0.69
+Oscar Lopez;BOL;President / Governor;Oscar López Rivera;https://en.wikipedia.org/wiki/Oscar_López_Rivera;Q7106111;38.58620689655172;strong_title|name_similarity:0.76|econ_context|role_hint
+Manuel Montero;BOL;President / Governor;Manuel Montero;https://en.wikipedia.org/wiki/Manuel_Montero;Q6752744;35.0;exact_title|name_similarity:1.00
+Jose Aguilera;BOL;President / Governor;José Aguilera;https://en.wikipedia.org/wiki/José_Aguilera;Q56842928;35.0;exact_title|name_similarity:1.00
+Luis Cruz;BOL;President / Governor;Luis Cruz;https://en.wikipedia.org/wiki/Luis_Cruz;Q3266651;35.0;exact_title|name_similarity:1.00
+Fernando Castillo;BOL;President / Governor;Fernando Castillo Velasco metro station;https://en.wikipedia.org/wiki/Fernando_Castillo_Velasco_metro_station;Q5970123;37.07142857142857;strong_title|name_similarity:0.61|econ_context|role_hint
+Juan Morales;BOL;President / Governor;Juan Morales (hurdler);https://en.wikipedia.org/wiki/Juan_Morales_(hurdler);Q522917;25.5;strong_title|name_similarity:0.75
+Jose Vizcarra;BOL;Board member;José Vizcarra;https://en.wikipedia.org/wiki/José_Vizcarra;Q124250285;33.0;exact_title|name_similarity:1.00|econ_context|disambiguation_penalty
+Ernane Galveas;BRA;President / Governor;Ernane Galvêas;https://en.wikipedia.org/wiki/Ernane_Galvêas;Q5861550;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Ernane Galveas;BRA;President / Governor;Ernane Galvêas;https://en.wikipedia.org/wiki/Ernane_Galvêas;Q5861550;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Carlos Brandao;BRA;President / Governor;Carlos Brandão;https://en.wikipedia.org/wiki/Carlos_Brandão;Q18707872;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Affonso Pastore;BRA;President / Governor;Affonso Celso Pastore;https://en.wikipedia.org/wiki/Affonso_Celso_Pastore;Q4689024;35.333333333333336;partial_title|name_similarity:0.83|econ_context|country_hint|role_hint
+Paulo Lira;BRA;President / Governor;Vinicius Lira;https://en.wikipedia.org/wiki/Vinicius_Lira;Q131935711;15.217391304347826;shared_last_name|name_similarity:0.52|country_hint
+Paulo Cunha;BRA;Board member;Paulo Cunha (businessman);https://en.wikipedia.org/wiki/Paulo_Cunha_(businessman);Q10346617;41.470588235294116;strong_title|name_similarity:0.65|econ_context|country_hint|role_hint
+Pedro Malan;BRA;President / Governor;Pedro Malan;https://en.wikipedia.org/wiki/Pedro_Malan;Q376883;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Carlos Freitas;BRA;President / Governor;Carlos Freitas;https://en.wikipedia.org/wiki/Carlos_Freitas;Q27830845;35.0;exact_title|name_similarity:1.00
+Carlos Freitas;BRA;Board member;Carlos Freitas;https://en.wikipedia.org/wiki/Carlos_Freitas;Q27830845;35.0;exact_title|name_similarity:1.00
+Francisco Lopes;BRA;President / Governor;Francisco Lopes;https://en.wikipedia.org/wiki/Francisco_Lopes;Q3062583;48.0;exact_title|name_similarity:1.00|econ_context|role_hint
+Maria Arraes;BRA;Board member;Maria Arraes;https://en.wikipedia.org/wiki/Maria_Arraes;Q115550538;44.0;exact_title|name_similarity:1.00|country_hint|role_hint
+Antonio Vale;BRA;President / Governor;António do Vale;https://en.wikipedia.org/wiki/António_do_Vale;Q128106768;18.88888888888889;partial_title|name_similarity:0.89
+Antonio Vale;BRA;Board member;António do Vale;https://en.wikipedia.org/wiki/António_do_Vale;Q128106768;18.88888888888889;partial_title|name_similarity:0.89
+Persio Arida;BRA;President / Governor;Pérsio Arida;https://en.wikipedia.org/wiki/Pérsio_Arida;Q7264675;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Maria Arraes;BRA;Board member;Maria Arraes;https://en.wikipedia.org/wiki/Maria_Arraes;Q115550538;44.0;exact_title|name_similarity:1.00|country_hint|role_hint
+Gustavo Franco;BRA;President / Governor;Gustavo Franco;https://en.wikipedia.org/wiki/Gustavo_Franco;Q5621403;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Beny Parnes;BRA;President / Governor;Beny Parnes;https://en.wikipedia.org/wiki/Beny_Parnes;Q4890727;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Luiz Silva;BRA;President / Governor;Luiz Inácio Lula da Silva;https://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva;Q37181;32.714285714285715;partial_title|name_similarity:0.57|econ_context|country_hint|role_hint
+Mario Toros;BRA;President / Governor;Mario Toros;https://en.wikipedia.org/wiki/Mario_Toros;Q3849154;48.0;exact_title|name_similarity:1.00|econ_context|role_hint
+Alexandre Schwartsman;BRA;President / Governor;Alexandre Schwartsman;https://en.wikipedia.org/wiki/Alexandre_Schwartsman;Q15126857;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Alexandre Tombini;BRA;Board member;Alexandre Tombini;https://en.wikipedia.org/wiki/Alexandre_Tombini;Q3376150;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Alexandre Tombini;BRA;Board member;Alexandre Tombini;https://en.wikipedia.org/wiki/Alexandre_Tombini;Q3376150;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Paulo Cavalheiro;BRA;Vice-president / Deputy-governor;Paulo Cavalheiro;https://en.wikipedia.org/wiki/Paulo_Cavalheiro;Q58892300;39.0;exact_title|name_similarity:1.00|country_hint
+Luiz Figueiredo;BRA;President / Governor;Luiz Alberto Figueiredo;https://en.wikipedia.org/wiki/Luiz_Alberto_Figueiredo;Q14699824;21.894736842105264;partial_title|name_similarity:0.79|country_hint
+Luiz Figueiredo;BRA;Vice-president / Deputy-governor;Luiz Alberto Figueiredo;https://en.wikipedia.org/wiki/Luiz_Alberto_Figueiredo;Q14699824;21.894736842105264;partial_title|name_similarity:0.79|country_hint
+Carlos Araujo;BRA;President / Governor;Carlos Araujo;https://en.wikipedia.org/wiki/Carlos_Araujo;Q5041788;35.0;exact_title|name_similarity:1.00
+Ilan Goldfajn;BRA;President / Governor;Ilan Goldfajn;https://en.wikipedia.org/wiki/Ilan_Goldfajn;Q25439494;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Sergio Alves;BRA;President / Governor;Sérgio Alves;https://en.wikipedia.org/wiki/Sérgio_Alves;Q10376096;39.0;exact_title|name_similarity:1.00|country_hint
+Paulo Cunha;BRA;President / Governor;Paulo Cunha (businessman);https://en.wikipedia.org/wiki/Paulo_Cunha_(businessman);Q10346617;41.470588235294116;strong_title|name_similarity:0.65|econ_context|country_hint|role_hint
+Rodrigo Teixeira;BRA;Board member;Rodrigo Teixeira;https://en.wikipedia.org/wiki/Rodrigo_Teixeira;Q7357431;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Bruno Fernandes;BRA;Board member;Bruno F. Fernandes;https://en.wikipedia.org/wiki/Bruno_F._Fernandes;Q15704621;36.375;partial_title|name_similarity:0.94|econ_context|country_hint|role_hint
+Gabriel Galipolo;BRA;Board member;Gabriel Galípolo;https://en.wikipedia.org/wiki/Gabriel_Galípolo;Q118333955;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Gabriel Galipolo;BRA;President / Governor;Gabriel Galípolo;https://en.wikipedia.org/wiki/Gabriel_Galípolo;Q118333955;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Joao Teixeira;BRA;Board member;João Teixeira de Faria;https://en.wikipedia.org/wiki/João_Teixeira_de_Faria;Q576918;29.42857142857143;strong_title|name_similarity:0.74|country_hint
+Carlos Carvalho;BRA;Board member;Carlos Carvalho;https://en.wikipedia.org/wiki/Carlos_Carvalho;Q79423309;39.0;exact_title|name_similarity:1.00|country_hint
+Renato Gomes;BRA;Vice-president / Deputy-governor;Renato Gomes;https://en.wikipedia.org/wiki/Renato_Gomes;Q2143612;39.0;exact_title|name_similarity:1.00|country_hint
+Courtney Blackman;BRB;President / Governor;Courtney Blackman;https://en.wikipedia.org/wiki/Courtney_Blackman;Q5178581;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Delisle Worrell;BRB;President / Governor;DeLisle Worrell;https://en.wikipedia.org/wiki/DeLisle_Worrell;Q19372427;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Calvin Springer;BRB;President / Governor;Calvin S. Hall;https://en.wikipedia.org/wiki/Calvin_S._Hall;Q1027727;18.714285714285715;name_similarity:0.57|econ_context|role_hint
+Winston Cox;BRB;President / Governor;Joseph Winston Cox;https://en.wikipedia.org/wiki/Joseph_Winston_Cox;Q6288027;30.586206896551722;partial_title|name_similarity:0.76|econ_context|role_hint
+Marion Williams;BRB;President / Governor;Marion Williams;https://en.wikipedia.org/wiki/Marion_Williams;Q4470088;35.0;exact_title|name_similarity:1.00
+Haji Daud;BRN;Board member;Mohammad bin Daud;https://en.wikipedia.org/wiki/Mohammad_bin_Daud;Q117042830;16.153846153846153;shared_last_name|name_similarity:0.62|country_hint
+Haji Daud;BRN;Board member;Mohammad bin Daud;https://en.wikipedia.org/wiki/Mohammad_bin_Daud;Q117042830;16.153846153846153;shared_last_name|name_similarity:0.62|country_hint
+Haji Metussin;BRN;President / Governor;Abdul Manaf Metussin;https://en.wikipedia.org/wiki/Abdul_Manaf_Metussin;Q113630374;29.060606060606062;shared_last_name|name_similarity:0.61|econ_context|country_hint|role_hint
+Abdul Ibrahim;BRN;Board member;Abdul Ibrahim (politician);https://en.wikipedia.org/wiki/Abdul_Ibrahim_(politician);Q108062292;30.027027027027028;strong_title|name_similarity:0.70|role_hint
+Mohammad Umar;BRN;Board member;Mohammad Umar (Sindh cricketer);https://en.wikipedia.org/wiki/Mohammad_Umar_(Sindh_cricketer);Q85786039;24.19047619047619;strong_title|name_similarity:0.62
+Charles Kikonyogo;BWA;President / Governor;Charles Kikonyogo Nyonyintono;https://en.wikipedia.org/wiki/Charles_Kikonyogo_Nyonyintono;Q138542252;38.391304347826086;strong_title|name_similarity:0.74|econ_context|role_hint
+Charles Kikonyogo;BWA;President / Governor;Charles Kikonyogo Nyonyintono;https://en.wikipedia.org/wiki/Charles_Kikonyogo_Nyonyintono;Q138542252;38.391304347826086;strong_title|name_similarity:0.74|econ_context|role_hint
+Festus Mogae;BWA;President / Governor;Festus Mogae;https://en.wikipedia.org/wiki/Festus_Mogae;Q193238;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Festus Mogae;BWA;President / Governor;Festus Mogae;https://en.wikipedia.org/wiki/Festus_Mogae;Q193238;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Baledzi Gaolathe;BWA;President / Governor;Ndaba Gaolathe;https://en.wikipedia.org/wiki/Ndaba_Gaolathe;Q117843828;30.333333333333332;shared_last_name|name_similarity:0.73|econ_context|country_hint|role_hint
+Linah Mohohlo;BWA;President / Governor;Linah Mohohlo;https://en.wikipedia.org/wiki/Linah_Mohohlo;Q6550228;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Linah Mohohlo;BWA;President / Governor;Linah Mohohlo;https://en.wikipedia.org/wiki/Linah_Mohohlo;Q6550228;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+R Matthews;BWA;Board member;D. R. Matthews;https://en.wikipedia.org/wiki/D._R._Matthews;Q1240249;24.09090909090909;partial_title|name_similarity:0.91|role_hint
+Ali Chaibou;CAF;Board member;Ali Saibou;https://en.wikipedia.org/wiki/Ali_Saibou;Q448655;21.57142857142857;name_similarity:0.86|econ_context|role_hint
+Abbas Tolli;CAF;President / Governor;Abbas Tolli;https://en.wikipedia.org/wiki/Abbas_Tolli;Q55606323;48.0;exact_title|name_similarity:1.00|econ_context|role_hint
+Tahir Nguilin;CAF;Board member;Tahir Hamid Nguilin;https://en.wikipedia.org/wiki/Tahir_Hamid_Nguilin;Q89875464;31.125;partial_title|name_similarity:0.81|econ_context|role_hint
+Graham Towers;CAN;President / Governor;Graham Towers;https://en.wikipedia.org/wiki/Graham_Towers;Q2423265;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Louis Rasminsky;CAN;President / Governor;Louis Rasminsky;https://en.wikipedia.org/wiki/Louis_Rasminsky;Q6688034;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+James Coyne;CAN;Board member;James Coyne;https://en.wikipedia.org/wiki/James_Coyne;Q92784300;35.0;exact_title|name_similarity:1.00
+James Coyne;CAN;President / Governor;James Coyne;https://en.wikipedia.org/wiki/James_Coyne;Q92784300;35.0;exact_title|name_similarity:1.00
+Gilles Loiselle;CAN;Board member;Gilles Loiselle;https://en.wikipedia.org/wiki/Gilles_Loiselle;Q3106364;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+John Crow;CAN;President / Governor;John Crow;https://en.wikipedia.org/wiki/John_Crow;Q6227768;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+John Crow;CAN;President / Governor;John Crow;https://en.wikipedia.org/wiki/John_Crow;Q6227768;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Paul Martin;CAN;Board member;Paul Martin;https://en.wikipedia.org/wiki/Paul_Martin;Q128529;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Gordon Thiessen;CAN;President / Governor;Gordon Thiessen;https://en.wikipedia.org/wiki/Gordon_Thiessen;Q3110930;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+John Palmer;CAN;President / Governor;John Palmer MacBeth;https://en.wikipedia.org/wiki/John_Palmer_MacBeth;Q6251828;42.33333333333333;strong_title|name_similarity:0.73|econ_context|country_hint|role_hint
+David Dodge;CAN;President / Governor;David Dodge;https://en.wikipedia.org/wiki/David_Dodge;Q3017781;42.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint|disambiguation_penalty
+Malcolm Knight;CAN;Vice-president / Deputy-governor;Malcolm Knight;https://en.wikipedia.org/wiki/Malcolm_Knight;Q6742427;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Daniel Johnson;CAN;Board member;Daniel Johnson Jr.;https://en.wikipedia.org/wiki/Daniel_Johnson_Jr.;Q3014237;44.03225806451613;strong_title|name_similarity:0.90|econ_context|country_hint|role_hint
+Pierre Duguay;CAN;President / Governor;Joseph Duguay;https://en.wikipedia.org/wiki/Joseph_Duguay;Q284599;16.153846153846153;shared_last_name|name_similarity:0.62|country_hint
+Ralph Goodale;CAN;Board member;Ralph Goodale;https://en.wikipedia.org/wiki/Ralph_Goodale;Q2070905;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Jim Flaherty;CAN;Board member;Jim Flaherty;https://en.wikipedia.org/wiki/Jim_Flaherty;Q644783;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+John Manley;CAN;Board member;John Manley;https://en.wikipedia.org/wiki/John_Manley;Q1389967;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+William Black;CAN;Board member;William K. Black;https://en.wikipedia.org/wiki/William_K._Black;Q3568755;32.285714285714285;partial_title|name_similarity:0.93|econ_context|role_hint
+Paul Haggis;CAN;Board member;Paul Haggis;https://en.wikipedia.org/wiki/Paul_Haggis;Q314935;44.0;exact_title|name_similarity:1.00|country_hint|role_hint
+Norman Betts;CAN;Board member;Norman Betts;https://en.wikipedia.org/wiki/Norman_Betts;Q7051969;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Stephen Poloz;CAN;President / Governor;Stephen Poloz;https://en.wikipedia.org/wiki/Stephen_Poloz;Q15127111;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Sheryl Kennedy;CAN;Vice-president / Deputy-governor;Sheryl Kennedy;https://en.wikipedia.org/wiki/Sheryl_Kennedy;Q74733410;35.0;exact_title|name_similarity:1.00
+Jean Simon;CAN;Board member;Jean-Simon Berthélemy;https://en.wikipedia.org/wiki/Jean-Simon_Berthélemy;Q3174641;24.451612903225808;strong_title|name_similarity:0.65
+Carol Hansell;CAN;Board member;Carol Hansell;https://en.wikipedia.org/wiki/Carol_Hansell;Q5044356;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Paul Beaudry;CAN;Vice-president / Deputy-governor;Paul Beaudry;https://en.wikipedia.org/wiki/Paul_Beaudry;Q7149281;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Tiff Macklem;CAN;Board member;Tiff Macklem;https://en.wikipedia.org/wiki/Tiff_Macklem;Q15127104;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Lynn Patterson;CAN;Board member;Jared Patterson;https://en.wikipedia.org/wiki/Jared_Patterson;Q88385976;17.896551724137932;shared_last_name|name_similarity:0.69|role_hint
+Tiff Macklem;CAN;President / Governor;Tiff Macklem;https://en.wikipedia.org/wiki/Tiff_Macklem;Q15127104;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Bill Morneau;CAN;Board member;Bill Morneau;https://en.wikipedia.org/wiki/Bill_Morneau;Q21175197;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Mark Carney;CAN;President / Governor;Mark Carney;https://en.wikipedia.org/wiki/Mark_Carney;Q192533;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Paul Jenkins;CAN;Vice-president / Deputy-governor;Paul Jenkins (economist);https://en.wikipedia.org/wiki/Paul_Jenkins_(economist);Q7151571;42.05882352941177;strong_title|name_similarity:0.71|econ_context|country_hint|role_hint
+Stephanie Bowman;CAN;Board member;Stephanie Bowman;https://en.wikipedia.org/wiki/Stephanie_Bowman;Q112622508;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Chrystia Freeland;CAN;Board member;Chrystia Freeland;https://en.wikipedia.org/wiki/Chrystia_Freeland;Q4492815;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Jean Boivin;CAN;Board member;Jean Boivin the Younger;https://en.wikipedia.org/wiki/Jean_Boivin_the_Younger;Q775414;37.470588235294116;strong_title|name_similarity:0.65|econ_context|role_hint
+Colin Dodds;CAN;Board member;J. Colin Dodds;https://en.wikipedia.org/wiki/J._Colin_Dodds;Q6105164;32.166666666666664;partial_title|name_similarity:0.92|econ_context|role_hint
+Robert Campbell;CAN;Board member;Robert Campbell Reeve;https://en.wikipedia.org/wiki/Robert_Campbell_Reeve;Q15485871;34.333333333333336;strong_title|name_similarity:0.83|econ_context
+Nicolas Vincent;CAN;Vice-president / Deputy-governor;Nicolas Vincent;https://en.wikipedia.org/wiki/Nicolas_Vincent;Q3340855;35.0;exact_title|name_similarity:1.00
+August Burckhardt;CHE;President / Governor;Rudy Burckhardt;https://en.wikipedia.org/wiki/Rudy_Burckhardt;Q7377582;17.5;shared_last_name|name_similarity:0.75|country_hint
+Ernst Weber;CHE;President / Governor;Ernst Weber (engineer);https://en.wikipedia.org/wiki/Ernst_Weber_(engineer);Q90248;38.096774193548384;strong_title|name_similarity:0.71|econ_context|role_hint
+Paul Keller;CHE;President / Governor;Paul Kenneth Keller;https://en.wikipedia.org/wiki/Paul_Kenneth_Keller;Q4249931;17.333333333333332;partial_title|name_similarity:0.73
+Peter Gerber;CHE;Board member;Peter Gerber;https://en.wikipedia.org/wiki/Peter_Gerber;Q3376604;48.0;exact_title|name_similarity:1.00|econ_context|role_hint
+Fritz Leutwiler;CHE;President / Governor;Fritz Leutwiler;https://en.wikipedia.org/wiki/Fritz_Leutwiler;Q15810789;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Hans Meyer;CHE;President / Governor;Hans Meyer Range;https://en.wikipedia.org/wiki/Hans_Meyer_Range;Q1577940;25.692307692307693;strong_title|name_similarity:0.77
+Henri Andre;CHE;Board member;Henri-André Laperrière;https://en.wikipedia.org/wiki/Henri-André_Laperrière;Q1605651;37.666666666666664;strong_title|name_similarity:0.67|econ_context|role_hint
+George Rich;CHE;Board member;George Rich;https://en.wikipedia.org/wiki/George_Rich;Q5543840;35.0;exact_title|name_similarity:1.00
+Ueli Forster;CHE;Board member;Ueli Forster;https://en.wikipedia.org/wiki/Ueli_Forster;Q15851950;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Yvette Jaggi;CHE;Board member;Yvette Jaggi;https://en.wikipedia.org/wiki/Yvette_Jaggi;Q2602315;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Jean Roth;CHE;President / Governor;Jean Roth;https://en.wikipedia.org/wiki/Jean_Roth;Q690351;35.0;exact_title|name_similarity:1.00
+Ruth Luthi;CHE;Board member;Ruth Lüthi;https://en.wikipedia.org/wiki/Ruth_Lüthi;Q2177682;44.0;exact_title|name_similarity:1.00|country_hint|role_hint
+Gerold Buhrer;CHE;Board member;Gerold Bührer;https://en.wikipedia.org/wiki/Gerold_Bührer;Q120521;40.0;exact_title|name_similarity:1.00|role_hint
+Konrad Hummler;CHE;Board member;Konrad Hummler;https://en.wikipedia.org/wiki/Konrad_Hummler;Q122631;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Eveline Schlumpf;CHE;Board member;Eveline Widmer-Schlumpf;https://en.wikipedia.org/wiki/Eveline_Widmer-Schlumpf;Q162767;35.205128205128204;partial_title|name_similarity:0.82|econ_context|country_hint|role_hint
+Jean Studer;CHE;Board member;Jean Studer;https://en.wikipedia.org/wiki/Jean_Studer;Q28093932;35.0;exact_title|name_similarity:1.00
+Heinz Karrer;CHE;Board member;Heinz Karrer;https://en.wikipedia.org/wiki/Heinz_Karrer;Q15814933;35.0;exact_title|name_similarity:1.00
+Simonetta Sommaruga;CHE;Board member;Simonetta Sommaruga;https://en.wikipedia.org/wiki/Simonetta_Sommaruga;Q122991;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Philipp Hildebrand;CHE;President / Governor;Philipp Hildebrand;https://en.wikipedia.org/wiki/Philipp_Hildebrand;Q116927;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Thomas Jordan;CHE;President / Governor;Thomas Jordan (economist);https://en.wikipedia.org/wiki/Thomas_Jordan_(economist);Q2425188;42.22222222222222;strong_title|name_similarity:0.72|econ_context|country_hint|role_hint
+Barbara Steiner;CHE;Board member;Barbara Steiner;https://en.wikipedia.org/wiki/Barbara_Steiner;Q95206216;40.0;exact_title|name_similarity:1.00|role_hint
+Renaud Planta;CHE;Board member;Renaud de Planta;https://en.wikipedia.org/wiki/Renaud_de_Planta;Q97383430;30.96551724137931;partial_title|name_similarity:0.90|econ_context|country_hint
+Andrea Maechler;CHE;Board member;Andréa Maechler;https://en.wikipedia.org/wiki/Andréa_Maechler;Q18683282;48.0;exact_title|name_similarity:1.00|econ_context|role_hint
+Antoine Martin;CHE;Vice-president / Deputy-governor;Antoine Martin (boxer);https://en.wikipedia.org/wiki/Antoine_Martin_(boxer);Q9156300;26.235294117647058;strong_title|name_similarity:0.82
+Martin Schlegel;CHE;Vice-president / Deputy-governor;Martin Schlegel;https://en.wikipedia.org/wiki/Martin_Schlegel;Q117352902;48.0;exact_title|name_similarity:1.00|econ_context|role_hint
+Martin Schlegel;CHE;Board member;Martin Schlegel;https://en.wikipedia.org/wiki/Martin_Schlegel;Q117352902;48.0;exact_title|name_similarity:1.00|econ_context|role_hint
+Thomas Moser;CHE;Board member;Thomas Moser;https://en.wikipedia.org/wiki/Thomas_Moser;Q992843;35.0;exact_title|name_similarity:1.00
+Sergio Silva;CHL;President / Governor;Esperanza Silva;https://en.wikipedia.org/wiki/Esperanza_Silva;Q5840226;16.666666666666664;shared_last_name|name_similarity:0.67|country_hint
+Carlos Romo;CHL;Board member;Carlos Romo;https://en.wikipedia.org/wiki/Carlos_Romo;Q28842071;35.0;exact_title|name_similarity:1.00
+Carlos Massad;CHL;President / Governor;Carlos Massad;https://en.wikipedia.org/wiki/Carlos_Massad;Q5750927;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Carlos Rodriguez;CHL;President / Governor;Carlos Rodríguez Braun;https://en.wikipedia.org/wiki/Carlos_Rodríguez_Braun;Q16543425;26.421052631578945;strong_title|name_similarity:0.84
+Andres Larre;CHL;President / Governor;Juan Andres Larré;https://en.wikipedia.org/wiki/Juan_Andres_Larré;Q3187704;18.275862068965516;partial_title|name_similarity:0.83
+Maria Ovalle;CHL;Board member;José Tomás Ovalle;https://en.wikipedia.org/wiki/José_Tomás_Ovalle;Q1709663;24.20689655172414;shared_last_name|name_similarity:0.62|econ_context|country_hint
+Alvaro Munoz;CHL;President / Governor;Álvaro Muñoz;https://en.wikipedia.org/wiki/Álvaro_Muñoz;Q16623968;25.0;exact_title|name_similarity:1.00|disambiguation_penalty
+Carlos Contreras;CHL;President / Governor;Carlos Contreras Labarca;https://en.wikipedia.org/wiki/Carlos_Contreras_Labarca;Q29032759;43.0;strong_title|name_similarity:0.80|econ_context|country_hint|role_hint
+Pablo Pinera;CHL;President / Governor;José Piñera;https://en.wikipedia.org/wiki/José_Piñera;Q664693;29.956521739130434;shared_last_name|name_similarity:0.70|econ_context|country_hint|role_hint
+Jorge Desormeaux;CHL;Vice-president / Deputy-governor;Jorge Desormeaux;https://en.wikipedia.org/wiki/Jorge_Desormeaux;Q5934867;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Jorge Jimenez;CHL;Board member;Jorge Jiménez Cantú;https://en.wikipedia.org/wiki/Jorge_Jiménez_Cantú;Q6278171;39.125;strong_title|name_similarity:0.81|econ_context|role_hint
+Enrique Marshall;CHL;Board member;Jorge Marshall;https://en.wikipedia.org/wiki/Jorge_Marshall;Q5551906;25.333333333333332;shared_last_name|name_similarity:0.73|econ_context|country_hint
+Jorge Jimenez;CHL;Vice-president / Deputy-governor;Jorge Jiménez Cantú;https://en.wikipedia.org/wiki/Jorge_Jiménez_Cantú;Q6278171;39.125;strong_title|name_similarity:0.81|econ_context|role_hint
+Manuel Marfan;CHL;Vice-president / Deputy-governor;Manuel Marfán;https://en.wikipedia.org/wiki/Manuel_Marfán;Q5669247;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Jorge Rivera;CHL;Vice-president / Deputy-governor;Jorge Rivera Vicuña;https://en.wikipedia.org/wiki/Jorge_Rivera_Vicuña;Q12176838;29.741935483870968;strong_title|name_similarity:0.77|country_hint
+Jorge Marshall;CHL;Vice-president / Deputy-governor;Jorge Marshall;https://en.wikipedia.org/wiki/Jorge_Marshall;Q5551906;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Rosanna Costa;CHL;President / Governor;Rosanna Costa;https://en.wikipedia.org/wiki/Rosanna_Costa;Q6112329;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Jose Gregorio;CHL;Board member;José Gregorio Salazar;https://en.wikipedia.org/wiki/José_Gregorio_Salazar;Q376057;38.64705882352941;strong_title|name_similarity:0.76|econ_context|role_hint
+Mario Marcel;CHL;President / Governor;Mario Marcel;https://en.wikipedia.org/wiki/Mario_Marcel;Q5998841;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Pablo Silva;CHL;Board member;Pablo Silva;https://en.wikipedia.org/wiki/Pablo_Silva;Q27988577;35.0;exact_title|name_similarity:1.00
+Rodrigo Montes;CHL;Board member;Rodrigo Montes;https://en.wikipedia.org/wiki/Rodrigo_Montes;Q108137717;35.0;exact_title|name_similarity:1.00
+Rodrigo Vergara;CHL;Board member;Rodrigo Vergara;https://en.wikipedia.org/wiki/Rodrigo_Vergara;Q3380860;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Sebastian Edwards;CHL;Board member;Sebastián Edwards;https://en.wikipedia.org/wiki/Sebastián_Edwards;Q7442638;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Sebastian Edwards;CHL;Vice-president / Deputy-governor;Sebastián Edwards;https://en.wikipedia.org/wiki/Sebastián_Edwards;Q7442638;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Pablo Garcia;CHL;Board member;Pablo P. Garcia;https://en.wikipedia.org/wiki/Pablo_P._Garcia;Q1867908;32.23076923076923;partial_title|name_similarity:0.92|econ_context|role_hint
+Alberto Naudon;CHL;Board member;Alberto Naudón;https://en.wikipedia.org/wiki/Alberto_Naudón;Q5663359;39.0;exact_title|name_similarity:1.00|country_hint
+Hernan Correa;CHL;President / Governor;María Silvia Correa;https://en.wikipedia.org/wiki/María_Silvia_Correa;Q104535085;28.0;shared_last_name|name_similarity:0.50|econ_context|country_hint|role_hint
+Manuel Martinez;CHL;President / Governor;Manuel Martínez (athlete);https://en.wikipedia.org/wiki/Manuel_Martínez_(athlete);Q555905;25.894736842105264;strong_title|name_similarity:0.79
+Nan Hanchen;CHN;President / Governor;Nan Hanchen;https://en.wikipedia.org/wiki/Nan_Hanchen;Q4208360;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Cao Juru;CHN;President / Governor;Cao Juru;https://en.wikipedia.org/wiki/Cao_Juru;Q4208034;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Li Baohua;CHN;President / Governor;Li Baohua;https://en.wikipedia.org/wiki/Li_Baohua;Q4207972;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Chen Xiyu;CHN;President / Governor;Chen Xiyu;https://en.wikipedia.org/wiki/Chen_Xiyu;Q4251574;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Hu Lijiao;CHN;President / Governor;Hu Lijiao;https://en.wikipedia.org/wiki/Hu_Lijiao;Q4208000;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Chen Muhua;CHN;President / Governor;Chen Muhua;https://en.wikipedia.org/wiki/Chen_Muhua;Q701442;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Lu Peijian;CHN;President / Governor;Lü Peijian;https://en.wikipedia.org/wiki/Lü_Peijian;Q4251596;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Lu Peijian;CHN;President / Governor;Lü Peijian;https://en.wikipedia.org/wiki/Lü_Peijian;Q4251596;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Zhu Rongji;CHN;President / Governor;Zhu Rongji;https://en.wikipedia.org/wiki/Zhu_Rongji;Q18285;39.0;exact_title|name_similarity:1.00|country_hint
+Li Guixian;CHN;President / Governor;Li Guixian;https://en.wikipedia.org/wiki/Li_Guixian;Q710930;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Dai Xianglong;CHN;President / Governor;Dai Xianglong;https://en.wikipedia.org/wiki/Dai_Xianglong;Q834484;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Chen Yuan;CHN;Vice-president / Deputy-governor;Chen Yuan;https://en.wikipedia.org/wiki/Chen_Yuan;Q82260;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Wu Xiaoling;CHN;Vice-president / Deputy-governor;Wu Xiaoling;https://en.wikipedia.org/wiki/Wu_Xiaoling;Q9063789;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Wu Xiaoling;CHN;Board member;Wu Xiaoling;https://en.wikipedia.org/wiki/Wu_Xiaoling;Q9063789;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Wu Xiaoling;CHN;Board member;Wu Xiaoling;https://en.wikipedia.org/wiki/Wu_Xiaoling;Q9063789;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Zhou Xiaochuan;CHN;President / Governor;Zhou Xiaochuan;https://en.wikipedia.org/wiki/Zhou_Xiaochuan;Q198026;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Su Ning;CHN;Board member;Su Ning;https://en.wikipedia.org/wiki/Su_Ning;Q7630360;39.0;exact_title|name_similarity:1.00|country_hint
+Li Ruogu;CHN;Board member;Li Ruogu;https://en.wikipedia.org/wiki/Li_Ruogu;Q1822593;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Li Ruogu;CHN;Vice-president / Deputy-governor;Li Ruogu;https://en.wikipedia.org/wiki/Li_Ruogu;Q1822593;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Guo Shuqing;CHN;Board member;Guo Shuqing;https://en.wikipedia.org/wiki/Guo_Shuqing;Q5619614;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Xiang Junbo;CHN;Vice-president / Deputy-governor;Xiang Junbo;https://en.wikipedia.org/wiki/Xiang_Junbo;Q8044137;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Hu Xiaolian;CHN;Board member;Hu Xiaolian;https://en.wikipedia.org/wiki/Hu_Xiaolian;Q5924778;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Hu Xiaolian;CHN;Vice-president / Deputy-governor;Hu Xiaolian;https://en.wikipedia.org/wiki/Hu_Xiaolian;Q5924778;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Yi Gang;CHN;President / Governor;Yi Gang;https://en.wikipedia.org/wiki/Yi_Gang;Q4743711;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Liu Guoqiang;CHN;Board member;Liu Guoqiang;https://en.wikipedia.org/wiki/Liu_Guoqiang;Q8989806;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Liu Shiyu;CHN;Board member;Liu Shiyu;https://en.wikipedia.org/wiki/Liu_Shiyu;Q6653716;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Liu Shiyu;CHN;Vice-president / Deputy-governor;Liu Shiyu;https://en.wikipedia.org/wiki/Liu_Shiyu;Q6653716;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Pan Gongsheng;CHN;Vice-president / Deputy-governor;Pan Gongsheng;https://en.wikipedia.org/wiki/Pan_Gongsheng;Q9309080;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Pan Gongsheng;CHN;President / Governor;Pan Gongsheng;https://en.wikipedia.org/wiki/Pan_Gongsheng;Q9309080;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Fan Yifei;CHN;Vice-president / Deputy-governor;Fan Yifei;https://en.wikipedia.org/wiki/Fan_Yifei;Q16075858;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Chen Yulu;CHN;Vice-president / Deputy-governor;Chen Yulu;https://en.wikipedia.org/wiki/Chen_Yulu;Q8290352;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Liu Guiping;CHN;Board member;Liu Guiping;https://en.wikipedia.org/wiki/Liu_Guiping;Q85352738;47.0;exact_title|name_similarity:1.00|econ_context|country_hint
+Alassane Ouattara;CIV;President / Governor;Alassane Ouattara;https://en.wikipedia.org/wiki/Alassane_Ouattara;Q57413;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Alassane Ouattara;CIV;President / Governor;Alassane Ouattara;https://en.wikipedia.org/wiki/Alassane_Ouattara;Q57413;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
+Charles Banny;CIV;President / Governor;Charles Konan Banny;https://en.wikipedia.org/wiki/Charles_Konan_Banny;Q455728;35.125;partial_title|name_similarity:0.81|econ_context|country_hint|role_hint
+Charles Banny;CIV;Board member;Charles Konan Banny;https://en.wikipedia.org/wiki/Charles_Konan_Banny;Q455728;35.125;partial_title|name_similarity:0.81|econ_context|country_hint|role_hint
+Tiemoko Kone;CIV;President / Governor;Tiémoko Meyliet Koné;https://en.wikipedia.org/wiki/Tiémoko_Meyliet_Koné;Q19392607;34.5;partial_title|name_similarity:0.75|econ_context|country_hint|role_hint
+Justin Baro;CIV;President / Governor;Justin Damo Baro;https://en.wikipedia.org/wiki/Justin_Damo_Baro;Q3190428;35.148148148148145;partial_title|name_similarity:0.81|econ_context|country_hint|role_hint
+Justin Baro;CIV;President / Governor;Justin Damo Baro;https://en.wikipedia.org/wiki/Justin_Damo_Baro;Q3190428;35.148148148148145;partial_title|name_similarity:0.81|econ_context|country_hint|role_hint
+Mama Ouattara;CIV;Board member;Mama Ouattara;https://en.wikipedia.org/wiki/Mama_Ouattara;Q3284782;35.0;exact_title|name_similarity:1.00
+Mama Ouattara;CIV;Board member;Mama Ouattara;https://en.wikipedia.org/wiki/Mama_Ouattara;Q3284782;35.0;exact_title|name_similarity:1.00
+Casimir Oyemba;CMR;President / Governor;Casimir Oyé-Mba;https://en.wikipedia.org/wiki/Casimir_Oyé-Mba;Q127219;22.655172413793103;name_similarity:0.97|econ_context|role_hint
+Abbas Tolli;CMR;President / Governor;Abbas Tolli;https://en.wikipedia.org/wiki/Abbas_Tolli;Q55606323;48.0;exact_title|name_similarity:1.00|econ_context|role_hint
+Albert Ndele;COG;President / Governor;Albert Ndele;https://en.wikipedia.org/wiki/Albert_Ndele;Q285337;52.0;exact_title|name_similarity:1.00|econ_context|country_hint|role_hint
