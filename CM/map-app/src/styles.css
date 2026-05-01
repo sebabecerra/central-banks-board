@@ -27,12 +27,12 @@ a {
 
 .app-shell {
   min-height: 100vh;
-  padding: 32px;
+  padding: 24px 32px 40px;
 }
 
 .hero {
   margin: 0 auto 24px;
-  max-width: 1280px;
+  max-width: 1560px;
   background: var(--card);
   border: 1px solid var(--line);
   border-radius: 28px;
@@ -107,15 +107,15 @@ a {
 
 .layout {
   margin: 0 auto;
-  max-width: 1280px;
+  max-width: 1560px;
   display: grid;
-  grid-template-columns: minmax(0, 2fr) minmax(320px, 1fr);
-  gap: 20px;
+  grid-template-columns: minmax(0, 2.6fr) minmax(340px, 0.95fr);
+  gap: 24px;
 }
 
 .summary-strip {
   margin: 0 auto 20px;
-  max-width: 1280px;
+  max-width: 1560px;
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 14px;
@@ -151,7 +151,7 @@ a {
 }
 
 .map-card {
-  padding: 20px;
+  padding: 24px 26px 20px;
 }
 
 .map-toolbar {
@@ -181,6 +181,7 @@ a {
 .world-map {
   width: 100%;
   height: auto;
+  min-height: 620px;
 }
 
 .panel {
@@ -239,9 +240,27 @@ a {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  max-height: 62vh;
+  max-height: 68vh;
   overflow: auto;
   padding-right: 6px;
+}
+
+@media (min-width: 1500px) {
+  .layout,
+  .hero,
+  .summary-strip {
+    max-width: 1720px;
+  }
+
+  .world-map {
+    min-height: 700px;
+  }
+}
+
+@media (max-width: 1100px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
 }
 
 .record-card {
