@@ -1,4 +1,4 @@
-# central-banks-board
+# Central-banks-board
 
 Este repositorio está centrado principalmente en **rellenar `Bios_WebScrapping.xlsx` con la información pedida en el mail**, usando Wikipedia y Wikidata.
 
